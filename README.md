@@ -4,6 +4,10 @@ Nintendo Switch **천사의 시 2: The Fallen Angel** 한글 번역 패치 프�
 
 > **최종 배포 v1.5 Final**
 
+<!-- game-preview:start -->
+> 게임 소개 스크린샷은 준비 중입니다. 확인된 한글 화면을 확보하면 이 위치에 추가합니다.
+<!-- game-preview:end -->
+
 ## 다운로드 및 적용 방법
 
 1. 보유한 Switch판 게임의 Title ID가 `010047B021296000`인지 확인합니다.
