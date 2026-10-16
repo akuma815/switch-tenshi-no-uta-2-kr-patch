@@ -409,8 +409,8 @@
     },
     {
       "path": "translation/scripts/prepare_build_inputs.py",
-      "bytes": 6633,
-      "sha256": "521e40fec9855a5a938e698cceb248adb8721c21e6ff21bba3ecaea652573b8f"
+      "bytes": 6646,
+      "sha256": "266640ced87ff4eaaac43451c2185469e49e02ae0423e0a9711ed3e311b50dae"
     },
     {
       "path": "translation/scripts/remove_extra_style_tags.py",

@@ -71,7 +71,7 @@ def main():
     original_pngs = cache / 'manual_original_png'
     original_pngs.mkdir(exist_ok=True)
     for entry in delta_spec['entries']:
-        restore_manual(entry, manuals, TR / '매뉴얼_번역', original_pngs)
+        restore_manual(entry, manuals, TR / 'manual_patch_assets', original_pngs, a.xdelta)
     if spec['game_number'] == 2:
         cards = TR / 'card_game_extract'
         legacy = cards / 'legacy'
