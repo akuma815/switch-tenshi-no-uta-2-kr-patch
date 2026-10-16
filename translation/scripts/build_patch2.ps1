@@ -1,9 +1,11 @@
-﻿# ============================================================
+﻿param([string]$SourcePaks = '', [string]$RetocPath = '', [string]$RepakPath = '', [switch]$CurrentTranslations)
+# ============================================================
 # 천사의 시 2편 (The Fallen Angel) 한글 패치 원클릭 빌드 스크립트
 # 실행: powershell -ExecutionPolicy Bypass -File scripts\build_patch2.ps1
 # (작업 기준 폴더 = 이 스크립트의 상위 폴더 = translation)
 # ============================================================
 $ErrorActionPreference = "Stop"
+if (-not $CurrentTranslations) { $env:INCLUDE_MANUAL = '1' }
 $root = Split-Path $PSScriptRoot            # translation 폴더
 $scripts = $PSScriptRoot
 $gameRoot = Split-Path $root                # 게임 루트 폴더
@@ -30,6 +32,7 @@ $repak = Find-FirstExistingPath @(
     (Join-Path $gameRoot "tools\repak.exe"),
     (Join-Path $projectRoot "Tools\repak.exe")
 )
+if ($RepakPath) { $repak = (Resolve-Path -LiteralPath $RepakPath).Path }
 if (-not $repak) { throw "repak.exe를 찾을 수 없습니다. translation/tools, 게임 루트/tools 또는 공용 Tools 폴더를 확인하세요." }
 
 $paksCandidates = @(
@@ -45,11 +48,14 @@ foreach ($cand in $paksCandidates) {
         break
     }
 }
+$retoc = (Resolve-Path -LiteralPath $RetocPath).Path
+$repak = (Resolve-Path -LiteralPath $RepakPath).Path
+$paksDir = (Resolve-Path -LiteralPath $SourcePaks).Path
 $work = Join-Path $root "work"
 $srcDir = Join-Path $work "src"             # 원본 legacy 추출본
 $patchDir = Join-Path $work "patch_src"     # 패치 적용본 (to-zen 입력)
 $outDir = Join-Path $work "out"             # 빌드 결과
-$backup = Join-Path $root "백업_csv"
+$backup = Join-Path $work "csv"
 $sourceCache = Join-Path $root "source_cache"
 $manualCache = Join-Path $root "manual_source_cache"
 
@@ -79,13 +85,24 @@ function Copy-WithRetry([string]$source, [string]$destination, [int]$attempts = 
 }
 
 # ------------------------------------------------------------
+
+function Assert-IsolatedBuildWork([string]$path) {
+    $expected = [IO.Path]::GetFullPath((Join-Path $root 'work')).TrimEnd('\')
+    $actual = [IO.Path]::GetFullPath($path).TrimEnd('\')
+    if ($actual -cne $expected) { throw 'Build work path outside expected directory' }
+    if (Test-Path -LiteralPath $path) {
+        $items = @((Get-Item -LiteralPath $path -Force)) + @(Get-ChildItem -LiteralPath $path -Force -Recurse)
+        if (@($items | Where-Object { ($_.Attributes -band [IO.FileAttributes]::ReparsePoint) -ne 0 }).Count -ne 0) { throw 'Reparse point in build work directory' }
+    }
+}
+Assert-IsolatedBuildWork $work
 Step "0. 작업 폴더 초기화"
 # 원본 Paks가 없는 이동 환경에서도 마지막 정상 추출본을 빌드 입력으로 보존한다.
 if (-not (Test-Path $sourceCache) -and (Test-Path (Join-Path $work "src"))) {
     Copy-Item (Join-Path $work "src") $sourceCache -Recurse -Force
     Write-Host "  원본 추출 캐시 보존: $sourceCache"
 }
-if (($env:INCLUDE_MANUAL -eq "1") -and -not (Test-Path $manualCache) -and (Test-Path (Join-Path $work "manual_src"))) {
+if ($CurrentTranslations -and ($env:INCLUDE_MANUAL -eq "1") -and -not (Test-Path $manualCache) -and (Test-Path (Join-Path $work "manual_src"))) {
     Copy-Item (Join-Path $work "manual_src") $manualCache -Recurse -Force
     Write-Host "  매뉴얼 추출 캐시 보존: $manualCache"
 }
@@ -94,7 +111,7 @@ New-Item -ItemType Directory -Force -Path $srcDir, $patchDir, $outDir, $backup |
 
 # ------------------------------------------------------------
 Step "1. XLSX -> CSV (대사 + 크레딧/UI/게임선택)"
-python (Join-Path $scripts "xlsx2_to_csv.py") $root (Join-Path $work "tenshi_master.csv")
+python (Join-Path $scripts "xlsx2_to_csv.py") $root (Join-Path $work "tenshi_master.csv") $backup
 if ($LASTEXITCODE -ne 0) { throw "xlsx2_to_csv 실패" }
 foreach ($csvName in @("visualscene2_paired.csv", "outgameinfo2_paired.csv")) {
     $rootCsv = Join-Path $root $csvName
@@ -139,6 +156,11 @@ python (Join-Path $scripts "build_ui_replacements2.py") $srcDir (Join-Path $back
 python (Join-Path $scripts "build_st_replacements.py") "$content\Localization\DataTable_Game1\ST_OutGameInfo_Game1.uexp" (Join-Path $backup "outgameinfo2_paired.csv") (Join-Path $work "repl_st.json")
 
 # ------------------------------------------------------------
+if (-not $CurrentTranslations) {
+    foreach ($plan in @('repl_tenshi.json', 'repl_vs.json', 'repl_ui.json', 'repl_st.json')) {
+        Copy-Item -LiteralPath (Join-Path $root "../assets/release_plans/$plan") -Destination (Join-Path $work $plan) -Force
+    }
+}
 Step "6. 바이너리 패치 적용 (uexp 문자열 교체 + uasset SerialSize 갱신)"
 # 장면 8의 13.00~26.55초 자막 한 건은 원본 데이터에서 VisualSceneID가
 # 19로 잘못 지정되어 있다. 같은 길이의 임시 사본에서 ID만 교정한 뒤
@@ -228,9 +250,19 @@ Write-Host "  OK: WBP_LocalizeText (default font size 20)"
 Copy-Item (Join-Path $srcDir "scriptobjects.bin") $patchDir -Force
 
 # ------------------------------------------------------------
+if (-not $CurrentTranslations) {
+    $manualAssetRoot = Join-Path $root 'manual_patch_assets'
+    if (-not (Test-Path -LiteralPath $manualAssetRoot)) { throw 'Run prepare_build_inputs.py first; frozen manual assets are required' }
+    foreach ($asset in (Get-ChildItem -LiteralPath $manualAssetRoot -Recurse -File)) {
+        $relative = $asset.FullName.Substring($manualAssetRoot.Length + 1)
+        $destination = Join-Path $patchDir $relative
+        New-Item -ItemType Directory -Force -Path (Split-Path $destination) | Out-Null
+        Copy-Item -LiteralPath $asset.FullName -Destination $destination -Force
+    }
+}
 Step "6.5 매뉴얼 이미지 주입 (INCLUDE_MANUAL=1일 때만)"
 $manualPng = Join-Path $root "매뉴얼_번역"
-if (($env:INCLUDE_MANUAL -eq "1") -and (Test-Path $manualPng) -and (Get-ChildItem $manualPng -Filter "Manual2_*.png" -ErrorAction SilentlyContinue)) {
+if ($CurrentTranslations -and ($env:INCLUDE_MANUAL -eq "1") -and (Test-Path $manualPng) -and (Get-ChildItem $manualPng -Filter "Manual2_*.png" -ErrorAction SilentlyContinue)) {
     $manualSrc = Join-Path $work "manual_src"
     New-Item -ItemType Directory -Force -Path $manualSrc | Out-Null
     if ($paksDir) {
@@ -392,12 +424,4 @@ Write-Host "  OK: TenshiKR_Font_P.pak (low vertical metrics)"
 
 # ------------------------------------------------------------
 Step "9. Eden 모드 폴더로 복사"
-$edenPaks = "H:\Eden\user\load\010047B021296000\Korean_Patch\romfs\Emulator_Tenshinouta\Content\Paks"
-New-Item -ItemType Directory -Force -Path $edenPaks | Out-Null
-Copy-WithRetry (Join-Path $deploy "TenshiKR2_P.pak") $edenPaks
-Copy-WithRetry (Join-Path $deploy "TenshiKR2_P.ucas") $edenPaks
-Copy-WithRetry (Join-Path $deploy "TenshiKR2_P.utoc") $edenPaks
-Copy-WithRetry (Join-Path $deploy "TenshiKR_Font_P.pak") $edenPaks
-Get-ChildItem $edenPaks -Filter "TenshiKR*_P.*" | Format-Table Name, Length, LastWriteTime -AutoSize
-
-Write-Host "`n빌드 완료. patch_P와 Eden 모드 폴더에 파일을 배포했습니다." -ForegroundColor Green
+Write-Host "Build complete. Outputs remain in translation/patch_P; no emulator deployment."

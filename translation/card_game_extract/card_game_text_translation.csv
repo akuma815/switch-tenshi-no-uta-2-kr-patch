@@ -1,0 +1,56 @@
+asset,region,en,ko,notes
+card_game_award,title,Exchange,,
+card_game_award,reward_1,Prayer Shield ~ 2000 Points,,Repeated in card_game_award1
+card_game_award,reward_2,Moon Necklace ~ 1500 Points,달의 목걸이 ~ 1500점,Repeated in card_game_award2
+card_game_award,reward_3,Gloves of the Tree Fairy ~ 1000 Points,나무요정의 장갑 ~ 1000점,Repeated in card_game_award3
+card_game_award,reward_4,Holy Revival Wine ~ 800 Points,신주 리레이트 ~ 800점,Repeated in card_game_award4
+card_game_award,reward_5,El's Magic Water ~ 500 Points,,Repeated in card_game_award5
+card_game_award,reward_6,Goren Fruit ~ 200 Points,에이놈 열매 ~ 200점,Repeated in card_game_award6
+card_game_award,reward_7,Healen Grass ~ 100 Points,라이히초 ~ 100점,Repeated in card_game_award7
+card_game_award1,full_line,Prayer Shield ~ 2000 Points,,Standalone selection strip
+card_game_award2,full_line,Moon Necklace ~ 1500 Points,달의 목걸이 ~ 1500점,Standalone selection strip
+card_game_award3,full_line,Gloves of the Tree Fairy ~ 1000 Points,나무요정의 장갑 ~ 1000점,Standalone selection strip
+card_game_award4,full_line,Holy Revival Wine ~ 800 Points,신주 리레이트 ~ 800점,Standalone selection strip
+card_game_award5,full_line,El's Magic Water ~ 500 Points,,Standalone selection strip
+card_game_award6,full_line,Goren Fruit ~ 200 Points,에이놈 열매 ~ 200점,Standalone selection strip
+card_game_award7,full_line,Healen Grass ~ 100 Points,라이히초 ~ 100점,Standalone selection strip
+card_game_board,controls,[SELECT] Description\n[I] View card,,Two-line control legend
+card_game_board_master,message,Other player's turn,,
+card_game_board_player,message,Please show\nyour cards,,Two-line prompt shown in screenshot
+card_game_game_start,message,Let's decide who goes first.,,
+card_game_have,title,Player's hand,,
+card_game_have,label_20,20-point\ncard,,
+card_game_have,label_10,10-point\ncard,,
+card_game_have,label_5,5-point card,,Followed by count and card(s)
+card_game_have,label_1,1-point card,,Followed by count and card(s)
+card_game_have,count_suffix,card(s),,
+card_game_have_other,title,Other Player's hand,,
+card_game_help,role_venus,Venus,,
+card_game_help,role_duke,Duke,,
+card_game_help,role_star,Star,,
+card_game_help,role_ed,Ed,에드워드 왕,
+card_game_help,rule_world,World 150 PTS - All cards of the same color,,
+card_game_help,rule_great,Great 75~125 PTS - Four or more 20-point cards,,
+card_game_help,rule_mob,Mob 10 PTS - Seven or more character cards,,
+card_game_help,rule_item,Item 10 PTS - Five or more item cards,,
+card_game_help,rule_build,Build 10 PTS - Ten or more one-point cards,,
+card_game_result,player_score,Player's score,,
+card_game_result,master_score,Master's score,,
+card_game_result,current_points,Current point(s),,
+card_game_result,point_suffix,Point(s),,
+card_game_result,continue,Y/N Continue? Y/N,계속할까요? / Y/N,Y/N is kept in the original right-side position
+card_game_role02,label,Duke,,
+card_game_role03,label,Mob,,
+card_game_role04,label,Star,,
+card_game_role05,label,Great,,
+card_game_role06,label,Item,,
+card_game_role07,label,Ed,에드워드 왕,
+card_game_score_master,title,Master score breakdown,,
+card_game_score_player,title,Player score breakdown,,
+card_game_score_master,score_20,20-point card X = Points,,Also present in player score texture
+card_game_score_master,score_10,10-point card X = Points,,Also present in player score texture
+card_game_score_master,score_5,5-point card X = Points,,Also present in player score texture
+card_game_score_master,score_1,1-point card X = Point(s),,Also present in player score texture
+card_game_score_master,complete_hand,Complete hand,,Also present in player score texture
+card_game_score_master,roles,Venus / Duke / Mob / Star / Great / Item / Ed / World / Build,비너스 / 공작 / 인물 / 별 / 위인 / 아이템 / 에드워드 왕 / 세계 / 건물,Also present in player score texture
+card_game_score_master,total,Total Point(s),,Also present in player score texture

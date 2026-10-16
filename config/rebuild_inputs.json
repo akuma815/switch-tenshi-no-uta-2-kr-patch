@@ -1,0 +1,43 @@
+{
+  "game_number": 2,
+  "original_paks_sha256": {
+    "Emulator_Tenshinouta-Switch.pak": "5ac0a10a5059b562478ee2bf8243d3eab1fa773db6df912e7fbe6705c84c9cd7",
+    "Emulator_Tenshinouta-Switch.ucas": "d301e920a6876c46d3c0d4a37ee7808ff2029130015e443ec8fdba89b2d53885",
+    "Emulator_Tenshinouta-Switch.utoc": "22fa0a227a32ab8c6591142f7bfb3d4edaa01c89636ddca1b364b180947456cb",
+    "global.ucas": "83f659d3f67218159bbf240ffe26ba855743c70cf5c24d0739f40ded007a4e57",
+    "global.utoc": "2b838eb5d4a88412d6c2337f0a117da502ca999843ecffcd2ce7509859d443fb"
+  },
+  "original_packages": [
+    {
+      "folder": "Roms",
+      "name": "Tenshi no Uta - The Angel Verse 2 the Fallen Angel [010047B021296000][v0][US][Base].nsp",
+      "bytes": 771568976,
+      "sha256": "2e0d490d046267ff85cd25f3bd5a5e3013595e9718beaf615b969e62f69034df"
+    },
+    {
+      "folder": "Update",
+      "name": "Tenshi no Uta - The Angel Verse 2 the Fallen Angel [010047B021296800][v65536][US][Up v1.0.1].nsp",
+      "bytes": 53901136,
+      "sha256": "41c4e9c7f0fb7013cd2005dd0eb9e35e1cedc69babfac02ac31e60c66ef81e5a"
+    }
+  ],
+  "track02_source_sha256": "7566073a2aa1f48e7b39ed2b34277d9935fade8a3fad7dcc72c21276e2632af9",
+  "compiled_video_release": {
+    "filename": "Tenshi_no_Uta_II_KR_Patch_V1.5_Final.7z",
+    "url": "https://github.com/akuma815/switch-tenshi-no-uta-2-kr-patch/releases/download/v1.5/Tenshi_no_Uta_II_KR_Patch_V1.5_Final.7z",
+    "sha256": "044276f82d07e3707b8c3b633ee6304efa4f3093604eef2fae6061d9c6cce6b3",
+    "pak_sha256": "7c3ff25befc093346b4cd80e7af9a5dd8ec008be6e52652d7dc2dd961284340b",
+    "movie_sha256": {
+      "Game2Ending.mp4": "11a7e14cfe22e9698a3fc7725e408986789666237b17b563fb4d99d8b3809825",
+      "Game2Opening.mp4": "ab57b28feb979c442871423559b41eb20a16719b4a9c8d9c6dbcf3b34876bd61",
+      "Game2Scene01.mp4": "bd5870c43aaab7db1df0d56a101a691f0c6a72736996b65df05b17dc4b182ff0",
+      "Game2Scene04.mp4": "fcd2d256e98e2dfbda4bdfdb477f8b0c9a525b9bf02f2ddfb641c1449605ee21",
+      "Game2Scene05.mp4": "c4bc3371957947a9a6e4df1da3ef88f2e612bbf1d5d29f09abfb7f2b1e9ea250",
+      "Game2Scene07.mp4": "2f736fcccd7aa97dc100587fe065fa2b7b53229381108115bb3735f5abea79c0",
+      "Game2Scene08.mp4": "12c0c08906237a593d90d7b02ad418950cb6651bfb1da2ccd5131223b13fefac",
+      "Game2Scene09.mp4": "77586fef79060eb6fb3138c45c70c9c79c6921d6b29f513fbc96b9120753684b",
+      "Game2Scene10.mp4": "2ff34e46cd6bf802b873f7c1d73070646d1eb2bdac1562353f46fe11805a0b67",
+      "Game2Scene11.mp4": "e048f2b0c08b1aeb9cf52032aa244fe8190c24dc2038280d4f390287390fbeb0"
+    }
+  }
+}

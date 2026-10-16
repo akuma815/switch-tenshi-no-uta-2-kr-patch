@@ -12,7 +12,8 @@ from openpyxl import load_workbook
 
 base = sys.argv[1]
 out_master_csv = sys.argv[2]
-backup = os.path.join(base, "백업_csv")
+backup = sys.argv[3] if len(sys.argv) > 3 else os.path.join(base, "백업_csv")
+os.makedirs(backup, exist_ok=True)
 
 
 def read_xlsx(path, cols):

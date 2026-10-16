@@ -41,3 +41,5 @@ Nintendo Switch **천사의 시 2: The Fallen Angel** 한글 번역 패치 프�
 ## 소스 및 작업 기록
 
 [공개 소스 구성과 빌드 전제](docs/SOURCE_GUIDE.md) · [상세 패치 안내](docs/PATCH_GUIDE.txt)
+
+[2026-10-16 최종 빌드 재현·폴더 삭제 검토](docs/REBUILD_2026-10-16.md)

@@ -1,0 +1,1997 @@
+[
+ {
+  "offset": 48,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Fate",
+  "new_text": "페이트"
+ },
+ {
+  "offset": 117,
+  "old_encoding": "ascii",
+  "old_length_field": 64,
+  "old_text": "Good to see you've come to.\nThe name's Fate. What do you go by?",
+  "new_text": "다행이야, 정신이 들었구나.\n내 이름은 페이트, 너는?"
+ },
+ {
+  "offset": 219,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Liana",
+  "new_text": "리아나"
+ },
+ {
+  "offset": 243,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Liana.",
+  "new_text": "리아나"
+ },
+ {
+  "offset": 314,
+  "old_encoding": "ascii",
+  "old_length_field": 49,
+  "old_text": "Song of the Angel II\nChoices of the Fallen Angel",
+  "new_text": "천사의 시 II\n타락천사의 선택"
+ },
+ {
+  "offset": 445,
+  "old_encoding": "ascii",
+  "old_length_field": 34,
+  "old_text": "<Character Design>\nNobuteru Yuuki",
+  "new_text": "<캐릭터 디자인>\n유키 신키"
+ },
+ {
+  "offset": 537,
+  "old_encoding": "ascii",
+  "old_length_field": 26,
+  "old_text": "<Planning>\nAkifumi Kaneko",
+  "new_text": "<기획>\n카네코 아키후미"
+ },
+ {
+  "offset": 685,
+  "old_encoding": "utf16",
+  "old_length_field": -106,
+  "old_text": "　 <Voice Actors>\nKazuki Yao Yuriko Yamamoto\nShigeru Nakahara Toshiko Fujita\nNorio Wakamoto Kazuhiko Inoue",
+  "new_text": "＜성우진＞\n야오 카즈키　      야마모토 유리코\n나카하라 시게루　후지타 토시코\n와카모토 노리오　이노우에 카즈히코"
+ },
+ {
+  "offset": 995,
+  "old_encoding": "ascii",
+  "old_length_field": 85,
+  "old_text": "Kaneto Shiozawa Shozo Iizuka\nKatsuji Mori Kazue Ikura\nKiyoyuki Yanada Junko Hagimori",
+  "new_text": "시오자와 카네히토, 이이즈카 쇼조\n모리 코지, 이쿠라 카즈토\n야나다 키요유키, 하기모리 쿄코"
+ },
+ {
+  "offset": 1120,
+  "old_encoding": "ascii",
+  "old_length_field": 4,
+  "old_text": "Gia",
+  "new_text": "지아"
+ },
+ {
+  "offset": 1160,
+  "old_encoding": "ascii",
+  "old_length_field": 31,
+  "old_text": "Hasa Village!\nMy beloved home!",
+  "new_text": "내, 내 마을이!\n내 마을이 어떻게...!"
+ },
+ {
+  "offset": 1233,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Liana",
+  "new_text": "리아나"
+ },
+ {
+  "offset": 1271,
+  "old_encoding": "ascii",
+  "old_length_field": 22,
+  "old_text": "No...\nHow dreadful...",
+  "new_text": "너무해...\n어떻게 이런 짓을..."
+ },
+ {
+  "offset": 1331,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Lanzo",
+  "new_text": "란조"
+ },
+ {
+  "offset": 1355,
+  "old_encoding": "ascii",
+  "old_length_field": 14,
+  "old_text": "Who's there?!",
+  "new_text": "누구냐!"
+ },
+ {
+  "offset": 1411,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Lanzo",
+  "new_text": "란조"
+ },
+ {
+  "offset": 1443,
+  "old_encoding": "ascii",
+  "old_length_field": 14,
+  "old_text": "Show yerself!",
+  "new_text": "당장 튀어나와라!"
+ },
+ {
+  "offset": 1499,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Fate",
+  "new_text": "페이트"
+ },
+ {
+  "offset": 1528,
+  "old_encoding": "ascii",
+  "old_length_field": 11,
+  "old_text": "S-Sion...!",
+  "new_text": "시, 시온...!"
+ },
+ {
+  "offset": 1577,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Liana",
+  "new_text": "리아나"
+ },
+ {
+  "offset": 1613,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Why did you...",
+  "new_text": "어째서... 당신이..."
+ },
+ {
+  "offset": 1666,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Fate",
+  "new_text": "페이트"
+ },
+ {
+  "offset": 1717,
+  "old_encoding": "ascii",
+  "old_length_field": 28,
+  "old_text": "Tell me!\nWhy'd you do this?",
+  "new_text": "왜지\n네가 이런 짓을 저지르다니"
+ },
+ {
+  "offset": 1781,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Sion",
+  "new_text": "시온"
+ },
+ {
+  "offset": 1850,
+  "old_encoding": "ascii",
+  "old_length_field": 64,
+  "old_text": "I had no other choice,\nif humans wish to survive in this world.",
+  "new_text": "어쩔 수 없는 일이다\n인간이 이 세계에서 살아남기 위해선"
+ },
+ {
+  "offset": 1950,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Sion",
+  "new_text": "시온"
+ },
+ {
+  "offset": 2025,
+  "old_encoding": "ascii",
+  "old_length_field": 112,
+  "old_text": "And if we helpless humans want to stand a chance against the \nmonsters then we must unite under a single ideal.",
+  "new_text": "무력한 인간이 마물에 대항하려면\n이상 아래 하나로 뭉칠 수밖에 없다"
+ },
+ {
+  "offset": 2177,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Sion",
+  "new_text": "시온"
+ },
+ {
+  "offset": 2230,
+  "old_encoding": "ascii",
+  "old_length_field": 66,
+  "old_text": "The Darcanic teachings are the only power that can achieve \nthis.",
+  "new_text": "다크교야말로 그것을 가능케 할 유일한 힘이다"
+ },
+ {
+  "offset": 2334,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Fate",
+  "new_text": "페이트"
+ },
+ {
+  "offset": 2389,
+  "old_encoding": "ascii",
+  "old_length_field": 39,
+  "old_text": "You don't really believe that, do you?",
+  "new_text": "시온, 너 정말 진심으로 하는 소리냐"
+ },
+ {
+  "offset": 2470,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Liana",
+  "new_text": "리아나"
+ },
+ {
+  "offset": 2520,
+  "old_encoding": "ascii",
+  "old_length_field": 45,
+  "old_text": "You killed all of the villagers... for that?",
+  "new_text": "고작 그런 일을 위해서... 마을 사람들을..."
+ },
+ {
+  "offset": 2601,
+  "old_encoding": "ascii",
+  "old_length_field": 4,
+  "old_text": "Gia",
+  "new_text": "지아"
+ },
+ {
+  "offset": 2685,
+  "old_encoding": "ascii",
+  "old_length_field": 71,
+  "old_text": "You attacked our village because they weren't\nfollowers of Darcanism?!",
+  "new_text": "다크교를 믿지 않는다는 이유로,\n우리 마을을 습격했다는 거냐!"
+ },
+ {
+  "offset": 2798,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Lanzo",
+  "new_text": "란조"
+ },
+ {
+  "offset": 2832,
+  "old_encoding": "ascii",
+  "old_length_field": 16,
+  "old_text": "Calm down, Gia!",
+  "new_text": "지아, 진정해!"
+ },
+ {
+  "offset": 2888,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Sion",
+  "new_text": "시온"
+ },
+ {
+  "offset": 2931,
+  "old_encoding": "ascii",
+  "old_length_field": 56,
+  "old_text": "All of it... was in the name of peace across the lands.",
+  "new_text": "모든 것은... 지상의 평화를 위해서다"
+ },
+ {
+  "offset": 3029,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Dewey",
+  "new_text": "듀이"
+ },
+ {
+  "offset": 3087,
+  "old_encoding": "ascii",
+  "old_length_field": 29,
+  "old_text": "The Demon Gate has opened...",
+  "new_text": "데몬 게이트... 결국 열리고 말았군..."
+ },
+ {
+  "offset": 3156,
+  "old_encoding": "ascii",
+  "old_length_field": 4,
+  "old_text": "Gia",
+  "new_text": "지아"
+ },
+ {
+  "offset": 3232,
+  "old_encoding": "ascii",
+  "old_length_field": 74,
+  "old_text": "Monsters are pouring through the portal that has torn\nthrough our plane?!",
+  "new_text": "공간에 뚫린 이 구멍을 통해...\n마물들이 쳐들어온다는 말인가...!"
+ },
+ {
+  "offset": 3348,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Merrows",
+  "new_text": "멜로우즈"
+ },
+ {
+  "offset": 3422,
+  "old_encoding": "ascii",
+  "old_length_field": 72,
+  "old_text": "Is this the universal human utopia you harped on about?!\nWell, Lamium?!",
+  "new_text": "이것이 네가 말한 인류 보편의 이상향이냐!\n라미암!"
+ },
+ {
+  "offset": 3532,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Merrows",
+  "new_text": "멜로우즈"
+ },
+ {
+  "offset": 3602,
+  "old_encoding": "ascii",
+  "old_length_field": 45,
+  "old_text": "Fate! Use your sword to seal the Demon Gate!",
+  "new_text": "페이트, 네 검으로 이 데몬 게이트를 막아라!"
+ },
+ {
+  "offset": 3685,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Fate",
+  "new_text": "페이트"
+ },
+ {
+  "offset": 3718,
+  "old_encoding": "ascii",
+  "old_length_field": 11,
+  "old_text": "But how...",
+  "new_text": "하지만, 어떻게..."
+ },
+ {
+  "offset": 3771,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Dewey",
+  "new_text": "듀이"
+ },
+ {
+  "offset": 3873,
+  "old_encoding": "ascii",
+  "old_length_field": 78,
+  "old_text": "The magic sword Luciedo is capable of it.\nYou need to believe in your powers!",
+  "new_text": "마검 루시에도이라면 그 정도 힘은 있습니다.\n이제 당신 자신의 힘을 믿으세요!"
+ },
+ {
+  "offset": 3989,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Fate",
+  "new_text": "페이트"
+ },
+ {
+  "offset": 4012,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "But...",
+  "new_text": "하지만..."
+ },
+ {
+  "offset": 4061,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Dewey",
+  "new_text": "듀이"
+ },
+ {
+  "offset": 4105,
+  "old_encoding": "ascii",
+  "old_length_field": 14,
+  "old_text": "W-Waaaggghhh!",
+  "new_text": "윽, 으아아아아아아!!"
+ },
+ {
+  "offset": 4161,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Liana",
+  "new_text": "리아나"
+ },
+ {
+  "offset": 4189,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Dewey!",
+  "new_text": "듀이!"
+ },
+ {
+  "offset": 4238,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Fate",
+  "new_text": "페이트"
+ },
+ {
+  "offset": 4277,
+  "old_encoding": "ascii",
+  "old_length_field": 19,
+  "old_text": "Save him, Luciedo!",
+  "new_text": "제발 닿아라! 루시에도!"
+ },
+ {
+  "offset": 4336,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Alma",
+  "new_text": "알마"
+ },
+ {
+  "offset": 4359,
+  "old_encoding": "ascii",
+  "old_length_field": 4,
+  "old_text": "Ah!",
+  "new_text": "아악!"
+ },
+ {
+  "offset": 4405,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Marius",
+  "new_text": "마리우스"
+ },
+ {
+  "offset": 4432,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Alma!",
+  "new_text": "알마!"
+ },
+ {
+  "offset": 4480,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Lamium",
+  "new_text": "라미암"
+ },
+ {
+  "offset": 4541,
+  "old_encoding": "ascii",
+  "old_length_field": 45,
+  "old_text": "Enough games. You're coming with me, Marius.",
+  "new_text": "소꿉놀이는 끝이다. 함께 가줘야겠어, 마리우스."
+ },
+ {
+  "offset": 4628,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Marius",
+  "new_text": "마리우스"
+ },
+ {
+  "offset": 4665,
+  "old_encoding": "ascii",
+  "old_length_field": 9,
+  "old_text": "Almaaaa!",
+  "new_text": "알마아아아아!"
+ },
+ {
+  "offset": 4710,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Alma",
+  "new_text": "알마"
+ },
+ {
+  "offset": 4797,
+  "old_encoding": "ascii",
+  "old_length_field": 67,
+  "old_text": "It's okay... While this won't... make up for... \nall of my sins...",
+  "new_text": "괜찮아요... 이걸로... 지금까지의... 죄가\n씻길 리는... 없겠지만..."
+ },
+ {
+  "offset": 4906,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Liana",
+  "new_text": "리아나"
+ },
+ {
+  "offset": 4934,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Don't speak...",
+  "new_text": "말하지 마..."
+ },
+ {
+  "offset": 4985,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Alma",
+  "new_text": "알마"
+ },
+ {
+  "offset": 5128,
+  "old_encoding": "ascii",
+  "old_length_field": 129,
+  "old_text": "That voice... Liana? Gosh...\nIt's strange. These eyes of mine are blind... \nyet I can see white wings...\nLike those of an angel!",
+  "new_text": "그 목소리... 리아나 씨군요... 하아... (한숨)\n이상해요... 아무것도 보이지 않아야 할 내 눈에...\n하얀 깃털이 보여요. 그래요, 천사처럼!"
+ },
+ {
+  "offset": 5299,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Liana",
+  "new_text": "리아나"
+ },
+ {
+  "offset": 5367,
+  "old_encoding": "ascii",
+  "old_length_field": 45,
+  "old_text": "Please, don't say any more!\nI can't...\nOh...",
+  "new_text": "부탁이야! 이제 말하지 마...!\n나는 더 이상 아무도...\n앗..."
+ },
+ {
+  "offset": 5450,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Lanzo",
+  "new_text": "란조"
+ },
+ {
+  "offset": 5490,
+  "old_encoding": "ascii",
+  "old_length_field": 30,
+  "old_text": "Whoa, this is something else.",
+  "new_text": "흠. 이거 정말 대단한걸."
+ },
+ {
+  "offset": 5558,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Fate",
+  "new_text": "페이트"
+ },
+ {
+  "offset": 5641,
+  "old_encoding": "ascii",
+  "old_length_field": 84,
+  "old_text": "Not good! My feet should be firmly on the ground! \nDo something about this, please!",
+  "new_text": "안 돼! 난 발이 땅에 안 닿아 있는 건 질색이야!\n어떻게 좀 해줘! 부탁이야!"
+ },
+ {
+  "offset": 5761,
+  "old_encoding": "ascii",
+  "old_length_field": 4,
+  "old_text": "Gia",
+  "new_text": "지아"
+ },
+ {
+  "offset": 5833,
+  "old_encoding": "ascii",
+  "old_length_field": 95,
+  "old_text": "Such incredible powers. Who'd have thought that people \nreally did live in the Heavenly Realm?",
+  "new_text": "훌륭한 힘이군. 하지만 정말로 천상계에\n사는 백성이 있었을 줄이야."
+ },
+ {
+  "offset": 5966,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Liana",
+  "new_text": "리아나"
+ },
+ {
+  "offset": 6124,
+  "old_encoding": "ascii",
+  "old_length_field": 202,
+  "old_text": "The Heavenly Gate is much like a passageway that us angels \nuse to travel to the Overworld, which exists on a different \nplane. It allows us to save humans from the threat of \nthe devil's powers and...",
+  "new_text": "성천문은 저희 천사들이 차원을 넘어 지상계를\n오가기 위한 통로 같은 곳이에요.\n악마의 힘에 위협받는 인간을 구하기 위해, 그리고..."
+ },
+ {
+  "offset": 6362,
+  "old_encoding": "ascii",
+  "old_length_field": 4,
+  "old_text": "Gia",
+  "new_text": "지아"
+ },
+ {
+  "offset": 6410,
+  "old_encoding": "ascii",
+  "old_length_field": 60,
+  "old_text": "An overwhelmingly ominous presence... The presence of evil!",
+  "new_text": "불길한 기운이 가득해... 마의 기운이다!"
+ },
+ {
+  "offset": 6508,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Fate",
+  "new_text": "페이트"
+ },
+ {
+  "offset": 6541,
+  "old_encoding": "ascii",
+  "old_length_field": 26,
+  "old_text": "An assassin from Lamium?!",
+  "new_text": "라미암의 자객인가!"
+ },
+ {
+  "offset": 6605,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Liana",
+  "new_text": "리아나"
+ },
+ {
+  "offset": 6667,
+  "old_encoding": "ascii",
+  "old_length_field": 60,
+  "old_text": "What?! How could we be attacked during a dimensional leap?!",
+  "new_text": "말도 안 돼...! 차원 도약 중에 습격해 오다니!"
+ },
+ {
+  "offset": 6765,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Lanzo",
+  "new_text": "란조"
+ },
+ {
+  "offset": 6803,
+  "old_encoding": "ascii",
+  "old_length_field": 32,
+  "old_text": "No point getting all worked up.",
+  "new_text": "당황해 봤자 소용없어."
+ },
+ {
+  "offset": 6877,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Lanzo",
+  "new_text": "란조"
+ },
+ {
+  "offset": 6909,
+  "old_encoding": "ascii",
+  "old_length_field": 27,
+  "old_text": "Here it comes! From above!",
+  "new_text": "온다... 위다!"
+ },
+ {
+  "offset": 6972,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 7007,
+  "old_encoding": "ascii",
+  "old_length_field": 24,
+  "old_text": "Long time no see, Enya.",
+  "new_text": "오랜만이네, 엔야."
+ },
+ {
+  "offset": 7071,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Enya",
+  "new_text": "엔야"
+ },
+ {
+  "offset": 7134,
+  "old_encoding": "ascii",
+  "old_length_field": 73,
+  "old_text": "Oh? That voice... My goodness, all the unusual visitors \nI've had today.",
+  "new_text": "어라, 그 목소리는... 오늘은 희한한 손님들이\n줄줄이 오는군."
+ },
+ {
+  "offset": 7243,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Enya",
+  "new_text": "엔야"
+ },
+ {
+  "offset": 7294,
+  "old_encoding": "ascii",
+  "old_length_field": 30,
+  "old_text": "Gosh... You really don't age.",
+  "new_text": "허허... 여전히 늙지를 않는구먼."
+ },
+ {
+  "offset": 7364,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 7435,
+  "old_encoding": "ascii",
+  "old_length_field": 68,
+  "old_text": "Time continues to flow around me... Yet for me, it remains \nfrozen.",
+  "new_text": "내 주변의 시간은 흐르지만... 내 시간만은...\n멈춰 있으니까."
+ },
+ {
+  "offset": 7543,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Enya",
+  "new_text": "엔야"
+ },
+ {
+  "offset": 7594,
+  "old_encoding": "ascii",
+  "old_length_field": 32,
+  "old_text": "A century has already passed...",
+  "new_text": "그때부터... 벌써 백 년은 됐겠지..."
+ },
+ {
+  "offset": 7666,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 7767,
+  "old_encoding": "ascii",
+  "old_length_field": 124,
+  "old_text": "The curse that Lucifer cast in his dying moments has plunged \nme into a timeless hell where I must wander for all eternity.",
+  "new_text": "그때, 단말마의 루키펠이 건 저주는 나를 영겁히\n방황하는 시간의 지옥으로 떨어뜨렸지."
+ },
+ {
+  "offset": 7927,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 7992,
+  "old_encoding": "ascii",
+  "old_length_field": 85,
+  "old_text": "The agony of not being able to die... And the pain of not \nbeing able to see Claire.",
+  "new_text": "인간으로서 죽지 못하는 고통...\n클레아 곁으로 갈 수 없는 슬픔."
+ },
+ {
+  "offset": 8117,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Enya",
+  "new_text": "엔야"
+ },
+ {
+  "offset": 8220,
+  "old_encoding": "ascii",
+  "old_length_field": 105,
+  "old_text": "But you can break your curse if you destroy all of the \nfragments of Lucifer scattered across the world.",
+  "new_text": "하지만 그 속박이라도 세상에 흩어진 루키펠의\n육편을 모두 소멸시키면 풀리겠지."
+ },
+ {
+  "offset": 8365,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Raphael",
+  "new_text": "라파엘"
+ },
+ {
+  "offset": 8425,
+  "old_encoding": "ascii",
+  "old_length_field": 97,
+  "old_text": "This was destined to happen as someone who crossed paths \nwith us possessors of the white wings.",
+  "new_text": "필멸의 존재가 우리 하얀 날개의 백성에게\n관여하기 때문이다."
+ },
+ {
+  "offset": 8558,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 8583,
+  "old_encoding": "ascii",
+  "old_length_field": 9,
+  "old_text": "Raphael.",
+  "new_text": "라파엘"
+ },
+ {
+  "offset": 8636,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Raphael",
+  "new_text": "라파엘"
+ },
+ {
+  "offset": 8762,
+  "old_encoding": "ascii",
+  "old_length_field": 136,
+  "old_text": "Liana herself neglected her duties by getting too close to \nhumans. You humans are an infectious disease... \nYou poison those near you.",
+  "new_text": "리아나도 인간과 엮인 탓에 사명을 소홀히 했지.\n너희 인간들은 전염병 같구나... 곁에 있는 자부터 타락시키지."
+ },
+ {
+  "offset": 8934,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Enya",
+  "new_text": "엔야"
+ },
+ {
+  "offset": 9017,
+  "old_encoding": "ascii",
+  "old_length_field": 88,
+  "old_text": "Claire is from the heavens, just like you. I know she'd \nnever say something like that.",
+  "new_text": "적어도 같은 천상인인 클레아는\n자네 같은 소리는 안 했네!"
+ },
+ {
+  "offset": 9149,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Raphael",
+  "new_text": "라파엘"
+ },
+ {
+  "offset": 9267,
+  "old_encoding": "ascii",
+  "old_length_field": 124,
+  "old_text": "Heh. I didn't come here to trade insults...\nAn individual with Lucifer's cells lurking in them has \nappeared in this world.",
+  "new_text": "훗... 오늘은 빈정거리러 온 게 아니다...\n이 세계에 루키펠 세포를 품은 자가 나타났다."
+ },
+ {
+  "offset": 9435,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Raphael",
+  "new_text": "라파엘"
+ },
+ {
+  "offset": 9521,
+  "old_encoding": "ascii",
+  "old_length_field": 96,
+  "old_text": "Perhaps you should make haste to hunt them down and break \nthat spell of yours, cursed warrior.",
+  "new_text": "어서 쫓아가서... 속박의 사슬을 끊어내는 게 어떠냐...\n저주받은 검사... 케알이여."
+ },
+ {
+  "offset": 9653,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Alef",
+  "new_text": "알레프"
+ },
+ {
+  "offset": 9680,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Cael!",
+  "new_text": "케알 형!"
+ },
+ {
+  "offset": 9722,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 9781,
+  "old_encoding": "ascii",
+  "old_length_field": 36,
+  "old_text": "Goodbye, Alef. I'm going to Claire.",
+  "new_text": "잘 가라, 알레프. 나는 클레아 곁으로 갈게."
+ },
+ {
+  "offset": 9857,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Alef",
+  "new_text": "알레프"
+ },
+ {
+  "offset": 9914,
+  "old_encoding": "ascii",
+  "old_length_field": 30,
+  "old_text": "N-No... You're going to die?!",
+  "new_text": "서, 설마... 죽는 거야!? 케알 형!"
+ },
+ {
+  "offset": 9984,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 10087,
+  "old_encoding": "ascii",
+  "old_length_field": 105,
+  "old_text": "Heh... You've gotten so strong. Maybe as strong as your \ngreat-grandfather... Or possibly even stronger.",
+  "new_text": "훗... 제법 강해졌구나... 네 증조할아버지뻘인\n분과 비슷할 정도로... 아니, 그 이상일지도."
+ },
+ {
+  "offset": 10228,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Alef",
+  "new_text": "알레프"
+ },
+ {
+  "offset": 10387,
+  "old_encoding": "ascii",
+  "old_length_field": 101,
+  "old_text": "What are yousaying? You've finally broken your curse!\nWhy do you have to die?!\nI don't get it! Why?!",
+  "new_text": "무슨 소리야! 겨우 저주가 풀렸는데!\n왜 형이 죽어야 하는 건데!\n난 모르겠어! 대체 왜 그러는 거야!"
+ },
+ {
+  "offset": 10530,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Tiara",
+  "new_text": "티아라"
+ },
+ {
+  "offset": 10608,
+  "old_encoding": "ascii",
+  "old_length_field": 67,
+  "old_text": "You fool! Cael's using his last ounce of strength to talk to \nyou!",
+  "new_text": "바보 알레프! 케알 씨가 마지막 힘을 짜내서\n말하고 계시잖아!"
+ },
+ {
+  "offset": 10711,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 10828,
+  "old_encoding": "ascii",
+  "old_length_field": 129,
+  "old_text": "Alef, I have a favor to ask. The sword that your \ngreat-grandfather wielded lies dormant in the Orchil Cave... \nTake that sword.",
+  "new_text": "알레프... 네게 부탁이 있다... 네 증조할아버지가\n쓰시던 검이... 오킬의 동굴에 잠들어 있다... 그것을 손에..."
+ },
+ {
+  "offset": 10997,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 11110,
+  "old_encoding": "ascii",
+  "old_length_field": 101,
+  "old_text": "Use it to protect this Overworld that Claire and I loved so \nmuch...\nFate, Liana, Tiara... and Alef.",
+  "new_text": "나와 클레아가 사랑했던 이 지상계를... 지켜다오...\n페이트... 리아나... 티아라... 그리고... 알레프..."
+ },
+ {
+  "offset": 11251,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 11276,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Thanks.",
+  "new_text": "고맙다."
+ },
+ {
+  "offset": 11328,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Raphael",
+  "new_text": "라파엘"
+ },
+ {
+  "offset": 11380,
+  "old_encoding": "ascii",
+  "old_length_field": 52,
+  "old_text": "Would it be appropriate to say... Well done, Liana?",
+  "new_text": "잘했다... 라고 해야 할까? 리아나."
+ },
+ {
+  "offset": 11474,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Liana",
+  "new_text": "리아나"
+ },
+ {
+  "offset": 11508,
+  "old_encoding": "ascii",
+  "old_length_field": 9,
+  "old_text": "Raphael!",
+  "new_text": "라파엘 오라버니!"
+ },
+ {
+  "offset": 11557,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Raphael",
+  "new_text": "라파엘"
+ },
+ {
+  "offset": 11633,
+  "old_encoding": "ascii",
+  "old_length_field": 78,
+  "old_text": "Liana... You descended from the heavens to protect this \nbeautiful Overworld.",
+  "new_text": "리아나... 애초에 네가 강림한 것은\n아름다운 지상계를 지키기 위해서였다."
+ },
+ {
+  "offset": 11751,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Raphael",
+  "new_text": "라파엘"
+ },
+ {
+  "offset": 11877,
+  "old_encoding": "ascii",
+  "old_length_field": 143,
+  "old_text": "But you've seen for yourself how frail and unsightly these \nhumans you're trying to protect are!\nUnleash a rain of fire from the heavens, now!",
+  "new_text": "너도 보았겠지, 네가 지금 지키려는 인간의\n나약함과 추악함을! 자, 이제 천공에서 불의 비를 내려라."
+ },
+ {
+  "offset": 12064,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Raphael",
+  "new_text": "라파엘"
+ },
+ {
+  "offset": 12138,
+  "old_encoding": "ascii",
+  "old_length_field": 55,
+  "old_text": "Purge the Overworld of these filthy demons and humans!",
+  "new_text": "불결한 마족과 더불어, 인간을 이 지상계에서\n말살하는 것이다!"
+ },
+ {
+  "offset": 12231,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Fate",
+  "new_text": "페이트"
+ },
+ {
+  "offset": 12274,
+  "old_encoding": "ascii",
+  "old_length_field": 37,
+  "old_text": "Wait, Lia... Are you going with him?",
+  "new_text": "기다려, 리아... 가버리는 거야?"
+ },
+ {
+  "offset": 12355,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Raphael",
+  "new_text": "라파엘"
+ },
+ {
+  "offset": 12503,
+  "old_encoding": "ascii",
+  "old_length_field": 171,
+  "old_text": "Humans... I thank you for fighting against the demons on our \nbehalf.Now, wait for the flames of judgment... \nThis fate cannot be avoided. \nIt is the will of the heavens.",
+  "new_text": "인간이여... 우리 대신 마족과 싸워준 것에 감사한다.\n이제 심판의 불꽃을 기다려라... 그것은 피할 수 없는 운명...\n천상계의 뜻이니라."
+ },
+ {
+  "offset": 12716,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Fate",
+  "new_text": "페이트"
+ },
+ {
+  "offset": 12785,
+  "old_encoding": "ascii",
+  "old_length_field": 70,
+  "old_text": "I didn't fight against the demons for the Overworld, nor for \nhumans.",
+  "new_text": "내가 마물과 싸워온 건 지상계를 위해서도,\n인간을 위해서도 아니야."
+ },
+ {
+  "offset": 12897,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Fate",
+  "new_text": "페이트"
+ },
+ {
+  "offset": 12938,
+  "old_encoding": "ascii",
+  "old_length_field": 61,
+  "old_text": "It was so I could be with Lia... even if for a short time...",
+  "new_text": "리아와... 조금이라도... 함께..."
+ },
+ {
+  "offset": 13041,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Fate",
+  "new_text": "페이트"
+ },
+ {
+  "offset": 13078,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Don't go! Lia!",
+  "new_text": "가지 마! 리아!"
+ },
+ {
+  "offset": 13135,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Liana",
+  "new_text": "리아나"
+ },
+ {
+  "offset": 13157,
+  "old_encoding": "ascii",
+  "old_length_field": 4,
+  "old_text": "Ah!",
+  "new_text": "핫!"
+ },
+ {
+  "offset": 13201,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Raphael",
+  "new_text": "라파엘"
+ },
+ {
+  "offset": 13239,
+  "old_encoding": "ascii",
+  "old_length_field": 17,
+  "old_text": "You fool! Liana!",
+  "new_text": "말도 안 돼! 리아나!"
+ },
+ {
+  "offset": 13294,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Liana",
+  "new_text": "리아나"
+ },
+ {
+  "offset": 13436,
+  "old_encoding": "ascii",
+  "old_length_field": 129,
+  "old_text": "I'm sorry, Raphael... You're right. Humans are unsightly \nbeings drowning in their desires.\nBut that does not describe them all.",
+  "new_text": "죄송해요, 라파엘 오라버니... 오라버니 말씀대로\n인간들은 욕망에 찌든 추악한 존재였어요.\n하지만 그것이 전부는 아니에요."
+ },
+ {
+  "offset": 13605,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Raphael",
+  "new_text": "라파엘"
+ },
+ {
+  "offset": 13677,
+  "old_encoding": "ascii",
+  "old_length_field": 96,
+  "old_text": "Stop! Are you really going to discard those your wings? \nThey're your pride as an angel, Liana!",
+  "new_text": "그만둬! 하얀 날개를... 천사의 증표를 버리겠다는 거냐!\n리아나!"
+ },
+ {
+  "offset": 13811,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Liana",
+  "new_text": "리아나"
+ },
+ {
+  "offset": 13951,
+  "old_encoding": "ascii",
+  "old_length_field": 151,
+  "old_text": "Mistakes will continue to be made in the Overworld.\nBut I think with every mistake, humans will find a way to \npave their own path towards the future.",
+  "new_text": "앞으로도 지상계에서는 실수가 반복되겠죠.\n하지만 그때마다 인간은 스스로의 손으로\n자신의 앞날을 개척해 나갈 수 있을 거라 믿어요."
+ },
+ {
+  "offset": 14140,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Liana",
+  "new_text": "리아나"
+ },
+ {
+  "offset": 14170,
+  "old_encoding": "ascii",
+  "old_length_field": 22,
+  "old_text": "My dear brother, I...",
+  "new_text": "오라버니... 저는..."
+ },
+ {
+  "offset": 14230,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Liana",
+  "new_text": "리아나"
+ },
+ {
+  "offset": 14298,
+  "old_encoding": "ascii",
+  "old_length_field": 79,
+  "old_text": "I have faith in the humans... and would like them to take \ncare of this world.",
+  "new_text": "인간을 믿고... 이 지상계를 맡기고 싶어요."
+ },
+ {
+  "offset": 14471,
+  "old_encoding": "ascii",
+  "old_length_field": 50,
+  "old_text": "And I also want to watch over them... as a human!",
+  "new_text": "그리고 저 자신도... 인간으로서 그것을 지켜보고 싶어요!"
+ },
+ {
+  "offset": 14561,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Raphael",
+  "new_text": "라파엘"
+ },
+ {
+  "offset": 14607,
+  "old_encoding": "ascii",
+  "old_length_field": 71,
+  "old_text": "To think that I have accepted your choice to become a fallen \nangel...",
+  "new_text": "타락천사의 선택을 인정하게 될 줄이야..."
+ },
+ {
+  "offset": 14722,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Raphael",
+  "new_text": "라파엘"
+ },
+ {
+  "offset": 14776,
+  "old_encoding": "ascii",
+  "old_length_field": 43,
+  "old_text": "I suppose the humans have swayed me too...",
+  "new_text": "나도 꽤나... 인간에게 감화된 모양이군..."
+ },
+ {
+  "offset": 14857,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Liana",
+  "new_text": "리아나"
+ },
+ {
+  "offset": 14897,
+  "old_encoding": "ascii",
+  "old_length_field": 12,
+  "old_text": "Ahhh! Fate!",
+  "new_text": "꺄아아! 페이트!"
+ },
+ {
+  "offset": 14947,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Fate",
+  "new_text": "페이트"
+ },
+ {
+  "offset": 14972,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Liana!",
+  "new_text": "리아나!"
+ },
+ {
+  "offset": 15025,
+  "old_encoding": "ascii",
+  "old_length_field": 13,
+  "old_text": "Satan Lamium",
+  "new_text": "라미암 사탄"
+ },
+ {
+  "offset": 15128,
+  "old_encoding": "ascii",
+  "old_length_field": 103,
+  "old_text": "My body will crumble here.\nBut so long as darkness lurks within the hearts of humans, \nI shall return!",
+  "new_text": "내 육체는 여기서 멸하리라.\n하지만 인간의 마음에 어둠의 영역이 있는 한,\n나는 반드시 부활한다!"
+ },
+ {
+  "offset": 15281,
+  "old_encoding": "ascii",
+  "old_length_field": 13,
+  "old_text": "Satan Lamium",
+  "new_text": "라미암 사탄"
+ },
+ {
+  "offset": 15354,
+  "old_encoding": "ascii",
+  "old_length_field": 72,
+  "old_text": "For when that day comes, \nI shall absorb this maiden and make her mine!",
+  "new_text": "그날을 위해 이 소녀를 흡수하여 내 것으로 만들겠다!"
+ },
+ {
+  "offset": 15468,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Fate",
+  "new_text": "페이트"
+ },
+ {
+  "offset": 15517,
+  "old_encoding": "ascii",
+  "old_length_field": 20,
+  "old_text": "Wait, Liana!\nUgh...",
+  "new_text": "기다려, 리아나!\n우오! 윽!..."
+ },
+ {
+  "offset": 15575,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Fate",
+  "new_text": "페이트"
+ },
+ {
+  "offset": 15598,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Argh...",
+  "new_text": "구헉..."
+ },
+ {
+  "offset": 15648,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Fate",
+  "new_text": "페이트"
+ },
+ {
+  "offset": 15687,
+  "old_encoding": "ascii",
+  "old_length_field": 18,
+  "old_text": "S-Sion... You...!",
+  "new_text": "시... 시온... 이 자식이...!"
+ },
+ {
+  "offset": 15745,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Sion",
+  "new_text": "시온"
+ },
+ {
+  "offset": 15816,
+  "old_encoding": "ascii",
+  "old_length_field": 64,
+  "old_text": "We can't lose the hero who saved the humans and the \nOverworld.",
+  "new_text": "인간을... 지상계를 구한 영웅을 잃을 수는 없지."
+ },
+ {
+  "offset": 15920,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Sion",
+  "new_text": "시온"
+ },
+ {
+  "offset": 16005,
+  "old_encoding": "ascii",
+  "old_length_field": 81,
+  "old_text": "Please, magic sword Luciedo.\nGive me the power to protect Liana, just this once!",
+  "new_text": "부탁한다... 마검 루시에도.\n지금 이 순간만이라도... 나에게 리아나를\n지킬 힘을 빌려줘!"
+ },
+ {
+  "offset": 16122,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Sion",
+  "new_text": "시온"
+ },
+ {
+  "offset": 16149,
+  "old_encoding": "ascii",
+  "old_length_field": 11,
+  "old_text": "Take that!",
+  "new_text": "이얍!"
+ },
+ {
+  "offset": 16198,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Fate",
+  "new_text": "페이트"
+ },
+ {
+  "offset": 16239,
+  "old_encoding": "ascii",
+  "old_length_field": 39,
+  "old_text": "Stop, Sion! Do you have a death wish?!",
+  "new_text": "그만둬, 시온! 죽으려는 거냐!"
+ },
+ {
+  "offset": 16318,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Sion",
+  "new_text": "시온"
+ },
+ {
+  "offset": 16345,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Gahhh!",
+  "new_text": "우오오오!"
+ },
+ {
+  "offset": 16402,
+  "old_encoding": "ascii",
+  "old_length_field": 13,
+  "old_text": "Satan Lamium",
+  "new_text": "라미암 사탄"
+ },
+ {
+  "offset": 16437,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Arghhh!",
+  "new_text": "우오오오!"
+ },
+ {
+  "offset": 16487,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Fate",
+  "new_text": "페이트"
+ },
+ {
+  "offset": 16514,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Sion!",
+  "new_text": "시온!"
+ },
+ {
+  "offset": 16558,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Lanzo",
+  "new_text": "란조"
+ },
+ {
+  "offset": 16618,
+  "old_encoding": "ascii",
+  "old_length_field": 41,
+  "old_text": "Today's the day you become a man, right?",
+  "new_text": "오늘부터 너도 어른들의 동료가 되는 거네? 그치?"
+ },
+ {
+  "offset": 16701,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Dewey",
+  "new_text": "듀이"
+ },
+ {
+  "offset": 16759,
+  "old_encoding": "ascii",
+  "old_length_field": 45,
+  "old_text": "Honestly, you always just barge into things!",
+  "new_text": "정말 당신이라는 사람은, 행동이 너무 빠르다니까요!"
+ },
+ {
+  "offset": 16842,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Tiara",
+  "new_text": "티아라"
+ },
+ {
+  "offset": 16884,
+  "old_encoding": "ascii",
+  "old_length_field": 16,
+  "old_text": "Congrats, Fate!",
+  "new_text": "축하해요! 페이트 씨!"
+ },
+ {
+  "offset": 16936,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Alef",
+  "new_text": "알레프"
+ },
+ {
+  "offset": 16985,
+  "old_encoding": "ascii",
+  "old_length_field": 30,
+  "old_text": "Heh! Not too shabby, brother!",
+  "new_text": "훗! 제법인데, 페이트 형!"
+ },
+ {
+  "offset": 17057,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Fate",
+  "new_text": "페이트"
+ },
+ {
+  "offset": 17090,
+  "old_encoding": "ascii",
+  "old_length_field": 18,
+  "old_text": "Thanks, everyone.",
+  "new_text": "고마워... 모두들."
+ },
+ {
+  "offset": 17144,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Alef",
+  "new_text": "알레프"
+ },
+ {
+  "offset": 17205,
+  "old_encoding": "ascii",
+  "old_length_field": 44,
+  "old_text": "Your bride is waiting for ya! Hurry on off!",
+  "new_text": "신부님이 기다리고 계신다고! 얼른 가봐!"
+ },
+ {
+  "offset": 17291,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Tiara",
+  "new_text": "티아라"
+ },
+ {
+  "offset": 17365,
+  "old_encoding": "ascii",
+  "old_length_field": 74,
+  "old_text": "He's right! No good will come of keeping a bride pretty as \nthat waiting.",
+  "new_text": "맞아! 저렇게 귀여운 신부를 기다리게 하면\n천벌을 받을걸?"
+ },
+ {
+  "offset": 17477,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Fate",
+  "new_text": "페이트"
+ },
+ {
+  "offset": 17508,
+  "old_encoding": "ascii",
+  "old_length_field": 33,
+  "old_text": "Um... Sorry to keep you waiting.",
+  "new_text": "저기... 많이 기다렸지?"
+ },
+ {
+  "offset": 17583,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Liana",
+  "new_text": "리아나"
+ },
+ {
+  "offset": 17625,
+  "old_encoding": "ascii",
+  "old_length_field": 16,
+  "old_text": "Oh, not at all!",
+  "new_text": "아니! 전혀 아니야!"
+ },
+ {
+  "offset": 17677,
+  "old_encoding": "ascii",
+  "old_length_field": 4,
+  "old_text": "Gia",
+  "new_text": "지아"
+ },
+ {
+  "offset": 17719,
+  "old_encoding": "ascii",
+  "old_length_field": 23,
+  "old_text": "Safe travels, you two.",
+  "new_text": "조심해서 다녀오라고?"
+ },
+ {
+  "offset": 17784,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Fate",
+  "new_text": "페이트"
+ },
+ {
+  "offset": 17817,
+  "old_encoding": "ascii",
+  "old_length_field": 23,
+  "old_text": "Thanks. We'll be back.",
+  "new_text": "응... 다녀올게."
+ },
+ {
+  "offset": 17882,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Fate",
+  "new_text": "페이트"
+ },
+ {
+  "offset": 17903,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Hhf!",
+  "new_text": "핫!"
+ },
+ {
+  "offset": 17950,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Liana",
+  "new_text": "리아나"
+ },
+ {
+  "offset": 17986,
+  "old_encoding": "ascii",
+  "old_length_field": 20,
+  "old_text": "What's wrong, Fate?",
+  "new_text": "왜 그래, 페이트?"
+ },
+ {
+  "offset": 18048,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Fate",
+  "new_text": "페이트"
+ },
+ {
+  "offset": 18079,
+  "old_encoding": "ascii",
+  "old_length_field": 18,
+  "old_text": "No, it's nothing.",
+  "new_text": "아니, 아무것도 아니야."
+ },
+ {
+  "offset": 18173,
+  "old_encoding": "ascii",
+  "old_length_field": 44,
+  "old_text": "Let's go and pick some Eureka flowers, Lia!",
+  "new_text": "가자, 리아. 에우리카 꽃을 꺾으러!"
+ },
+ {
+  "offset": 18289,
+  "old_encoding": "ascii",
+  "old_length_field": 33,
+  "old_text": "\nCharacter Design\nNobuteru Yuuki",
+  "new_text": "캐릭터 디자인\n유키 신키"
+ },
+ {
+  "offset": 18378,
+  "old_encoding": "ascii",
+  "old_length_field": 25,
+  "old_text": "\nScenario\nAkifumi Kaneko",
+  "new_text": "각본\n카네코 아키후미"
+ },
+ {
+  "offset": 18467,
+  "old_encoding": "ascii",
+  "old_length_field": 25,
+  "old_text": "\nDirector\nAkifumi Kaneko",
+  "new_text": "디렉터\n카네코 아키후미"
+ },
+ {
+  "offset": 18560,
+  "old_encoding": "ascii",
+  "old_length_field": 39,
+  "old_text": "\nAssistant Director\nHirotsugu Tsuchiya",
+  "new_text": "어시스턴트 디렉터\n츠치야 히로츠구"
+ },
+ {
+  "offset": 18669,
+  "old_encoding": "ascii",
+  "old_length_field": 33,
+  "old_text": "\nEvent Choreography\nCafu Fujioka",
+  "new_text": "이벤트 연출\n카후 후지오카"
+ },
+ {
+  "offset": 18770,
+  "old_encoding": "ascii",
+  "old_length_field": 33,
+  "old_text": "\nGame Programming\nHironori Ahiko",
+  "new_text": "게임 프로그램\n아히코 히로노리"
+ },
+ {
+  "offset": 18875,
+  "old_encoding": "ascii",
+  "old_length_field": 28,
+  "old_text": "\nVisual Programming\nBubbles",
+  "new_text": "비주얼 프로그램\n바부루스"
+ },
+ {
+  "offset": 18981,
+  "old_encoding": "ascii",
+  "old_length_field": 39,
+  "old_text": "\nSub-game Programming\nKatsutoku Sasaki",
+  "new_text": "서브 게임 프로그램\n사사키 카츠토쿠"
+ },
+ {
+  "offset": 19094,
+  "old_encoding": "ascii",
+  "old_length_field": 36,
+  "old_text": "Event Manipulation\nShinichi Fujioka",
+  "new_text": "이벤트 매니퓰레이트\n후지오카 신이치"
+ },
+ {
+  "offset": 19208,
+  "old_encoding": "ascii",
+  "old_length_field": 33,
+  "old_text": "Music Composition\nMichiko Naruke",
+  "new_text": "작곡\n나루케 미치코"
+ },
+ {
+  "offset": 19313,
+  "old_encoding": "ascii",
+  "old_length_field": 28,
+  "old_text": "Music Support\nShinobu Ogawa",
+  "new_text": "음악 서포트\n오가와 후미오"
+ },
+ {
+  "offset": 19419,
+  "old_encoding": "ascii",
+  "old_length_field": 51,
+  "old_text": "PSG Sound Effects\nMasayasu Yamamoto\nMichiko Naruke",
+  "new_text": "PSG 효과음\n야마모토 마사야스\n나루케 미치코"
+ },
+ {
+  "offset": 19536,
+  "old_encoding": "ascii",
+  "old_length_field": 36,
+  "old_text": "Visual Supervisor\nYasuyori Sakurada",
+  "new_text": "비주얼 감수\n사쿠라다 야스요리"
+ },
+ {
+  "offset": 19676,
+  "old_encoding": "ascii",
+  "old_length_field": 74,
+  "old_text": "Visual Graphics\nYasuyori Sakurada\nYukihiko Ito\nAkihisa Watanabe\nJun Nagao",
+  "new_text": "비주얼 그래픽\n사쿠라다 야스요리\n이토 시게히코\n와타나베 아키히사\n나가오 준"
+ },
+ {
+  "offset": 19828,
+  "old_encoding": "ascii",
+  "old_length_field": 33,
+  "old_text": "\nMonster Design\nAkihisa Watanabe",
+  "new_text": "몬스터 디자인\n와타나베 아키히사"
+ },
+ {
+  "offset": 19931,
+  "old_encoding": "ascii",
+  "old_length_field": 32,
+  "old_text": "\nSprite Design\nAkihisa Watanabe",
+  "new_text": "스프라이트 디자인\n와타나베 아키히사"
+ },
+ {
+  "offset": 20031,
+  "old_encoding": "ascii",
+  "old_length_field": 27,
+  "old_text": "\n\nItem Design\nYukihiko Ito",
+  "new_text": "아이템 디자인\n이토 시게히코"
+ },
+ {
+  "offset": 20134,
+  "old_encoding": "ascii",
+  "old_length_field": 31,
+  "old_text": "\n\nOutfield Design\nTakeshi Yabe",
+  "new_text": "아웃필드 디자인\n야베 켄지"
+ },
+ {
+  "offset": 20239,
+  "old_encoding": "ascii",
+  "old_length_field": 30,
+  "old_text": "\n\nInfield Design\nTakeshi Yabe",
+  "new_text": "인필드 디자인\n야베 켄지"
+ },
+ {
+  "offset": 20357,
+  "old_encoding": "ascii",
+  "old_length_field": 48,
+  "old_text": "\n\nDungeon Design\nYasuyori Sakurada\nTakeshi Yabe",
+  "new_text": "던전 디자인\n사쿠라다 야스요리\n야베 켄지"
+ },
+ {
+  "offset": 20465,
+  "old_encoding": "ascii",
+  "old_length_field": 31,
+  "old_text": "\nStoryboard\nHirotsugu Kawasaki",
+  "new_text": "그림 콘티\n카와사키 히로츠구"
+ },
+ {
+  "offset": 20556,
+  "old_encoding": "ascii",
+  "old_length_field": 35,
+  "old_text": "\nAnimation Director\nKazuhiro Soeta",
+  "new_text": "작화 감독\n소에다 카즈히로"
+ },
+ {
+  "offset": 20647,
+  "old_encoding": "ascii",
+  "old_length_field": 29,
+  "old_text": "\nKey Animation\nTsutomu Awada",
+  "new_text": "원화\n아와타 츠토무"
+ },
+ {
+  "offset": 20736,
+  "old_encoding": "ascii",
+  "old_length_field": 32,
+  "old_text": "Hiroshi Shimizu\nMasahiro Sekino",
+  "new_text": "시미즈 히로시\n세키노 마사히로"
+ },
+ {
+  "offset": 20828,
+  "old_encoding": "ascii",
+  "old_length_field": 30,
+  "old_text": "Kazuhiro Soeta\nSatoshi Tasaki",
+  "new_text": "소에다 카즈히로\n타사키 사토시"
+ },
+ {
+  "offset": 20920,
+  "old_encoding": "ascii",
+  "old_length_field": 28,
+  "old_text": "Michio Mihara\nYutaka Minowa",
+  "new_text": "미하라 미치오\n미노와 유타카"
+ },
+ {
+  "offset": 21010,
+  "old_encoding": "ascii",
+  "old_length_field": 33,
+  "old_text": "Mitsunori Murata\nHiroaki Motoigi",
+  "new_text": "무라타 미츠노리\n모토이노키 히로아키"
+ },
+ {
+  "offset": 21099,
+  "old_encoding": "ascii",
+  "old_length_field": 27,
+  "old_text": "\nAnimation\nHideko Yonetani",
+  "new_text": "동화\n요네야 에이코"
+ },
+ {
+  "offset": 21188,
+  "old_encoding": "ascii",
+  "old_length_field": 29,
+  "old_text": "\nCel Finishing\nTakako Suzuki",
+  "new_text": "셀 마무리\n스즈키 타카코"
+ },
+ {
+  "offset": 21301,
+  "old_encoding": "ascii",
+  "old_length_field": 58,
+  "old_text": "\n\nManual Production\nYoshiki Moue\nKatsuhisa (Accident) Ono",
+  "new_text": "매뉴얼 작성\n모가미 요시키\n오노 카츠히사"
+ },
+ {
+  "offset": 21431,
+  "old_encoding": "ascii",
+  "old_length_field": 31,
+  "old_text": "Media Plus Ltd.\nShigeru Kimura",
+  "new_text": "(유)미디어 플러스\n키무라 시게루"
+ },
+ {
+  "offset": 21522,
+  "old_encoding": "ascii",
+  "old_length_field": 34,
+  "old_text": "\nPromotional Planning\nYoshio Inui",
+  "new_text": "홍보 기획\n이누이 요시오"
+ },
+ {
+  "offset": 21618,
+  "old_encoding": "ascii",
+  "old_length_field": 29,
+  "old_text": "\nTomoko Miura\nTakao Yoshioka",
+  "new_text": "미우라 토모코\n요시오카 타카오"
+ },
+ {
+  "offset": 21713,
+  "old_encoding": "ascii",
+  "old_length_field": 40,
+  "old_text": "\nTsuneaki Morikasa\nMasayoshi BOW Suzuki",
+  "new_text": "모리카사 츠네아키\n스즈키 보우 마사요시"
+ },
+ {
+  "offset": 21827,
+  "old_encoding": "ascii",
+  "old_length_field": 48,
+  "old_text": "\nPromot1ional Manga \"Tenshi de Pon\"\nYuuma Miura",
+  "new_text": "판촉 만화 '천사로 퐁'\n미우라 유마"
+ },
+ {
+  "offset": 21931,
+  "old_encoding": "ascii",
+  "old_length_field": 25,
+  "old_text": "\nPublicity\nAsako Daigaku",
+  "new_text": "홍보\n다이가쿠 아사코"
+ },
+ {
+  "offset": 22336,
+  "old_encoding": "ascii",
+  "old_length_field": 73,
+  "old_text": "<Voice Cast>\nFate Kazuki Yao\nLiana Yuriko Yamamoto\nSion Shigeru Nakahara",
+  "new_text": "<성우 출연>\n페이트: 야오 카즈키\n리아나: 야마모토 유리코\n시온: 나카하라 시게루\n지아: 후지타 요시코\n란조: 와카모토 노리오\n케알: 이노우에 카즈히코\n라미암: 시오자와 카네히토\n멜로우즈: 이이즈카 쇼조\n마리우스: 모리 코지\n알레프: 이쿠라 카즈토\n알마: 이쿠라 카즈토 (1인 2역)\n듀이: 야나다 키요유키\n라파엘: 야나다 키요유키 (1인 2역)\n티아라: 하기모리 쿄코\n엔야: 하기모리 쿄코 (1인 2역)"
+ },
+ {
+  "offset": 22527,
+  "old_encoding": "ascii",
+  "old_length_field": 83,
+  "old_text": "Gia Toshiko Fujita\nLanzo Norio Wakamoto\nCael Kazuhiko Inoue\nLamium Kaneto Shiozawa",
+  "new_text": "지아: 후지타 요시코\n란조: 와카모토 노리오\n케알: 이노우에 카즈히코\n라미암: 시오자와 카네히토"
+ },
+ {
+  "offset": 22736,
+  "old_encoding": "ascii",
+  "old_length_field": 87,
+  "old_text": "Merrows Shozo Iizuka\nMarius Katsuji Mori\nAlef Kazue Ikura\nAlma Kazue Ikura (dual role)",
+  "new_text": "멜로우즈: 이이즈카 쇼조\n마리우스: 모리 코지\n알레프: 이쿠라 카즈토\n알마: 이쿠라 카즈토 (1인 2역)"
+ },
+ {
+  "offset": 22959,
+  "old_encoding": "ascii",
+  "old_length_field": 111,
+  "old_text": "Dewey Kiyoyuki Yanada\nRaphael Kiyoyuki Yanada (dual role)\nTiara Junko Hagimori\nEnya Junko Hagimori (dual role)",
+  "new_text": "듀이: 야나다 키요유키\n라파엘: 야나다 키요유키 (1인 2역)\n티아라: 하기모리 쿄코\n엔야: 하기모리 쿄코 (1인 2역)"
+ },
+ {
+  "offset": 23152,
+  "old_encoding": "ascii",
+  "old_length_field": 57,
+  "old_text": "<Sound Effect Production>\nVaincre Co., Ltd.\nKenichi Mori",
+  "new_text": "<효과음 제작>\n(주)반클\n모리 켄이치"
+ },
+ {
+  "offset": 23289,
+  "old_encoding": "ascii",
+  "old_length_field": 45,
+  "old_text": "<Video Editing>\nChamp Co., Ltd.\nMasahiro Ide",
+  "new_text": "<비디오 편집>\n(주)챔프\n이데 마사야스"
+ },
+ {
+  "offset": 23412,
+  "old_encoding": "ascii",
+  "old_length_field": 57,
+  "old_text": "<Support>\nShunichi Kobayashi\nShinobu Ogawa\nKenichi Nishi",
+  "new_text": "<협력>\n코바야시 슌이치\n오가와 후미오\n니시 켄이치"
+ },
+ {
+  "offset": 23551,
+  "old_encoding": "ascii",
+  "old_length_field": 64,
+  "old_text": "Kiyofumi Kato\nYoshihiro Maruyama\nYoshitaka Maki\nNobuko Miyauchi",
+  "new_text": "카토 키요후미\n마루야마 요시히로\n마키 요시나오\n미야우치 노부코"
+ },
+ {
+  "offset": 23713,
+  "old_encoding": "ascii",
+  "old_length_field": 62,
+  "old_text": "Lance\nBottle Master\nAoni Production Co., Ltd.\nToshio Furuichi",
+  "new_text": "란스\n보틀 마스터\n(주)아오니 프로덕션\n후루이치 토시오"
+ },
+ {
+  "offset": 23883,
+  "old_encoding": "ascii",
+  "old_length_field": 34,
+  "old_text": "ALL TELENET STAFF\nAND\nALL PLAYERS",
+  "new_text": "ALL TELENET STAFF\nAND\nALL PLAYERS"
+ },
+ {
+  "offset": 24011,
+  "old_encoding": "ascii",
+  "old_length_field": 69,
+  "old_text": "<General Producers>\nJiro Fukushima\nKazuyuki Fukushima\nYuji Fukushima",
+  "new_text": "<제너럴 프로듀스>\n후쿠시마 지로\n후쿠시마 카즈유키\n후쿠시마 유지"
+ },
+ {
+  "offset": 24138,
+  "old_encoding": "ascii",
+  "old_length_field": 32,
+  "old_text": "Yoshinobu Abe\nTakashi Fukushima",
+  "new_text": "아베 요시노부\n후쿠시마 타카시"
+ },
+ {
+  "offset": 24236,
+  "old_encoding": "ascii",
+  "old_length_field": 24,
+  "old_text": "<Producer>\nEiji Kikuchi",
+  "new_text": "<프로듀스>\n키쿠치 에이지"
+ },
+ {
+  "offset": 24388,
+  "old_encoding": "ascii",
+  "old_length_field": 47,
+  "old_text": "(C) 1993 TELENET JAPAN\n(C) NOBUTERU YUUKI\nRIOT",
+  "new_text": "<프로듀스>\n키쿠치 에이지"
+ }
+]

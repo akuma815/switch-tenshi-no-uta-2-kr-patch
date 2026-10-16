@@ -1,0 +1,1090 @@
+[
+ {
+  "file": "L10N/en/Ogix/Data/DT/Common/DT_BootView.uexp",
+  "offset": 29,
+  "old_encoding": "utf16",
+  "old_length_field": -4,
+  "old_text": "ご注意",
+  "new_text": "주의사항"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Common/DT_BootView.uexp",
+  "offset": 41,
+  "old_encoding": "utf16",
+  "old_length_field": -116,
+  "old_text": "ゲームソフトを権利者の許諾なく、\\nインターネットを通じて配信、配布する行為、\\nまた、違法なインターネット配信と知りながら、\\nダウンロードする行為は法律で固く禁じられております。\\nみなさまのご理解とご協力をお願いいたします。",
+  "new_text": "게임 소프트웨어를 권리자의 허락 없이\\n인터넷을 통해 배포, 유포하는 행위,\\n또한 불법 인터넷 배포임을 알면서도\\n다운로드하는 행위는 법으로 엄격히 금지되어 있습니다.\\n여러분의 이해와 협조를 부탁드립니다."
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_GameInfo.uexp",
+  "offset": 24,
+  "old_encoding": "ascii",
+  "old_length_field": 52,
+  "old_text": "Tenshi no Uta: The Angel Verse II: The Fallen Angel",
+  "new_text": "천사의 시: The Angel Verse II: 타락천사"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_GameInfo.uexp",
+  "offset": 80,
+  "old_encoding": "ascii",
+  "old_length_field": 14,
+  "old_text": "Tenshi no Uta",
+  "new_text": "천사의 시"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_GameInfo.uexp",
+  "offset": 98,
+  "old_encoding": "ascii",
+  "old_length_field": 24,
+  "old_text": "Choice of Fallen Angels",
+  "new_text": "타락천사의 선택"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_GameInfo.uexp",
+  "offset": 126,
+  "old_encoding": "ascii",
+  "old_length_field": 19,
+  "old_text": "Released 3/26/1993",
+  "new_text": "1993년 3월 26일 발매"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_GameInfo.uexp",
+  "offset": 149,
+  "old_encoding": "utf16",
+  "old_length_field": -441,
+  "old_text": "A battle against the dark forces begins once more on the Overworld in another dimension—a century after the previous game.\nThe destinies of Fate, a demon hunter, and his partner Sion, take a drastic turn when they meet a girl named Liana in the Inferno Tower...\nThis game was released in 1993 as a sequel to the first game.Cael, the previous game's hero, makes an appearance in this sequel full of excitement.\nYou won't want to put it down.",
+  "new_text": "전작으로부터 100년 후, 또 다른 차원의 오버월드에서\n어둠의 세력과의 싸움이 다시 시작됩니다.\n마물 사냥꾼 페이트와 그의 파트너 시온은 인페르노 타워에서 리아나라는 소녀를 만나며 운명이 급격히 바뀌게 됩니다...\n이 게임은 1993년에 전작의 후속작으로 발매되었습니다. 전작의 주인공 카엘이 이번 작품에서도 등장하여 박진감 넘치는 이야기를 펼칩니다.\n한 번 시작하면 멈출 수 없을 것입니다."
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_GameInfo.uexp",
+  "offset": 1035,
+  "old_encoding": "utf16",
+  "old_length_field": -20,
+  "old_text": "PCエンジンSUPER CD-ROM2",
+  "new_text": "PC 엔진 SUPER CD-ROM2"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_HomeMenuSelectInfo.uexp",
+  "offset": 29,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Start",
+  "new_text": "시작"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_HomeMenuSelectInfo.uexp",
+  "offset": 58,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Load",
+  "new_text": "불러오기"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_HomeMenuSelectInfo.uexp",
+  "offset": 86,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Manual",
+  "new_text": "매뉴얼"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_HomeMenuSelectInfo.uexp",
+  "offset": 116,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Audio",
+  "new_text": "오디오"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_HomeMenuSelectInfo.uexp",
+  "offset": 145,
+  "old_encoding": "ascii",
+  "old_length_field": 10,
+  "old_text": "Cutscenes",
+  "new_text": "컷신"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_HomeMenuSelectInfo.uexp",
+  "offset": 178,
+  "old_encoding": "ascii",
+  "old_length_field": 9,
+  "old_text": "Controls",
+  "new_text": "조작법"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_HomeMenuSelectInfo.uexp",
+  "offset": 210,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Config",
+  "new_text": "설정"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_HomeMenuSelectInfo.uexp",
+  "offset": 240,
+  "old_encoding": "ascii",
+  "old_length_field": 14,
+  "old_text": "Staff Credits",
+  "new_text": "스태프 롤"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_HomeMenuSelectInfo.uexp",
+  "offset": 277,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Copyright Info",
+  "new_text": "저작권 정보"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 25,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "OPENING",
+  "new_text": "오프닝"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 48,
+  "old_encoding": "ascii",
+  "old_length_field": 14,
+  "old_text": "Shinobu Ogawa",
+  "new_text": "오가와 시노부"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 81,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "TOWN 1",
+  "new_text": "마을 1"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 103,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 137,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "FIELD 1",
+  "new_text": "필드 1"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 160,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 194,
+  "old_encoding": "ascii",
+  "old_length_field": 13,
+  "old_text": "TOWN (NIGHT)",
+  "new_text": "마을 (밤)"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 222,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 256,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "BATTLE",
+  "new_text": "전투"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 278,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 312,
+  "old_encoding": "ascii",
+  "old_length_field": 10,
+  "old_text": "DUNGEON 1",
+  "new_text": "던전 1"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 337,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 371,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "BOSS 1",
+  "new_text": "보스 1"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 393,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 427,
+  "old_encoding": "ascii",
+  "old_length_field": 18,
+  "old_text": "SONG OF THE ANGEL",
+  "new_text": "천사의 노래"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 460,
+  "old_encoding": "ascii",
+  "old_length_field": 14,
+  "old_text": "Shinobu Ogawa",
+  "new_text": "오가와 시노부"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 493,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "DEMON INVASION",
+  "new_text": "마물의 침공"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 523,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 557,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "TOWN 2",
+  "new_text": "마을 2"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 579,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 613,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "TACTICS",
+  "new_text": "택틱스"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 636,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 670,
+  "old_encoding": "ascii",
+  "old_length_field": 10,
+  "old_text": "CARD GAME",
+  "new_text": "카드 게임"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 695,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 729,
+  "old_encoding": "ascii",
+  "old_length_field": 10,
+  "old_text": "DUNGEON 2",
+  "new_text": "던전 2"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 754,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 788,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "SHIP",
+  "new_text": "배"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 808,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 842,
+  "old_encoding": "ascii",
+  "old_length_field": 11,
+  "old_text": "RESISTANCE",
+  "new_text": "레지스탕스"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 868,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 902,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "TOWN 3",
+  "new_text": "마을 3"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 924,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 958,
+  "old_encoding": "ascii",
+  "old_length_field": 9,
+  "old_text": "AIR SHIP",
+  "new_text": "비공정"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 982,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 1016,
+  "old_encoding": "ascii",
+  "old_length_field": 13,
+  "old_text": "EXAHN CASTLE",
+  "new_text": "엑잔 성"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 1044,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 1078,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "BOSS 2",
+  "new_text": "보스 2"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 1100,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 1134,
+  "old_encoding": "ascii",
+  "old_length_field": 21,
+  "old_text": "FIELD 2 (OTHERWORLD)",
+  "new_text": "필드 2 (이세계)"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 1170,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 1204,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "FIELD 3",
+  "new_text": "필드 3"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 1227,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 1261,
+  "old_encoding": "ascii",
+  "old_length_field": 19,
+  "old_text": "SHRINE OF DARKNESS",
+  "new_text": "어둠의 신전"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 1295,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 1329,
+  "old_encoding": "ascii",
+  "old_length_field": 20,
+  "old_text": "ROS COMAEIN VILLAGE",
+  "new_text": "로스 코마인 마을"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 1364,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 1398,
+  "old_encoding": "ascii",
+  "old_length_field": 13,
+  "old_text": "FINAL BATTLE",
+  "new_text": "최종 결전"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 1426,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 1460,
+  "old_encoding": "ascii",
+  "old_length_field": 59,
+  "old_text": "CHOICES OF THE FALLEN ANGEL \r\n~OFF TO PICK EUREKA FLOWERS~",
+  "new_text": "타락천사의 선택 \n~유레카 꽃을 찾아서~"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_SoundInfo.uexp",
+  "offset": 1534,
+  "old_encoding": "ascii",
+  "old_length_field": 30,
+  "old_text": "Michiko Naruke\r\nShinobu Ogawa",
+  "new_text": "나루케 미치코\n오가와 시노부"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_VisualInfo.uexp",
+  "offset": 25,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Opening",
+  "new_text": "오프닝"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_VisualInfo.uexp",
+  "offset": 59,
+  "old_encoding": "ascii",
+  "old_length_field": 9,
+  "old_text": "Scene 01",
+  "new_text": "씬 01"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_VisualInfo.uexp",
+  "offset": 94,
+  "old_encoding": "ascii",
+  "old_length_field": 9,
+  "old_text": "Scene 04",
+  "new_text": "씬 04"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_VisualInfo.uexp",
+  "offset": 129,
+  "old_encoding": "ascii",
+  "old_length_field": 9,
+  "old_text": "Scene 05",
+  "new_text": "씬 05"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_VisualInfo.uexp",
+  "offset": 164,
+  "old_encoding": "ascii",
+  "old_length_field": 9,
+  "old_text": "Scene 07",
+  "new_text": "씬 07"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_VisualInfo.uexp",
+  "offset": 199,
+  "old_encoding": "ascii",
+  "old_length_field": 9,
+  "old_text": "Scene 08",
+  "new_text": "씬 08"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_VisualInfo.uexp",
+  "offset": 234,
+  "old_encoding": "ascii",
+  "old_length_field": 9,
+  "old_text": "Scene 09",
+  "new_text": "씬 09"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_VisualInfo.uexp",
+  "offset": 269,
+  "old_encoding": "ascii",
+  "old_length_field": 9,
+  "old_text": "Scene 10",
+  "new_text": "씬 10"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_VisualInfo.uexp",
+  "offset": 304,
+  "old_encoding": "ascii",
+  "old_length_field": 9,
+  "old_text": "Scene 11",
+  "new_text": "씬 11"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_2/DT_Game2_VisualInfo.uexp",
+  "offset": 339,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Ending",
+  "new_text": "엔딩"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 25,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "OPENING",
+  "new_text": "오프닝"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 40,
+  "old_encoding": "ascii",
+  "old_length_field": 14,
+  "old_text": "Shinobu Ogawa",
+  "new_text": "오가와 시노부"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 73,
+  "old_encoding": "ascii",
+  "old_length_field": 17,
+  "old_text": "VILLEGE OF CELTS",
+  "new_text": "켈트 마을"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 97,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 131,
+  "old_encoding": "ascii",
+  "old_length_field": 14,
+  "old_text": "MARRIGE FIELD",
+  "new_text": "결혼의 들판"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 152,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 186,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "BATTLE",
+  "new_text": "전투"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 200,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 234,
+  "old_encoding": "ascii",
+  "old_length_field": 10,
+  "old_text": "HALLSTATT",
+  "new_text": "할슈타트"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 251,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 285,
+  "old_encoding": "ascii",
+  "old_length_field": 17,
+  "old_text": "NIGHT & MAGIC ??",
+  "new_text": "밤과 마법 ??"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 309,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 343,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "SHOP",
+  "new_text": "상점"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 355,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 389,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "DUNGEON",
+  "new_text": "던전"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 404,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 438,
+  "old_encoding": "ascii",
+  "old_length_field": 9,
+  "old_text": "MID BOSS",
+  "new_text": "중간 보스"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 454,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 488,
+  "old_encoding": "ascii",
+  "old_length_field": 10,
+  "old_text": "FAR A WAY",
+  "new_text": "먼 곳으로"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 505,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 539,
+  "old_encoding": "ascii",
+  "old_length_field": 10,
+  "old_text": "HILL FORT",
+  "new_text": "언덕 요새"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 556,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 590,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "GATE OF HEAVEN",
+  "new_text": "천국의 문"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 612,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 646,
+  "old_encoding": "utf16",
+  "old_length_field": -14,
+  "old_text": "DEVIL’S CELLA",
+  "new_text": "악마의 성소"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 681,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 715,
+  "old_encoding": "utf16",
+  "old_length_field": -12,
+  "old_text": "BILLY’S SEA",
+  "new_text": "빌리의 바다"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 746,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 780,
+  "old_encoding": "ascii",
+  "old_length_field": 13,
+  "old_text": "DOOINNEY OIE",
+  "new_text": "두이네 오이"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 800,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 834,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "TAVERN",
+  "new_text": "주점"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 848,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 882,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "PIANO",
+  "new_text": "피아노"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 895,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 929,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "CASINO",
+  "new_text": "카지노"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 943,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 977,
+  "old_encoding": "ascii",
+  "old_length_field": 14,
+  "old_text": "SNAKE CHARMER",
+  "new_text": "뱀 부리는 사람"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 998,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 1032,
+  "old_encoding": "utf16",
+  "old_length_field": -10,
+  "old_text": "WHO’S WHO",
+  "new_text": "누구일까"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 1059,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 1093,
+  "old_encoding": "utf16",
+  "old_length_field": -13,
+  "old_text": "HEAVEN’S ELM",
+  "new_text": "천국의 느릅나무"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 1126,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 1160,
+  "old_encoding": "ascii",
+  "old_length_field": 17,
+  "old_text": "ELVES IN THE SKY",
+  "new_text": "하늘의 엘프들"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 1184,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 1218,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "GAULISH",
+  "new_text": "갈리아의"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 1233,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 1267,
+  "old_encoding": "ascii",
+  "old_length_field": 11,
+  "old_text": "FINAL BOSS",
+  "new_text": "최종 보스"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 1285,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Michiko Naruke",
+  "new_text": "나루케 미치코"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 1319,
+  "old_encoding": "ascii",
+  "old_length_field": 18,
+  "old_text": "SONG OF THE ANGEL",
+  "new_text": "천사의 노래"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_SoundInfo.uexp",
+  "offset": 1344,
+  "old_encoding": "ascii",
+  "old_length_field": 14,
+  "old_text": "Shinobu Ogawa",
+  "new_text": "오가와 시노부"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_VisualInfo.uexp",
+  "offset": 25,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "OPENING",
+  "new_text": "오프닝"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_VisualInfo.uexp",
+  "offset": 52,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Scene00",
+  "new_text": "씬 00"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_VisualInfo.uexp",
+  "offset": 79,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Scene01",
+  "new_text": "씬 01"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_VisualInfo.uexp",
+  "offset": 106,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Scene02",
+  "new_text": "씬 02"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_VisualInfo.uexp",
+  "offset": 133,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Scene03",
+  "new_text": "씬 03"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_VisualInfo.uexp",
+  "offset": 160,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Ending",
+  "new_text": "엔딩"
+ },
+ {
+  "file": "L10N/en/Ogix/Data/DT/Game_1/DT_Game1_VisualInfo.uexp",
+  "offset": 186,
+  "old_encoding": "ascii",
+  "old_length_field": 14,
+  "old_text": "Another story",
+  "new_text": "어나더 스토리"
+ },
+ {
+  "file": "Ogix/Data/DT/Common/DT_BootView.uexp",
+  "offset": 29,
+  "old_encoding": "utf16",
+  "old_length_field": -4,
+  "old_text": "ご注意",
+  "new_text": "주의사항"
+ },
+ {
+  "file": "Ogix/Data/DT/Common/DT_BootView.uexp",
+  "offset": 41,
+  "old_encoding": "utf16",
+  "old_length_field": -116,
+  "old_text": "ゲームソフトを権利者の許諾なく、\\nインターネットを通じて配信、配布する行為、\\nまた、違法なインターネット配信と知りながら、\\nダウンロードする行為は法律で固く禁じられております。\\nみなさまのご理解とご協力をお願いいたします。",
+  "new_text": "게임 소프트웨어를 권리자의 허락 없이\\n인터넷을 통해 배포, 유포하는 행위,\\n또한 불법 인터넷 배포임을 알면서도\\n다운로드하는 행위는 법으로 엄격히 금지되어 있습니다.\\n여러분의 이해와 협조를 부탁드립니다."
+ }
+]

@@ -1,0 +1,499 @@
+[
+ {
+  "offset": 46,
+  "old_encoding": "ascii",
+  "old_length_field": 23,
+  "old_text": "Tenshinouta COLLECTION",
+  "new_text": "천사의 시 컬렉션"
+ },
+ {
+  "offset": 84,
+  "old_encoding": "ascii",
+  "old_length_field": 14,
+  "old_text": "Select a game",
+  "new_text": "게임 선택"
+ },
+ {
+  "offset": 113,
+  "old_encoding": "ascii",
+  "old_length_field": 20,
+  "old_text": "Released 10/25/1991",
+  "new_text": "1991/10/25 발매"
+ },
+ {
+  "offset": 148,
+  "old_encoding": "ascii",
+  "old_length_field": 12,
+  "old_text": "Tenshinouta",
+  "new_text": "천사의 시"
+ },
+ {
+  "offset": 175,
+  "old_encoding": "ascii",
+  "old_length_field": 19,
+  "old_text": "Released 3/26/1993",
+  "new_text": "1993/3/26 발매"
+ },
+ {
+  "offset": 209,
+  "old_encoding": "ascii",
+  "old_length_field": 13,
+  "old_text": "Tenshinouta2",
+  "new_text": "천사의 시 2"
+ },
+ {
+  "offset": 237,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Scroll",
+  "new_text": "스크롤"
+ },
+ {
+  "offset": 259,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Select",
+  "new_text": "선택"
+ },
+ {
+  "offset": 281,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Back",
+  "new_text": "뒤로"
+ },
+ {
+  "offset": 301,
+  "old_encoding": "ascii",
+  "old_length_field": 14,
+  "old_text": "Reverse Cover",
+  "new_text": "커버 뒷면 보기"
+ },
+ {
+  "offset": 330,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Cancel",
+  "new_text": "취소"
+ },
+ {
+  "offset": 352,
+  "old_encoding": "ascii",
+  "old_length_field": 10,
+  "old_text": "Turn Page",
+  "new_text": "페이지 넘기기"
+ },
+ {
+  "offset": 377,
+  "old_encoding": "ascii",
+  "old_length_field": 11,
+  "old_text": "Pause/Quit",
+  "new_text": "일시정지/종료"
+ },
+ {
+  "offset": 403,
+  "old_encoding": "ascii",
+  "old_length_field": 11,
+  "old_text": "Play/Pause",
+  "new_text": "재생/일시정지"
+ },
+ {
+  "offset": 429,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Quit",
+  "new_text": "종료"
+ },
+ {
+  "offset": 449,
+  "old_encoding": "ascii",
+  "old_length_field": 11,
+  "old_text": "Hide Guide",
+  "new_text": "가이드 숨기기"
+ },
+ {
+  "offset": 475,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Change",
+  "new_text": "변경"
+ },
+ {
+  "offset": 497,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Reset",
+  "new_text": "리셋"
+ },
+ {
+  "offset": 518,
+  "old_encoding": "ascii",
+  "old_length_field": 20,
+  "old_text": "Select data to load",
+  "new_text": "불러올 데이터를 선택하십시오"
+ },
+ {
+  "offset": 553,
+  "old_encoding": "ascii",
+  "old_length_field": 20,
+  "old_text": "Select data to save",
+  "new_text": "저장할 데이터를 선택하십시오"
+ },
+ {
+  "offset": 588,
+  "old_encoding": "ascii",
+  "old_length_field": 10,
+  "old_text": "Override.",
+  "new_text": "덮어씁니다."
+ },
+ {
+  "offset": 613,
+  "old_encoding": "ascii",
+  "old_length_field": 4,
+  "old_text": "Yes",
+  "new_text": "예"
+ },
+ {
+  "offset": 632,
+  "old_encoding": "ascii",
+  "old_length_field": 3,
+  "old_text": "No",
+  "new_text": "아니요"
+ },
+ {
+  "offset": 650,
+  "old_encoding": "ascii",
+  "old_length_field": 41,
+  "old_text": "Would you like to resume with this data?",
+  "new_text": "이 데이터로 계속하시겠습니까?"
+ },
+ {
+  "offset": 706,
+  "old_encoding": "ascii",
+  "old_length_field": 132,
+  "old_text": "Warning\r\nThe game will resume from the last suspended save point.\r\nPlease note that this may render the in-game save data unusable.",
+  "new_text": "경고\n마지막 중단 지점에서 재개합니다.\n게임 내 저장 데이터 사용이 불가할 수 있습니다."
+ },
+ {
+  "offset": 853,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Manual",
+  "new_text": "매뉴얼"
+ },
+ {
+  "offset": 875,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Audio",
+  "new_text": "오디오"
+ },
+ {
+  "offset": 896,
+  "old_encoding": "ascii",
+  "old_length_field": 10,
+  "old_text": "Cutscenes",
+  "new_text": "컷신"
+ },
+ {
+  "offset": 921,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Play",
+  "new_text": "재생"
+ },
+ {
+  "offset": 941,
+  "old_encoding": "ascii",
+  "old_length_field": 9,
+  "old_text": "Controls",
+  "new_text": "조작법"
+ },
+ {
+  "offset": 965,
+  "old_encoding": "utf16",
+  "old_length_field": -9,
+  "old_text": "Ⅰ button",
+  "new_text": "Ⅰ 버튼"
+ },
+ {
+  "offset": 998,
+  "old_encoding": "utf16",
+  "old_length_field": -9,
+  "old_text": "Ⅱ button",
+  "new_text": "Ⅱ 버튼"
+ },
+ {
+  "offset": 1031,
+  "old_encoding": "ascii",
+  "old_length_field": 11,
+  "old_text": "Run button",
+  "new_text": "달리기 버튼"
+ },
+ {
+  "offset": 1057,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Select  button",
+  "new_text": "셀렉트 버튼"
+ },
+ {
+  "offset": 1087,
+  "old_encoding": "ascii",
+  "old_length_field": 25,
+  "old_text": "Directional  button (Up)",
+  "new_text": "방향키 (위)"
+ },
+ {
+  "offset": 1127,
+  "old_encoding": "ascii",
+  "old_length_field": 27,
+  "old_text": "Directional  button (Down)",
+  "new_text": "방향키 (아래)"
+ },
+ {
+  "offset": 1169,
+  "old_encoding": "ascii",
+  "old_length_field": 32,
+  "old_text": "Directional button (Left/Right)",
+  "new_text": "방향키 (좌/우)"
+ },
+ {
+  "offset": 1216,
+  "old_encoding": "ascii",
+  "old_length_field": 26,
+  "old_text": "Select / Confirm commands",
+  "new_text": "명령 선택 / 결정"
+ },
+ {
+  "offset": 1257,
+  "old_encoding": "ascii",
+  "old_length_field": 39,
+  "old_text": "Select / Cancel commands\r\nMenu display",
+  "new_text": "명령 선택 / 취소\n메뉴 표시"
+ },
+ {
+  "offset": 1311,
+  "old_encoding": "ascii",
+  "old_length_field": 11,
+  "old_text": "Game start",
+  "new_text": "게임 시작"
+ },
+ {
+  "offset": 1337,
+  "old_encoding": "ascii",
+  "old_length_field": 16,
+  "old_text": "Command display",
+  "new_text": "명령 표시"
+ },
+ {
+  "offset": 1368,
+  "old_encoding": "ascii",
+  "old_length_field": 29,
+  "old_text": "Move character and cursor up",
+  "new_text": "캐릭터 및 커서를 위로 이동"
+ },
+ {
+  "offset": 1412,
+  "old_encoding": "ascii",
+  "old_length_field": 31,
+  "old_text": "Move character and cursor down",
+  "new_text": "캐릭터 및 커서를 아래로 이동"
+ },
+ {
+  "offset": 1458,
+  "old_encoding": "ascii",
+  "old_length_field": 49,
+  "old_text": "Move character and cursor\r\nto the left and right",
+  "new_text": "캐릭터 및 커서를\n좌우로 이동"
+ },
+ {
+  "offset": 1522,
+  "old_encoding": "ascii",
+  "old_length_field": 26,
+  "old_text": "Select / Confirm commands",
+  "new_text": "명령 선택 / 결정"
+ },
+ {
+  "offset": 1563,
+  "old_encoding": "ascii",
+  "old_length_field": 39,
+  "old_text": "Select / Cancel commands\r\nMenu display",
+  "new_text": "명령 선택 / 취소\n메뉴 표시"
+ },
+ {
+  "offset": 1617,
+  "old_encoding": "ascii",
+  "old_length_field": 11,
+  "old_text": "Game start",
+  "new_text": "게임 시작"
+ },
+ {
+  "offset": 1643,
+  "old_encoding": "ascii",
+  "old_length_field": 16,
+  "old_text": "Command display",
+  "new_text": "명령 표시"
+ },
+ {
+  "offset": 1674,
+  "old_encoding": "ascii",
+  "old_length_field": 29,
+  "old_text": "Move character and cursor up",
+  "new_text": "캐릭터 및 커서를 위로 이동"
+ },
+ {
+  "offset": 1718,
+  "old_encoding": "ascii",
+  "old_length_field": 31,
+  "old_text": "Move character and cursor down",
+  "new_text": "캐릭터 및 커서를 아래로 이동"
+ },
+ {
+  "offset": 1764,
+  "old_encoding": "ascii",
+  "old_length_field": 49,
+  "old_text": "Move character and cursor\r\nto the left and right",
+  "new_text": "캐릭터 및 커서를 좌우로 이동"
+ },
+ {
+  "offset": 1828,
+  "old_encoding": "ascii",
+  "old_length_field": 159,
+  "old_text": "<white>These are the default control settings.</>\r\n<white>Writing in color indicates </><Red>the controls of the original version</>\r\n<white> (see manual).</>",
+  "new_text": "<white>기본 조작 설정입니다.</>\n<white>색상 표시는 </><Red>원작 버전의 조작법</>\n<white>을 나타냅니다(매뉴얼 참조).</>"
+ },
+ {
+  "offset": 2002,
+  "old_encoding": "ascii",
+  "old_length_field": 25,
+  "old_text": "Display Controls in Game",
+  "new_text": "게임 내 조작법 표시"
+ },
+ {
+  "offset": 2042,
+  "old_encoding": "ascii",
+  "old_length_field": 11,
+  "old_text": "Key Config",
+  "new_text": "키 설정"
+ },
+ {
+  "offset": 2068,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Unused",
+  "new_text": "사용 안 함"
+ },
+ {
+  "offset": 2090,
+  "old_encoding": "ascii",
+  "old_length_field": 3,
+  "old_text": "On",
+  "new_text": "켬"
+ },
+ {
+  "offset": 2108,
+  "old_encoding": "ascii",
+  "old_length_field": 4,
+  "old_text": "Off",
+  "new_text": "끔"
+ },
+ {
+  "offset": 2322,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Original (4:3)",
+  "new_text": "원본 (4:3)"
+ },
+ {
+  "offset": 2352,
+  "old_encoding": "ascii",
+  "old_length_field": 11,
+  "old_text": "Dot-by-dot",
+  "new_text": "1:1 매칭"
+ },
+ {
+  "offset": 2378,
+  "old_encoding": "ascii",
+  "old_length_field": 11,
+  "old_text": "Fullscreen",
+  "new_text": "전체 화면"
+ },
+ {
+  "offset": 2404,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Menu",
+  "new_text": "메뉴"
+ },
+ {
+  "offset": 2424,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Save",
+  "new_text": "저장"
+ },
+ {
+  "offset": 2444,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Load",
+  "new_text": "불러오기"
+ },
+ {
+  "offset": 2464,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Config",
+  "new_text": "설정"
+ },
+ {
+  "offset": 2486,
+  "old_encoding": "ascii",
+  "old_length_field": 16,
+  "old_text": "Screen Settings",
+  "new_text": "화면 설정"
+ },
+ {
+  "offset": 2517,
+  "old_encoding": "ascii",
+  "old_length_field": 9,
+  "old_text": "Controls",
+  "new_text": "조작법"
+ },
+ {
+  "offset": 2541,
+  "old_encoding": "ascii",
+  "old_length_field": 23,
+  "old_text": "Return to Title Screen",
+  "new_text": "타이틀 화면으로 돌아가기"
+ },
+ {
+  "offset": 2579,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Rewind",
+  "new_text": "되감기"
+ },
+ {
+  "offset": 2601,
+  "old_encoding": "utf16",
+  "old_length_field": -9,
+  "old_text": "巻き戻しますか？",
+  "new_text": "되감으시겠습니까?"
+ },
+ {
+  "offset": 2634,
+  "old_encoding": "ascii",
+  "old_length_field": 23,
+  "old_text": "Return to Title Screen",
+  "new_text": "타이틀 화면으로 돌아가기"
+ },
+ {
+  "offset": 2687,
+  "old_encoding": "ascii",
+  "old_length_field": 18,
+  "old_text": "English Subtitles",
+  "new_text": "영어 자막"
+ }
+]

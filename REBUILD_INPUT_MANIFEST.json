@@ -1,0 +1,496 @@
+{
+  "date": "2026-10-16",
+  "scope": "Active public reproducible-build inputs. Original assets and tools are externally supplied; 2nd game videos require the pinned release archive. Historical source snapshot is SOURCE_MANIFEST.json.",
+  "files": [
+    {
+      "path": "assets/card_fonts/Galmuri7_8x8.png",
+      "bytes": 71121,
+      "sha256": "455d607c16a6e7c14da6662bab33b8ba98af4a6d829cd5981cad7465d18bc7a6"
+    },
+    {
+      "path": "assets/card_fonts/Galmuri9_10x10.png",
+      "bytes": 108370,
+      "sha256": "67df0808d1c3f2634db9e4772c0394a315e9b92249412d880c59d1aa389bc546"
+    },
+    {
+      "path": "assets/card_fonts/GalmuriMono9_10x10.png",
+      "bytes": 91861,
+      "sha256": "5b26268ca43e7638288a56422870d0adc6406c449c90f4fe7ba1a28600670df6"
+    },
+    {
+      "path": "assets/card_fonts/GalmuriMono9_16x16.png",
+      "bytes": 130610,
+      "sha256": "b11c47aa696d10d54c92376d436de6a65df6d81d240147dc5875c8f5f831bda1"
+    },
+    {
+      "path": "assets/fonts/Galmuri11-Condensed.ttf",
+      "bytes": 2668536,
+      "sha256": "7b433b4a007c36dfb535fdea11de3e4f4c8b641ab591ed05d3bc0a4bbd75eb5f"
+    },
+    {
+      "path": "assets/fonts/Galmuri9.ttf",
+      "bytes": 4649144,
+      "sha256": "5cb68052ee0a15571747e91c20f145e24b51bb459c6cd58226fafee78d9c0b16"
+    },
+    {
+      "path": "assets/fonts/NotoSansCJKkr-Regular.otf",
+      "bytes": 16433112,
+      "sha256": "6bcb2a0703aa137e874fc2dffa85f6c21ba9a67fa329e81b8c801663af7e992a"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_1.xdelta",
+      "bytes": 394330,
+      "sha256": "1643f1085a0684dc3cb89ea8e96f21a2b6a2526bd10d0befd696b8d0877ace60"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_10.xdelta",
+      "bytes": 608456,
+      "sha256": "afe7c3fa05416201238130a5012fe13d79d969892074c5e6e71f69a312087c7a"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_11.xdelta",
+      "bytes": 643474,
+      "sha256": "80e365edacfb9c4e087a4f207c83b68c1e578726ec2ad864baa978b7f486c858"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_12.xdelta",
+      "bytes": 643306,
+      "sha256": "ac04ba2696c90b74c5944f81e195d43ebe13cbdef9673f45fcd0687ad08567d0"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_13.xdelta",
+      "bytes": 654454,
+      "sha256": "7454c517282ae52be85af72fa56fddd4456f7f6036deff54d34a40068ec8c085"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_14.xdelta",
+      "bytes": 611791,
+      "sha256": "1c1309d4e6420d0d659f81b1f940a5f97758ed7028085a874d4c6f7a828aeec7"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_15.xdelta",
+      "bytes": 385052,
+      "sha256": "2968b8246ce73931732738937b5cac70d7c5993ecabc2a0af2c6a73bf108e341"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_16.xdelta",
+      "bytes": 3708042,
+      "sha256": "8e82f74bf5e9a42977f05714c9819a031fd0937453a93ae9bf65e7aeb24a9812"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_17.xdelta",
+      "bytes": 394332,
+      "sha256": "d875c561adaac9eccaf2511a65a061f5455e717f7bd4c9a5df8ba2a5e1f1124f"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_18.xdelta",
+      "bytes": 663927,
+      "sha256": "14ba752efe577e78fedd93e7fb67dfba6bc3cd0325cd276b3decef3e932ae7ff"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_19.xdelta",
+      "bytes": 744381,
+      "sha256": "f98434cd1c523c8cc21f087ff8102e2ac6b84c6a871037550d30a65fed22fef9"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_2.xdelta",
+      "bytes": 663824,
+      "sha256": "04db5cf5b1c34f20796535f917906c10db40c335f727b0768c4fe7b0360d7cd1"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_20.xdelta",
+      "bytes": 691172,
+      "sha256": "e44f7c5f970ac0435c6f6f64bbb28d4db0d792d3e7e78f410bc05d8f1536045e"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_21.xdelta",
+      "bytes": 681555,
+      "sha256": "f86d6c745bad728d43b0ef34cf4253064d0b69536fa2927238c621f0f935932b"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_22.xdelta",
+      "bytes": 667940,
+      "sha256": "832c919c30060effc581342a85339f941a7fab5a564ad23ecfa047db7bb53515"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_23.xdelta",
+      "bytes": 640014,
+      "sha256": "e4487ba1b2f73eae5210005a6ddfeff59940a819488527808526cafa275f13cc"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_24.xdelta",
+      "bytes": 614397,
+      "sha256": "30675ac9ae87eb19567717767d10b7b86122f709b74fcfb245ad808d8a36718d"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_25.xdelta",
+      "bytes": 646758,
+      "sha256": "ae6d5cdec78aca7bfe714d8f101c5781a0eb0bd1f278ddc449274004938f4a66"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_26.xdelta",
+      "bytes": 608483,
+      "sha256": "24e8f20d4a6e3a0301f742478d7202a9c94c30609be56c832039672f73b74683"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_27.xdelta",
+      "bytes": 643455,
+      "sha256": "32f3cfffe2ddd0b62f9dc6b0ffde468f562aaa94bd88dcb27614b2b66415c49b"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_28.xdelta",
+      "bytes": 643316,
+      "sha256": "d10f18cee4d9926fed1f6e383bca7ae367c5d9e3ce7af3b8bfe9f1b394ffa4f8"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_29.xdelta",
+      "bytes": 654484,
+      "sha256": "96dd696379dbff189dd9f5b7fae8cd2f79a9b971a613a0b9c2868aace22802cd"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_3.xdelta",
+      "bytes": 744372,
+      "sha256": "dc39750539c976a65db134983121c2d3dcc0bf216ab314f2eebd3a7950d480f4"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_30.xdelta",
+      "bytes": 611830,
+      "sha256": "5beffac056aa6e5d5ae425696c54e374157a2958a6bdf213961b60d91b3d308e"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_31.xdelta",
+      "bytes": 391610,
+      "sha256": "bec2e8204bbcef89fcda3b99202ff412169fdff2a5dfeac1f9754a4bfca996e9"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_32.xdelta",
+      "bytes": 3713556,
+      "sha256": "40a36f40acd61f4e51ae16747672c1d0caf0772870342d01ec0fd718a13e198c"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_4.xdelta",
+      "bytes": 691150,
+      "sha256": "b956f2244bb848f7c845295adff79cbec94f2b4509d297b30f544dd59ebceec3"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_5.xdelta",
+      "bytes": 681552,
+      "sha256": "5d4bc0b6c06cebbc5e7640dac24569828a970d9f617e0ad0276d402fb400fb51"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_6.xdelta",
+      "bytes": 667960,
+      "sha256": "a813b0d28b147632296d807923580af77b34a52ac999ff50a296316a82f608df"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_7.xdelta",
+      "bytes": 640004,
+      "sha256": "54a02714963c2d31e9df7060b4e1e32f5525dcafdca31e1a44799862ebb0cb7d"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_8.xdelta",
+      "bytes": 614375,
+      "sha256": "d55fe31e65d07e726f52cc8c73fc58afbdfe63e235e8b00aed38eb9a9aeba215"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual2_9.xdelta",
+      "bytes": 646722,
+      "sha256": "69c618de4f0921c221c668d2719d6046e0020f4c7e541b2431ab59e050ee28e7"
+    },
+    {
+      "path": "assets/manual_binary_deltas/manifest.json",
+      "bytes": 19849,
+      "sha256": "8ff58c41dc055496bc6c438379518bf08a0a89940d41ccb2ea6f751a1b8566ad"
+    },
+    {
+      "path": "assets/release_plans/repl_st.json",
+      "bytes": 11279,
+      "sha256": "3568ef97118a83a645b816186d8c7a596f75b3e4fcb9f7cd72e223deed5db33c"
+    },
+    {
+      "path": "assets/release_plans/repl_tenshi.json",
+      "bytes": 1317177,
+      "sha256": "755fd8869a94a40bf8f553d9b4464f504794dffd3b5fa8a09f823ce6f884e14d"
+    },
+    {
+      "path": "assets/release_plans/repl_ui.json",
+      "bytes": 30998,
+      "sha256": "fc3d37af872a07f4286db67daa37670b812b0f5de00e94228ef4d2a73d2a722a"
+    },
+    {
+      "path": "assets/release_plans/repl_vs.json",
+      "bytes": 54328,
+      "sha256": "9c58b0ad405b4a0035622ccc7ded3a18d9119425589b5b85ab6a54b49886e221"
+    },
+    {
+      "path": "config/rebuild_inputs.json",
+      "bytes": 2596,
+      "sha256": "363c291a15bd82ea26417b3cd24a423576dc6ee352fcb9a6d87c1f8e9ac8afe4"
+    },
+    {
+      "path": "config/release_payloads.json",
+      "bytes": 14204,
+      "sha256": "5d94b4fc42d7ebdc1b49c4ece5c80bcd4d27da5e64b5df408a13f1f502625439"
+    },
+    {
+      "path": "config/toolchain_sha256.json",
+      "bytes": 348,
+      "sha256": "28ad383d59b0f611d0cf8f51948e769b77217f1b76366b7d629122f114cd936e"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 89,
+      "sha256": "d32326b9bde35962caf480252cd5b57ba22652301f394e5695d5197078602dbc"
+    },
+    {
+      "path": "translation/card_game_extract/card_game_text_translation.csv",
+      "bytes": 4003,
+      "sha256": "936b7bc503810c60751e603dff1241ea9d17d039ffb5f0224f0dbfd7c961bf49"
+    },
+    {
+      "path": "translation/card_game_extract/iso_extract/build_korean_card_pngs.py",
+      "bytes": 3161,
+      "sha256": "5a1ef77a553dab2888198ea0f69daca46dc89e5fc65ccbe78fb3be300c5b4427"
+    },
+    {
+      "path": "translation/card_game_extract/iso_extract/build_korean_cards_from_iso_only.py",
+      "bytes": 4800,
+      "sha256": "42301f84d294a404eadcb9bad9afd539f21b6553b2a821519115c54a82f741fe"
+    },
+    {
+      "path": "translation/card_game_extract/iso_extract/dump_pce_cd_toc.py",
+      "bytes": 671,
+      "sha256": "04dea33cec0928ea443ddebf6023759ae1da5fb88695027efe09fabfa46598cb"
+    },
+    {
+      "path": "translation/card_game_extract/iso_extract/find_prince_card_tiles.py",
+      "bytes": 7715,
+      "sha256": "8d3338abc20c000a93a4a78381f1372669db9111f38d629102fedd70c57a5851"
+    },
+    {
+      "path": "translation/card_game_extract/iso_extract/search_iso_compression.py",
+      "bytes": 971,
+      "sha256": "09a7b73624b3b2cbe63bd4cdc61e960970f90c136f5babfaac3075942987716f"
+    },
+    {
+      "path": "translation/outgameinfo2_paired.csv",
+      "bytes": 3853,
+      "sha256": "82b11d8a8d629d24b695c88e39cd3a3c7932eebc9123dc148732154a63a151ef"
+    },
+    {
+      "path": "translation/scripts/apply_replacements.py",
+      "bytes": 1822,
+      "sha256": "8728985d52360247e3a67543dab89aa9292379dd44f175b889869ad07512bbb9"
+    },
+    {
+      "path": "translation/scripts/audit_control_codes.py",
+      "bytes": 1432,
+      "sha256": "7ba9a0f1eecab5140ac322513659fffc76c978cc474a97ab2684316bfed4419c"
+    },
+    {
+      "path": "translation/scripts/build_patch.ps1",
+      "bytes": 8563,
+      "sha256": "c15509ea6749306c22c60094e42d53d8b8c336f3c9a2c41996c4e7aa509c14f3"
+    },
+    {
+      "path": "translation/scripts/build_patch2.ps1",
+      "bytes": 26219,
+      "sha256": "269424378ceb197f68b576d043cfd5e791b2c74a5043a0a7cc55e8b1ecb5e941"
+    },
+    {
+      "path": "translation/scripts/build_replacements.py",
+      "bytes": 6201,
+      "sha256": "3e5d0ec472e0ef3fa926b0c95497d9e2dab07dc1c2edf155323c969d7447631d"
+    },
+    {
+      "path": "translation/scripts/build_reproducible.ps1",
+      "bytes": 1189,
+      "sha256": "0be435c16a1ff8bff877c110f54684b8b3b02824995b36c2a935def8b34a3d3c"
+    },
+    {
+      "path": "translation/scripts/build_st_replacements.py",
+      "bytes": 1607,
+      "sha256": "c38034b5ec426131e35317975b87aa55ccd687d8b12cf68ac11949df329ecfee"
+    },
+    {
+      "path": "translation/scripts/build_ui_replacements.py",
+      "bytes": 3448,
+      "sha256": "7a9cf4d2371b96a9bdba036e09ff01b68c1424a329e97f472fef7a1269b5428d"
+    },
+    {
+      "path": "translation/scripts/build_ui_replacements2.py",
+      "bytes": 3779,
+      "sha256": "ad95fda9ec18aee2f49c8be9d0e65f41e367e1b8bbcf64cbf3c2ab910d890680"
+    },
+    {
+      "path": "translation/scripts/export_manual_png.py",
+      "bytes": 3195,
+      "sha256": "44fbef6445ab8f6b0db140a8b73ed75912ab86d6a10fe9cf7f94fcd434bc4e6e"
+    },
+    {
+      "path": "translation/scripts/extract_strings.py",
+      "bytes": 3410,
+      "sha256": "3c3fe676b68c622d866c6f9b125a9804bfbbe042f71e5b4b68c67066fc79c509"
+    },
+    {
+      "path": "translation/scripts/extract_switch_paks.py",
+      "bytes": 3182,
+      "sha256": "7e9f69010e98f72bf9a2011eb3dc865a5c38dcc70ef850bb2340a5be5d64dc0d"
+    },
+    {
+      "path": "translation/scripts/find_inconsistent_translations.py",
+      "bytes": 3265,
+      "sha256": "f6639938ef2c15cfb56917169bd6b8a90b5bd59c6f389df81560baacc477a814"
+    },
+    {
+      "path": "translation/scripts/find_near_duplicate_translations.py",
+      "bytes": 2762,
+      "sha256": "0c44ac7dfe877c59bc3fcd7f8e1f27b7f02cdca7b3702e3f77e2725fe1d5fd4c"
+    },
+    {
+      "path": "translation/scripts/inject_card_game_png.py",
+      "bytes": 2139,
+      "sha256": "d6fa54e97a8702cc9a884938958f3d041607276843b001f6005e2085c7961112"
+    },
+    {
+      "path": "translation/scripts/inject_manual_png.py",
+      "bytes": 3573,
+      "sha256": "5b4ac5759b03b2a009162b944bdca238bada63c1052160dc5a62f7942c455f07"
+    },
+    {
+      "path": "translation/scripts/make_paired_csv.py",
+      "bytes": 5680,
+      "sha256": "0fe00c07a87a72728b95511be23bf16ceb048652c656202c0390ecd1557c80d7"
+    },
+    {
+      "path": "translation/scripts/make_xlsx.py",
+      "bytes": 2171,
+      "sha256": "8029ed63db711e844e1c601291f4648cd6c6cd3010c21641537ecc23da847573"
+    },
+    {
+      "path": "translation/scripts/make_xlsx2.py",
+      "bytes": 2599,
+      "sha256": "0e64e4633bfff215cb4f9a5b60c2300597c3e30073382ad185cfb22a40d41ae2"
+    },
+    {
+      "path": "translation/scripts/patch_floats_at_offsets.py",
+      "bytes": 868,
+      "sha256": "5e482293aa61c1b7b1426bfc2cd68e2ae2c7b6888f7f07adae46370e5571927e"
+    },
+    {
+      "path": "translation/scripts/patch_font_vertical_metrics.py",
+      "bytes": 4670,
+      "sha256": "de900a210fb522ad4e218f8d8540b2d6a7471747364a1cf448388e9a3e4967c3"
+    },
+    {
+      "path": "translation/scripts/patch_richtext_font_size.py",
+      "bytes": 699,
+      "sha256": "0ad1b9281e29a2b688c71b347be4987bf6b0fc61eada97bf3eb3603726a7bbab"
+    },
+    {
+      "path": "translation/scripts/patch_selected_font_size.py",
+      "bytes": 955,
+      "sha256": "631895bfa9092f69b2e20f7d0ae0adc3c2eebd79b2f1f450990040f748bffd0d"
+    },
+    {
+      "path": "translation/scripts/patch_serialsize_binary.py",
+      "bytes": 1053,
+      "sha256": "1029e37134024cd5580cafb898f4dbcde71858b72a5a2e261cac7f7bd0bac7cd"
+    },
+    {
+      "path": "translation/scripts/patch_track02_korean_cards.py",
+      "bytes": 12021,
+      "sha256": "9a04e67671af4407ce5c939124585606e90f2c24a669a6a08c9a7e2b3f843570"
+    },
+    {
+      "path": "translation/scripts/patch_visualscene_scene_id.py",
+      "bytes": 2336,
+      "sha256": "6575473338e0a0bd95faa9d9a9a8961c4dcdf96700e67a4407e06c2fe5d624cb"
+    },
+    {
+      "path": "translation/scripts/prepare_build_inputs.py",
+      "bytes": 6633,
+      "sha256": "521e40fec9855a5a938e698cceb248adb8721c21e6ff21bba3ecaea652573b8f"
+    },
+    {
+      "path": "translation/scripts/remove_extra_style_tags.py",
+      "bytes": 1323,
+      "sha256": "e96b8d212103b6d8200020cf1eee6ff7f8043ed25b6bb0499688c83b8863030f"
+    },
+    {
+      "path": "translation/scripts/restore_missing_style_tags.py",
+      "bytes": 2634,
+      "sha256": "3f5692f6e570a6f2e98d7f9b71e7293c720fa5fa9da4e47529a186ee5b41e515"
+    },
+    {
+      "path": "translation/scripts/rewrap_ko.py",
+      "bytes": 4153,
+      "sha256": "14fc35c158e0b8f50abdee2f3868ad2c04941d3bef559707d14089712b77ab1e"
+    },
+    {
+      "path": "translation/scripts/translate_card_game_png.py",
+      "bytes": 20534,
+      "sha256": "8bb5b02fa28797744148d98b7c2cfe60451316129a86de05400e09aa3c1223ec"
+    },
+    {
+      "path": "translation/scripts/verify_rebuild.py",
+      "bytes": 3205,
+      "sha256": "1d457ef62d2f2b6829de0aaa0eb21d86eab3e42d23d096eb39fef6ccac954dce"
+    },
+    {
+      "path": "translation/scripts/xlsx2_to_csv.py",
+      "bytes": 2715,
+      "sha256": "6312b9cca0c2ae628ac1373317506ae0d1354f0a541f9e3a8a33b3c1f2fce07d"
+    },
+    {
+      "path": "translation/scripts/xlsx_to_csv.py",
+      "bytes": 1646,
+      "sha256": "eb212e30ad5bfd823c629f2e438949c02c47a7c903a5ad78f44dc31fc9432ba3"
+    },
+    {
+      "path": "translation/visualscene2_paired.csv",
+      "bytes": 34741,
+      "sha256": "fd93f2b70a9d577b195a616506c356f6bbaf12cd44fa5192f8d9e3f157c8246e"
+    },
+    {
+      "path": "translation/동일원문_상이번역_검수.csv",
+      "bytes": 26249,
+      "sha256": "8b10c32ef64084a71f8c7ef1cfa98c350e4019f53018393d32c823a9e404ee01"
+    },
+    {
+      "path": "translation/백업_csv/outgameinfo2_paired.csv",
+      "bytes": 3853,
+      "sha256": "82b11d8a8d629d24b695c88e39cd3a3c7932eebc9123dc148732154a63a151ef"
+    },
+    {
+      "path": "translation/백업_csv/ui_menu_text2_paired.csv",
+      "bytes": 11081,
+      "sha256": "899d16b79568e676743225c8ddbde6223cd1f40b2eaa50453fe1d94125caf732"
+    },
+    {
+      "path": "translation/백업_csv/visualscene2_paired.csv",
+      "bytes": 35152,
+      "sha256": "ede961d833e447d99f2d62d6bce2c9cfd28127a1448a7e1df32f83f3a9ec33ed"
+    },
+    {
+      "path": "translation/천사의시2_UI_번역.xlsx",
+      "bytes": 14936,
+      "sha256": "e9576831f23a6b29100d0d4fadff2d9c6771b8f31fc15db98f1e137ac6e4dc23"
+    },
+    {
+      "path": "translation/천사의시2_게임선택_번역.xlsx",
+      "bytes": 8240,
+      "sha256": "8167c0fd72bdadc7009943a70fc96a145217f6ed5ce4de6c9d6976244507c63e"
+    },
+    {
+      "path": "translation/천사의시2_대사_번역.xlsx",
+      "bytes": 962963,
+      "sha256": "05b74b33ba27cd7b0bc8b1176f18dd2bfb2c75ba689a34e1f760345695407eb1"
+    },
+    {
+      "path": "translation/천사의시2_크레딧_번역.xlsx",
+      "bytes": 28347,
+      "sha256": "422f492a6922a58b59486b6d3f525a7c855bd5b5fd4a1ee557c295fa456c0ad2"
+    }
+  ]
+}

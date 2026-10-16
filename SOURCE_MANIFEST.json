@@ -254,5 +254,6 @@
       "bytes": 35152,
       "sha256": "ede961d833e447d99f2d62d6bce2c9cfd28127a1448a7e1df32f83f3a9ec33ed"
     }
-  ]
+  ],
+  "baseline_note": "Historical source snapshot at initial publication. See REBUILD_INPUT_MANIFEST.json for current reproducible build input hashes."
 }

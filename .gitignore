@@ -32,3 +32,22 @@ __pycache__/
 *.utoc
 *.uasset
 *.uexp
+
+/translation/input_cache/
+/translation/fontsrc_condensed/
+/translation/card_game_extract/legacy/
+/translation/card_game_extract/gamepack/
+/translation/card_game_extract/png/
+/translation/card_game_extract/translate/
+/translation/cutscene_translate/
+/translation/**/Manual[12]_*.png
+
+/translation/manual_patch_assets/
+
+# Private Switch extraction artifacts
+*.nsp
+*.nca
+*.tik
+*.cert
+*.keys
+/assets/manual_deltas/

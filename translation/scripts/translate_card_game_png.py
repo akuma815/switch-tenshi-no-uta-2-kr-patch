@@ -10,7 +10,7 @@ from PIL import Image, ImageDraw, ImageFont
 BASE = Path(__file__).resolve().parents[1]
 SOURCE = BASE / "card_game_extract" / "png"
 OUTPUT = BASE / "card_game_extract" / "translate"
-FONT_DIR = BASE.parents[2] / "Font"
+FONT_DIR = BASE.parent / "assets" / "fonts"
 FONT = FONT_DIR / "Galmuri11-Condensed.ttf"
 ASCII_FONT = FONT_DIR / "Galmuri9.ttf"
 BITMAP_FONT = BASE / "card_game_extract" / "Galmuri9_10x10.png"
