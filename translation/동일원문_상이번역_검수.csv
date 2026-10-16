@@ -1,0 +1,146 @@
+﻿group_id,source_field,term_like,source_text,translation_count,occurrence_count,variant,ko,offsets,jp_examples,en_examples
+G001,jp,Y,バムブレードを手に入れた！,2,2,1,바무 블레이드를 얻었다！,1150105,バムブレードを手に入れた！,Acquired Burning Blade!
+G001,jp,Y,バムブレードを手に入れた！,2,2,2,밤블레이드를 얻었다！,1084923,バムブレードを手に入れた！,Acquired Burning Blade!
+G002,en,Y,...,5,8,1,・・・・・・,206282 | 277823 | 1178117,・・・・・・,...
+G002,en,Y,...,5,8,2,・・・,163440 | 703996,・・・,...
+G002,en,Y,...,5,8,3,・・・..,28795,・・・・・,...
+G002,en,Y,...,5,8,4,・・・・・・・・・,648256,・・・・・・・・・,...
+G002,en,Y,...,5,8,5,・・・・・・・・・・・・,813236,・・・・・・・・・・・・,...
+G003,en,Y,Liana,2,2,1,리아나,1063,リアーナ,Liana
+G003,en,Y,Liana,2,2,2,리아나에 대해,44695,リアーナのこと,Liana
+G004,en,Y,Zzz...,9,9,1,쿠ー・・・,306203,くー・・・,Zzz...
+G004,en,Y,Zzz...,9,9,2,쿠ー쿠ー,290590,くーくー,Zzz...
+G004,en,Y,Zzz...,9,9,3,쿨쿨,509980,すやすや,Zzz...
+G004,en,Y,Zzz...,9,9,4,쿨쿨・・・,903255,すーすー・・・,Zzz...
+G004,en,Y,Zzz...,9,9,5,ＺＺＺ・・・,1302010,ＺＺＺ・・・,Zzz...
+G004,en,Y,Zzz...,9,9,6,ＺＺＺｚｚｚ・・・,825381,ＺＺＺｚｚｚ・・・,Zzz...
+G004,en,Y,Zzz...,9,9,7,ＺＺｚｚｚ・・・,746154,ＺＺｚｚｚ・・・,Zzz...
+G004,en,Y,Zzz...,9,9,8,Ｚｚｚｚ・・・・・・・・・,676134,Ｚｚｚｚ・・・・・・・・・,Zzz...
+G004,en,Y,Zzz...,9,9,9,ｚｚｚ・・・,151848,ｚｚｚ・・・,Zzz...
+G005,en,Y,Thanks!,2,2,1,고맙네！,333684,ありがとさん！,Thanks!
+G005,en,Y,Thanks!,2,2,2,매번 감사합니다！,838905,毎度！,Thanks!
+G006,en,Y,Thanks.,4,4,1,고마워,130750,ありがとよ,Thanks.
+G006,en,Y,Thanks.,4,4,2,고맙군,161195,ありがとうな,Thanks.
+G006,en,Y,Thanks.,4,4,3,고맙네,678224,どーもな,Thanks.
+G006,en,Y,Thanks.,4,4,4,고맙습니다,28517,ありがとう,Thanks.
+G007,en,Y,*whimper*,2,2,1,낑낑,190269,クウ〜ン,*whimper*
+G007,en,Y,*whimper*,2,2,2,아웅,1280943,あうん,*whimper*
+G008,en,Y,Arf! Arf!,2,2,1,깽깽！,950182,キャンキャン！,Arf! Arf!
+G008,en,Y,Arf! Arf!,2,2,2,앙！ 앙！,824463,あん！あん！,Arf! Arf!
+G009,en,Y,Grrrrr...,2,2,1,구루로로로・・・,1269831,グルロロロ・・・,Grrrrr...
+G009,en,Y,Grrrrr...,2,2,2,그르르르르・・・,150149,グルルルルル・・・,Grrrrr...
+G010,en,Y,Take care.,2,2,1,조심하게나,1196316,気をつけてな,Take care.
+G010,en,Y,Take care.,2,2,2,조심하세요,1068360,お気をつけて,Take care.
+G011,en,Y,%s attacks!,2,3,1,%s의 공격！,21687 | 33406,%sの攻撃！,%s attacks!
+G011,en,Y,%s attacks!,2,3,2,%s 공격！,22209,%s攻撃！,%s attacks!
+G012,en,Y,"Oh, really?",2,2,1,오、 그런가！,458650,おお、そうか！,"Oh, really?"
+G012,en,Y,"Oh, really?",2,2,2,오、 그렇니,249740,おや、そうかい,"Oh, really?"
+G013,en,Y,%s ran away!,2,3,1,%s(이)가 도망쳤다！,23021 | 33821,%sは逃げ出した！,%s ran away!
+G013,en,Y,%s ran away!,2,3,2,%s(이)가 도망쳤다,35647,%sは逃げ出した,%s ran away!
+G014,en,Y,Many thanks!,2,2,1,고마워요！,940521,あんがとさんっ！,Many thanks!
+G014,en,Y,Many thanks!,2,2,2,어서 오십시오！,494729,へい毎度！,Many thanks!
+G015,en,Y,Thankin' ya!,2,2,1,고마워요〜,897690,ありがとーさん,Thankin' ya!
+G015,en,Y,Thankin' ya!,2,2,2,매번 고맙습니다！,433858,毎度ありぃ！,Thankin' ya!
+G016,en,Y,Zzz... Zzz...,7,8,1,쌔근ー 쌔근ー,298377 | 304183,すぴー、すぴー | すー、すー,Zzz... Zzz...
+G016,en,Y,Zzz... Zzz...,7,8,2,구우・・・ 구우・・・,917660,グー・・・グー・・・,Zzz... Zzz...
+G016,en,Y,Zzz... Zzz...,7,8,3,드르렁、 퓨우,387662,ぐー、ぐー,Zzz... Zzz...
+G016,en,Y,Zzz... Zzz...,7,8,4,쌔근・・・ 쌔근・・・,688424,すー・・・すー・・・,Zzz... Zzz...
+G016,en,Y,Zzz... Zzz...,7,8,5,쿠울ー 쿠울ー,298785,ぴー、ぴー,Zzz... Zzz...
+G016,en,Y,Zzz... Zzz...,7,8,6,쿨・・・ 피휴・・・,687944,クー・・・　スピー・・・,Zzz... Zzz...
+G016,en,Y,Zzz... Zzz...,7,8,7,쿨쿨,827446,すーすー,Zzz... Zzz...
+G017,en,Y,#5Fate:\n#1...,2,3,1,#5페이트：\n#1・・・・・・,113801 | 887668,#5フェイト：\n#1・・・・・・,#5Fate:\n#1...
+G017,en,Y,#5Fate:\n#1...,2,3,2,#5페이트：\n#1・・・,1045451,#5フェイト：\n#1・・・,#5Fate:\n#1...
+G018,en,Y,See you again.,3,3,1,다음에 또 보자고,765068,またよろしくな,See you again.
+G018,en,Y,See you again.,3,3,2,다음에 또 봐요,764741,またよろしくね,See you again.
+G018,en,Y,See you again.,3,3,3,다음에 또 뵙겠습니다,839258,次回もよろしく,See you again.
+G019,en,Y,The Underworld,2,2,1,지　저　계,30279,地　底　界,The Underworld
+G019,en,Y,The Underworld,2,2,2,지저계에 대해,45112,地底界のこと,The Underworld
+G020,en,Y,#5Liana:\n#1...,2,3,1,#5리아나：\n#1・・・,106717 | 1045992,#5リアーナ：\n#1・・・,#5Liana:\n#1...
+G020,en,Y,#5Liana:\n#1...,2,3,2,#5리아나:\n#1・・・・・・,651550,#5リアーナ：\n#1・・・・・・,#5Liana:\n#1...
+G021,en,Y,#5Fate:\n#1Sion!,2,3,1,#5페이트:\n#1시온！！,1134639 | 1229594,#5フェイト：\n#1シオン！！,#5Fate:\n#1Sion!
+G021,en,Y,#5Fate:\n#1Sion!,2,3,2,#5페이트:\n#1시오오온！！,1139341,#5フェイト：\n#1シオーーーン！！,#5Fate:\n#1Sion!
+G022,en,Y,Enjoy your stay.,2,2,1,부디 편히 쉬십시오,431546,ごゆっくり、おくつろぎ下さい,Enjoy your stay.
+G022,en,Y,Enjoy your stay.,2,2,2,푹 쉬세요,815313,ごゆっくり,Enjoy your stay.
+G023,en,Y,#5Liana:\n#1Fate...,2,2,1,#5리아나:\n#1페이,366520,#5リアーナ：\n#1フェイ,#5Liana:\n#1Fate...
+G023,en,Y,#5Liana:\n#1Fate...,2,2,2,#5리아나：\n#1페이트・・・,1047617,#5リアーナ：\n#1フェイト・・・,#5Liana:\n#1Fate...
+G024,en,Y,#5Fate:\n#1...Sion?!,2,2,1,#5페이트:\n#1・・・시온！？,394879,#5フェイト：\n#1・・・シオン！？,#5Fate:\n#1...Sion?!
+G024,en,Y,#5Fate:\n#1...Sion?!,2,2,2,#5페이트:\n#1시온이・・・！！,364830,#5フェイト：\n#1シオンが・・・！！,#5Fate:\n#1...Sion?!
+G025,en,Y,Thank you very much!,2,2,1,감사합니다！,215759,ありがとうございました！,Thank you very much!
+G025,en,Y,Thank you very much!,2,2,2,정말 감사합니다〜,404315,どうもありがとうございました〜,Thank you very much!
+G026,en,Y,Thank you very much.,2,4,1,감사합니다,239354 | 815741,ありがとうございます | ありがとうございました,Thank you very much.
+G026,en,Y,Thank you very much.,2,4,2,정말 감사합니다,554429 | 824208,どうもありがとうございました | どうも、ありがとうございました,Thank you very much.
+G027,en,Y,What would you like?,2,2,1,무엇으로 하시겠습니까？,1297618,なににしますか,What would you like?
+G027,en,Y,What would you like?,2,2,2,무엇으로 하시겠어요〜,1311520,なににしますか～,What would you like?
+G028,en,Y,A combo attack by %s!,2,2,1,%s의 연속 공격！,21874,%sの連続攻撃！,A combo attack by %s!
+G028,en,Y,A combo attack by %s!,2,2,2,%s의 연속 공격！！,37946,%sの連続攻撃！！,A combo attack by %s!
+G029,en,Y,Shrine of the Sea God,2,2,1,북쪽　해신의 신전,102834,北　海神の神殿,Shrine of the Sea God
+G029,en,Y,Shrine of the Sea God,2,2,2,해신의 신전,18602,海神の神殿,Shrine of the Sea God
+G030,en,Y,"Well, come back again.",2,2,1,그럼 다음에 또 와,896659,それじゃ、また来てね,"Well, come back again."
+G030,en,Y,"Well, come back again.",2,2,2,그럼、 다음에 또 오렴,307925,それじゃ、また来ておくれよ,"Well, come back again."
+G031,en,Y,Acquired Burning Blade!,3,3,1,바무 블레이드를 얻었다！,1150105,バムブレードを手に入れた！,Acquired Burning Blade!
+G031,en,Y,Acquired Burning Blade!,3,3,2,밤 블레이드를 손에 넣었다！,1189725,バム・ブレードを手に入れた！,Acquired Burning Blade!
+G031,en,Y,Acquired Burning Blade!,3,3,3,밤블레이드를 얻었다！,1084923,バムブレードを手に入れた！,Acquired Burning Blade!
+G032,en,Y,There's nothing inside.,2,3,1,아무것도 들어있지 않다,416254 | 1176084,何も入っていない | 何も入ってない,There's nothing inside.
+G032,en,Y,There's nothing inside.,2,3,2,아무것도 들어 있지 않다.,480914,何も入っていない。,There's nothing inside.
+G033,en,Y,"Have a good night, then.",2,2,1,그럼、 잘 자,307818,それじゃ、お休み,"Have a good night, then."
+G033,en,Y,"Have a good night, then.",2,2,2,그럼、 잘 자요,291249,それじゃあ、お休み,"Have a good night, then."
+G034,en,Y,#5Fahn joins the group.#1,2,2,1,#5판이 동료가 되었다#1,365800,%f4#5ファンが仲間になった#1,#5Fahn joins the group.#1
+G034,en,Y,#5Fahn joins the group.#1,2,2,2,#5판이 동료가 되었다.#1,419038,%f4#5ファンが仲間に加わった#1,#5Fahn joins the group.#1
+G035,en,Y,#5Fate:\n#1What the heck?!,2,2,1,#5페이트:\n#1무슨 소리를 하는 거야！？,1257938,#5フェイト：\n#1何のことなんだ！？,#5Fate:\n#1What the heck?!
+G035,en,Y,#5Fate:\n#1What the heck?!,2,2,2,#5페이트:\n#1뭐야 이건・・・！？,1122896,#5フェイト：\n#1なんだこりゃあ・・・！？,#5Fate:\n#1What the heck?!
+G036,en,Y,#5Barabbas:\n#1It can't be!,2,2,1,#5바라바:\n#1말도 안 돼애애애！！,1272126,バラヴァ：\nそんなバカなぁぁぁぁっ！！,#5Barabbas:\n#1It can't be!
+G036,en,Y,#5Barabbas:\n#1It can't be!,2,2,2,요라바:\n#1그럴 리가 없잖아아아아！！,1109501,よラヴァ：\n#1そんなバカなぁぁぁぁっ！！,#5Barabbas:\n#1It can't be!
+G037,en,Y,...I see! Then you must die!,2,2,1,・・・그렇군！ 그렇다면 죽어줘야・・・,1047960,・・・そうか！ならば死んでもら,...I see! Then you must die!
+G037,en,Y,...I see! Then you must die!,2,2,2,・・・그렇군！ 그렇다면 죽어줘야겠다！！,1041985,・・・そうか！ならば死んでもらうぞ！！,...I see! Then you must die!
+G038,en,Y,You don't have enough money.,3,4,1,돈이 부족해,130645 | 265514,金が足りないぜ | お金が足りないわよ,You don't have enough money.
+G038,en,Y,You don't have enough money.,3,4,2,돈이 부족한 모양이군,132661,お金が足りないみたいね,You don't have enough money.
+G038,en,Y,You don't have enough money.,3,4,3,돈이 부족합니다,811326,お金が足りません,You don't have enough money.
+G039,en,Y,%s's spells have been sealed!,2,2,1,%s의 주문을 봉인했다！,32853,%sの呪文を封じた！,%s's spells have been sealed!
+G039,en,Y,%s's spells have been sealed!,2,2,2,%s의 주문이 봉인되었다！,21426,%sは呪文を封じられた！,%s's spells have been sealed!
+G040,en,N,There's a reward in it for you.,2,2,1,물론 사례는 톡톡히 하겠네,131510,もちろん礼はするぜ,There's a reward in it for you.
+G040,en,N,There's a reward in it for you.,2,2,2,물론 사례는 하겠네,133473,もちろん礼はするよ,There's a reward in it for you.
+G041,en,N,%s's defense has increased by %d!,2,3,1,%s의 방어력이 %d 상승했다！,19770 | 31688,%sの防御力が%dあがった！,%s's defense has increased by %d!
+G041,en,N,%s's defense has increased by %d!,2,3,2,%s의 공격력이 %d 상승했다！,31401,%sの攻撃力が%dあがった！,%s's defense has increased by %d!
+G042,en,N,Scuffs and scratches heal right up.,2,2,1,상처가 눈에 띄게 치료된다.,1096897,傷がみるみるうちに治っていく。,Scuffs and scratches heal right up.
+G042,en,N,Scuffs and scratches heal right up.,2,2,2,상처가 순식간에 나아간다,105857,傷がみるみるうちに治っていく,Scuffs and scratches heal right up.
+G043,en,N,"Very well, I'll record your journey.",2,2,1,그럼 기록하겠습니다,570925,それでは記録いたします,"Very well, I'll record your journey."
+G043,en,N,"Very well, I'll record your journey.",2,2,2,그럼 일지에 기록하겠습니다,225286,それでは日誌に記録いたします,"Very well, I'll record your journey."
+G044,en,N,"#5Fahn:\n#1Watch out! Over here, Fate!",2,3,1,#5판:\n#1위험해！ 이쪽이야、 페이트！,617902 | 1265397,%F.%F4#5ファン：\n#1危ない！こっちだ、フェイト！ | ファン：\n危ない！こっちだ、フェイト！,"#5Fahn:\n#1Watch out! Over here, Fate!"
+G044,en,N,"#5Fahn:\n#1Watch out! Over here, Fate!",2,3,2,\n#5판:\n#1위험해！ 이쪽이야、 페이트！,1301801,\n#5ファン：\n#1危ない！こっちだ、フェイト！,"#5Fahn:\n#1Watch out! Over here, Fate!"
+G045,en,N,Open those eyes up and have a good look!,2,2,1,자、 얼른 둘러보고 가라고！,1313138,さっ、よ～く見てってくんな！,Open those eyes up and have a good look!
+G045,en,N,Open those eyes up and have a good look!,2,2,2,자、 얼른 보고 가라고！,1282987,さっ、よく見てってくんな！,Open those eyes up and have a good look!
+G046,en,N,#5Fate:\n#1Has something come back to you?!,2,2,1,#5페이트:\n#1뭐 좀 생각난 거야！？,369764,#5フェイト：\n#1何か思い出したのか！？,#5Fate:\n#1Has something come back to you?!
+G046,en,N,#5Fate:\n#1Has something come back to you?!,2,2,2,#5페이트：\n#1뭔가 생각난 거야！？,1007361,#5フェイト：\n#1何か思い出したのかい！？,#5Fate:\n#1Has something come back to you?!
+G047,en,N,"Sorry, but could you move behind the counter?",3,3,1,미안하지만 카운터 쪽으로\n와주지 않겠나？,149085,すまないが、カウンターのほうに\nまわってくれないか？,"Sorry, but could you move behind the counter?"
+G047,en,N,"Sorry, but could you move behind the counter?",3,3,2,미안하지만、 카운터 쪽으로 돌아와 줘.,427322,すまんが、カウンターの方に回ってくれ。,"Sorry, but could you move behind the counter?"
+G047,en,N,"Sorry, but could you move behind the counter?",3,3,3,미안하지만、\n카운터 쪽으로 돌아와 줘,264231,悪いけど、\nカウンターのほうへまわっておくれ,"Sorry, but could you move behind the counter?"
+G048,en,N,I see. Come back when you feel like a drink.\n,2,2,1,그런가.\n술이 생각나면 언제든 오게나,614318,そうかい。\n飲みたくなったら来るといいさ,I see. Come back when you feel like a drink.\n
+G048,en,N,I see. Come back when you feel like a drink.\n,2,2,2,그렇구먼\n술이 생각나면 언제든 오게나.,478624,そうかい\n飲みたくなったら来るといいさ,I see. Come back when you feel like a drink.\n
+G049,en,N,I see.\nI shall be waiting for you to visit again.,2,2,1,그러십니까\n그럼 다음에 또 이용해 주시길 기다리겠습니다,225608,左様でございますか\nそれでは、またの御利用をお待ちしております,I see.\nI shall be waiting for you to visit again.
+G049,en,N,I see.\nI shall be waiting for you to visit again.,2,2,2,그렇습니까\n그럼 다음에 또 이용해 주세요,894017,そうですか\nそれでは、またの御利用をお待ちしてます,I see.\nI shall be waiting for you to visit again.
+G050,en,N,The jar is sucking up all of the water in the well!,2,2,1,항아리 속으로 우물물이 계속 빨려 들어간다！,613679,つぼの中に、井戸水がどんどん吸い込まれていく！,The jar is sucking up all of the water in the well!
+G050,en,N,The jar is sucking up all of the water in the well!,2,2,2,항아리 속으로 우물물이 빨려 들어간다！,476901,つぼの中に、井戸水が吸い込まれていく！,The jar is sucking up all of the water in the well!
+G051,en,N,#5Fahn:\n#1And that makes two of us! That's exactly right!,2,2,1,#5판:\n#1마음이 딱 맞는데！\n정말 그 말 그대로야,366239,#5ファン：\n#1気が合うじゃねぇかぁ！\nまったくその通りだぜぇ,#5Fahn:\n#1And that makes two of us! That's exactly right!
+G051,en,N,#5Fahn:\n#1And that makes two of us! That's exactly right!,2,2,2,#5판:\n#1마음이 딱 맞는데！\n정말 그 말 그대로야！,365513,#5ファン：\n#1気が合うじゃねぇかぁ！\nまったくその通りだぜぇ！,#5Fahn:\n#1And that makes two of us! That's exactly right!
+G052,en,N,"#5Lanzo:\n#1No sweat. Could you step aside for a sec, Fate?",2,2,1,#5란조:\n#1어이、 좀 비켜봐、 페이트.,1296534,ランゾー：\nおう、ちょっとどいてみな、フェイト,"#5Lanzo:\n#1No sweat. Could you step aside for a sec, Fate?"
+G052,en,N,"#5Lanzo:\n#1No sweat. Could you step aside for a sec, Fate?",2,2,2,#5란조:\n#1오우、 잠깐 비켜봐、 페이트,1256457,#5ランゾー：\n#1おう、ちょっとどいてみな、フェイト,"#5Lanzo:\n#1No sweat. Could you step aside for a sec, Fate?"
+G053,en,N,Diaries are barometers for your treks.\n-The Travel Writer-,2,2,1,일지는 여행의 바로미터\n　　　　　　　　　　　　　　　　〜여행 일지 가게〜,756162,日誌は旅のバロメーター\n　　　　　　　　　　　　　　　　～旅の日誌屋～,Diaries are barometers for your treks.\n-The Travel Writer-
+G053,en,N,Diaries are barometers for your treks.\n-The Travel Writer-,2,2,2,일지는 여행의 바로미터\n　　　　　　　　　　　　　　　　여행 일지 가게,1279693,日誌は旅のバロメーター\n　　　　　　　　　　　　　　　　旅の日誌屋,Diaries are barometers for your treks.\n-The Travel Writer-
+G054,en,N,"#5Lanzo:\n#1Yoohoo, Fate!\nWhaaatcha doing in a place like this?",2,2,1,#5란조:\n#1여〜 페이트\n이〜런 곳에서 뭘 하고 있냐？,450559,#5ランゾー：\n#1よ〜う、フェイト\nこ〜んな所でなにやってんだい？,"#5Lanzo:\n#1Yoohoo, Fate!\nWhaaatcha doing in a place like this?"
+G054,en,N,"#5Lanzo:\n#1Yoohoo, Fate!\nWhaaatcha doing in a place like this?",2,2,2,#5란조:\n#1여〜어、 페이트.\n이〜런 곳에서 뭘 하고 있는 거야？,1302625,#5ランゾー：\n#1よ～う、フェイト\nこ～んな所でなにやってんだい？,"#5Lanzo:\n#1Yoohoo, Fate!\nWhaaatcha doing in a place like this?"
+G055,en,N,Everybody is resting at night.\nPlease come again tomorrow morning.,2,2,1,밤에는 모두 쉬고 계십니다\n다음 날 아침에 다시 와주십시오,385991,夜は皆、お休みになられてます\n翌朝、改めておいで下さい,Everybody is resting at night.\nPlease come again tomorrow morning.
+G055,en,N,Everybody is resting at night.\nPlease come again tomorrow morning.,2,2,2,밤에는 모두 쉬고 계십니다\n부디 내일 아침에 다시 방문해 주십시오,789531,夜は皆お休みになられています\nどうぞ、翌朝におこし下さい,Everybody is resting at night.\nPlease come again tomorrow morning.
+G056,en,N,Her Majesty is currently at rest.\nPlease come back again tomorrow.,2,2,1,릴 님께서는 휴식 중이십니다\n내일 아침에 다시 오십시오,664587,リル様はお休みの最中であります\nまた翌朝にいらして下さい,Her Majesty is currently at rest.\nPlease come back again tomorrow.
+G056,en,N,Her Majesty is currently at rest.\nPlease come back again tomorrow.,2,2,2,프라우 님께서는 이미 잠드셨습니다\n내일 다시 방문해 주십시오,663959,フラウ様はすでにお休みになられてます\nまた翌日おこし下さい,Her Majesty is currently at rest.\nPlease come back again tomorrow.
+G057,en,N,Welcome to the Phantasmic Glimmer Tavern.\nWant somethin' to drink?,2,2,1,어서 오게、 여기는 주점 「환상의 광채」 객주이라네\n뭐 좀 마시겠나？,235281,辧いらっしゃい、ここは酒場「幻の輝き亭」だ\nなんか飲んでいくかい？,Welcome to the Phantasmic Glimmer Tavern.\nWant somethin' to drink?
+G057,en,N,Welcome to the Phantasmic Glimmer Tavern.\nWant somethin' to drink?,2,2,2,어서 오게、 여기는 주점 「환상의 빛」 객주이라네.\n뭐 좀 마시고 가겠나？,1297322,いらっしゃい、ここは酒場「幻の輝き亭」だ\nなんか飲んでいくかい？,Welcome to the Phantasmic Glimmer Tavern.\nWant somethin' to drink?
+G058,en,N,Heya! This is the Deva Inn and Tavern.\nHere to stay the night?\nIt'll cost ya 35 Gimil.,2,2,1,오、 우리 집은 여관 겸 술집 「데바」라네\n자네들 묵고 갈 건가？\n하룻밤에 35기밀이라네,391275,おう、うちは宿屋兼酒場「デーヴァ」だぜ\nあんたらお泊まりかい？\n一晩３５ギミルになってるけど,Heya! This is the Deva Inn and Tavern.\nHere to stay the night?\nIt'll cost ya 35 Gimil.
+G058,en,N,Heya! This is the Deva Inn and Tavern.\nHere to stay the night?\nIt'll cost ya 35 Gimil.,2,2,2,오、 우리 집은 여관 겸 술집인\n「데바」라고 하네\n자네들 묵고 갈 건가？\n하룻밤에 35기밀이라네,390601,おう、うちは宿屋兼酒場の「デーヴァ」だぜ\nあんたらお泊まりかい？\n一晩３５ギミルになってるけど,Heya! This is the Deva Inn and Tavern.\nHere to stay the night?\nIt'll cost ya 35 Gimil.
+G059,en,N,The Heavenly Realm maintains control over the humans\nin the Overworld and the demons living in the Underworld.,2,2,1,천상계에서는 인간들의 지상계를 비롯해\n마족이 사는 지저계를 항상 관리하고 있어,92373,天上界では人間たちの地上界をはじめ\n魔族の住む地底界を常に管理しているのです,The Heavenly Realm maintains control over the humans\nin the Overworld and the demons living in the Underworld.
+G059,en,N,The Heavenly Realm maintains control over the humans\nin the Overworld and the demons living in the Underworld.,2,2,2,천상계에서는 인간들의 지저계를 비롯해\n마족이 사는 지저계를 항상 관리하고 있답니다,1018468,天上界では人間たちの地底界をはじめ\n魔族の住む地底界を常に管理しているのです,The Heavenly Realm maintains control over the humans\nin the Overworld and the demons living in the Underworld.
+G060,en,N,"I may seem useless, but I am capable of recording\nmemories of your travels, at the very least. Would you\nlike me to do that?",2,2,1,내세울 것 없는 저이지만\n여행의 추억을 기록하는 것 정도는 할 수 있습니다\n일지에 기록하시겠습니까？,455569,なんの取り柄もない私ですが\n旅の思い出を書きとめることぐらいは出来ます\n日誌に記録していきますか？,"I may seem useless, but I am capable of recording\nmemories of your travels, at the very least. Would you\nlike me to do that?"
+G060,en,N,"I may seem useless, but I am capable of recording\nmemories of your travels, at the very least. Would you\nlike me to do that?",2,2,2,내세울 것 없는 저지만\n여행의 추억을 기록하는 것 정도는 할 수 있어요\n일지에 기록하시겠어요？,593002,なんの取り柄もない私ですが\n旅の思い出を書きとめることぐらいは出来ますよ\n日誌に記録していきますか？,"I may seem useless, but I am capable of recording\nmemories of your travels, at the very least. Would you\nlike me to do that?"
+G061,en,N,"By the way, I hear you two are going to the tower?\n...If you find a helmet with a star emblem on it,\ncould you bring it to me?",2,2,1,그나저나 당신들、 탑에 간다며？\n・・・혹시 별 문양이 새겨진\n투구를 발견하면 가져다주지 않겠나？,132982,ところであんたがた、塔に行くんだって？\n・・・もし、星の紋章のついた\n兜を見かけたら持って来てくれないかい？,"By the way, I hear you two are going to the tower?\n...If you find a helmet with a star emblem on it,\ncould you bring it to me?"
+G061,en,N,"By the way, I hear you two are going to the tower?\n...If you find a helmet with a star emblem on it,\ncould you bring it to me?",2,2,2,그런데 당신들、 탑에 간다며？\n・・・혹시 별 문양이 새겨진\n투구를 발견하면 가져다주지 않겠나？,131025,ところであんたたち、塔に行くんだって？\n・・・もし、星の紋章のついた\n兜を見かけたら持って来てくれないか？,"By the way, I hear you two are going to the tower?\n...If you find a helmet with a star emblem on it,\ncould you bring it to me?"
+G062,en,N,"They said they're looking for something called a\n""Droplet of Heaven."" When I told them I didn't know about\nit, the thugs said I wouldn't be saved on judgment day.",2,2,1,"그 녀석들 『천하의 물방울』인가 하는 걸\n찾고 있는 모양인데, 모른다고 했더니\n「심판의 날에는 구원받지 못할 것」이라며 협박하더라고",464939,連中『天河の滴』とかいうのを探しているみたいでね\n知らないって言ったら\n「裁きの日は助からないぞ」って脅すんだよ,"They said they're looking for something called a\n""Droplet of Heaven."" When I told them I didn't know about\nit, the thugs said I wouldn't be saved on judgment day."
+G062,en,N,"They said they're looking for something called a\n""Droplet of Heaven."" When I told them I didn't know about\nit, the thugs said I wouldn't be saved on judgment day.",2,2,2,"녀석들이 『천하의 물방울』인가 하는 걸 찾는 모양인데\n모른다고 했더니\n""너는 심판의 날에 구원받지 못할 것이다""라고 협박하더라고",600262,連中『天河の滴』とかいうのを探しているみたいでね\n知らないって言ったら\n「おまえは裁きの日は助からないぞ」って脅すんだよ,"They said they're looking for something called a\n""Droplet of Heaven."" When I told them I didn't know about\nit, the thugs said I wouldn't be saved on judgment day."

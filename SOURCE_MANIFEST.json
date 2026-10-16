@@ -1,0 +1,258 @@
+{
+  "date": "2026-10-16",
+  "project": "천사의 시 2: The Fallen Angel",
+  "files": [
+    {
+      "path": "translation/1편_BUILD.md",
+      "source": "translation/1편_BUILD.md",
+      "bytes": 12534,
+      "sha256": "62237dda14028e4af2d565b6eb547398ce2fb5574cf6cf0caaede3b222333238"
+    },
+    {
+      "path": "translation/BUILD.md",
+      "source": "translation/BUILD.md",
+      "bytes": 10922,
+      "sha256": "b50262c090078fc90f10705fb30daf6c05b707cc845cbd365f60b0d3ad9cb023"
+    },
+    {
+      "path": "translation/eden_log.txt",
+      "source": "translation/eden_log.txt",
+      "bytes": 2973870,
+      "sha256": "48e8b00b244763414730a4e390d41c77e671b532938d24738581a4ecf2346297"
+    },
+    {
+      "path": "translation/outgameinfo2_paired.csv",
+      "source": "translation/outgameinfo2_paired.csv",
+      "bytes": 3853,
+      "sha256": "82b11d8a8d629d24b695c88e39cd3a3c7932eebc9123dc148732154a63a151ef"
+    },
+    {
+      "path": "translation/visualscene2_paired.csv",
+      "source": "translation/visualscene2_paired.csv",
+      "bytes": 34741,
+      "sha256": "fd93f2b70a9d577b195a616506c356f6bbaf12cd44fa5192f8d9e3f157c8246e"
+    },
+    {
+      "path": "translation/동일원문_상이번역_검수.csv",
+      "source": "translation/동일원문_상이번역_검수.csv",
+      "bytes": 26249,
+      "sha256": "8b10c32ef64084a71f8c7ef1cfa98c350e4019f53018393d32c823a9e404ee01"
+    },
+    {
+      "path": "translation/천사의시2_UI_번역.xlsx",
+      "source": "translation/천사의시2_UI_번역.xlsx",
+      "bytes": 14936,
+      "sha256": "e9576831f23a6b29100d0d4fadff2d9c6771b8f31fc15db98f1e137ac6e4dc23"
+    },
+    {
+      "path": "translation/천사의시2_게임선택_번역.xlsx",
+      "source": "translation/천사의시2_게임선택_번역.xlsx",
+      "bytes": 8240,
+      "sha256": "8167c0fd72bdadc7009943a70fc96a145217f6ed5ce4de6c9d6976244507c63e"
+    },
+    {
+      "path": "translation/천사의시2_대사_번역.xlsx",
+      "source": "translation/천사의시2_대사_번역.xlsx",
+      "bytes": 962963,
+      "sha256": "05b74b33ba27cd7b0bc8b1176f18dd2bfb2c75ba689a34e1f760345695407eb1"
+    },
+    {
+      "path": "translation/천사의시2_크레딧_번역.xlsx",
+      "source": "translation/천사의시2_크레딧_번역.xlsx",
+      "bytes": 28347,
+      "sha256": "422f492a6922a58b59486b6d3f525a7c855bd5b5fd4a1ee557c295fa456c0ad2"
+    },
+    {
+      "path": "translation/scripts/apply_replacements.py",
+      "source": "translation/scripts/apply_replacements.py",
+      "bytes": 1822,
+      "sha256": "8728985d52360247e3a67543dab89aa9292379dd44f175b889869ad07512bbb9"
+    },
+    {
+      "path": "translation/scripts/audit_control_codes.py",
+      "source": "translation/scripts/audit_control_codes.py",
+      "bytes": 1432,
+      "sha256": "7ba9a0f1eecab5140ac322513659fffc76c978cc474a97ab2684316bfed4419c"
+    },
+    {
+      "path": "translation/scripts/build_patch.ps1",
+      "source": "translation/scripts/build_patch.ps1",
+      "bytes": 8563,
+      "sha256": "c15509ea6749306c22c60094e42d53d8b8c336f3c9a2c41996c4e7aa509c14f3"
+    },
+    {
+      "path": "translation/scripts/build_patch2.ps1",
+      "source": "translation/scripts/build_patch2.ps1",
+      "bytes": 24368,
+      "sha256": "8aa53e55a05083d8f7376e14c46fbe3fc6c5eedb360b1b916527a14bc8479877"
+    },
+    {
+      "path": "translation/scripts/build_replacements.py",
+      "source": "translation/scripts/build_replacements.py",
+      "bytes": 6201,
+      "sha256": "3e5d0ec472e0ef3fa926b0c95497d9e2dab07dc1c2edf155323c969d7447631d"
+    },
+    {
+      "path": "translation/scripts/build_st_replacements.py",
+      "source": "translation/scripts/build_st_replacements.py",
+      "bytes": 1607,
+      "sha256": "c38034b5ec426131e35317975b87aa55ccd687d8b12cf68ac11949df329ecfee"
+    },
+    {
+      "path": "translation/scripts/build_ui_replacements.py",
+      "source": "translation/scripts/build_ui_replacements.py",
+      "bytes": 3448,
+      "sha256": "7a9cf4d2371b96a9bdba036e09ff01b68c1424a329e97f472fef7a1269b5428d"
+    },
+    {
+      "path": "translation/scripts/build_ui_replacements2.py",
+      "source": "translation/scripts/build_ui_replacements2.py",
+      "bytes": 3779,
+      "sha256": "ad95fda9ec18aee2f49c8be9d0e65f41e367e1b8bbcf64cbf3c2ab910d890680"
+    },
+    {
+      "path": "translation/scripts/export_manual_png.py",
+      "source": "translation/scripts/export_manual_png.py",
+      "bytes": 3195,
+      "sha256": "44fbef6445ab8f6b0db140a8b73ed75912ab86d6a10fe9cf7f94fcd434bc4e6e"
+    },
+    {
+      "path": "translation/scripts/extract_strings.py",
+      "source": "translation/scripts/extract_strings.py",
+      "bytes": 3410,
+      "sha256": "3c3fe676b68c622d866c6f9b125a9804bfbbe042f71e5b4b68c67066fc79c509"
+    },
+    {
+      "path": "translation/scripts/find_inconsistent_translations.py",
+      "source": "translation/scripts/find_inconsistent_translations.py",
+      "bytes": 3265,
+      "sha256": "f6639938ef2c15cfb56917169bd6b8a90b5bd59c6f389df81560baacc477a814"
+    },
+    {
+      "path": "translation/scripts/find_near_duplicate_translations.py",
+      "source": "translation/scripts/find_near_duplicate_translations.py",
+      "bytes": 2762,
+      "sha256": "0c44ac7dfe877c59bc3fcd7f8e1f27b7f02cdca7b3702e3f77e2725fe1d5fd4c"
+    },
+    {
+      "path": "translation/scripts/inject_card_game_png.py",
+      "source": "translation/scripts/inject_card_game_png.py",
+      "bytes": 2139,
+      "sha256": "d6fa54e97a8702cc9a884938958f3d041607276843b001f6005e2085c7961112"
+    },
+    {
+      "path": "translation/scripts/inject_manual_png.py",
+      "source": "translation/scripts/inject_manual_png.py",
+      "bytes": 3573,
+      "sha256": "5b4ac5759b03b2a009162b944bdca238bada63c1052160dc5a62f7942c455f07"
+    },
+    {
+      "path": "translation/scripts/make_paired_csv.py",
+      "source": "translation/scripts/make_paired_csv.py",
+      "bytes": 5680,
+      "sha256": "0fe00c07a87a72728b95511be23bf16ceb048652c656202c0390ecd1557c80d7"
+    },
+    {
+      "path": "translation/scripts/make_xlsx.py",
+      "source": "translation/scripts/make_xlsx.py",
+      "bytes": 2171,
+      "sha256": "8029ed63db711e844e1c601291f4648cd6c6cd3010c21641537ecc23da847573"
+    },
+    {
+      "path": "translation/scripts/make_xlsx2.py",
+      "source": "translation/scripts/make_xlsx2.py",
+      "bytes": 2599,
+      "sha256": "0e64e4633bfff215cb4f9a5b60c2300597c3e30073382ad185cfb22a40d41ae2"
+    },
+    {
+      "path": "translation/scripts/patch_floats_at_offsets.py",
+      "source": "translation/scripts/patch_floats_at_offsets.py",
+      "bytes": 868,
+      "sha256": "5e482293aa61c1b7b1426bfc2cd68e2ae2c7b6888f7f07adae46370e5571927e"
+    },
+    {
+      "path": "translation/scripts/patch_richtext_font_size.py",
+      "source": "translation/scripts/patch_richtext_font_size.py",
+      "bytes": 699,
+      "sha256": "0ad1b9281e29a2b688c71b347be4987bf6b0fc61eada97bf3eb3603726a7bbab"
+    },
+    {
+      "path": "translation/scripts/patch_selected_font_size.py",
+      "source": "translation/scripts/patch_selected_font_size.py",
+      "bytes": 955,
+      "sha256": "631895bfa9092f69b2e20f7d0ae0adc3c2eebd79b2f1f450990040f748bffd0d"
+    },
+    {
+      "path": "translation/scripts/patch_serialsize_binary.py",
+      "source": "translation/scripts/patch_serialsize_binary.py",
+      "bytes": 1053,
+      "sha256": "1029e37134024cd5580cafb898f4dbcde71858b72a5a2e261cac7f7bd0bac7cd"
+    },
+    {
+      "path": "translation/scripts/patch_track02_korean_cards.py",
+      "source": "translation/scripts/patch_track02_korean_cards.py",
+      "bytes": 12021,
+      "sha256": "9a04e67671af4407ce5c939124585606e90f2c24a669a6a08c9a7e2b3f843570"
+    },
+    {
+      "path": "translation/scripts/patch_visualscene_scene_id.py",
+      "source": "translation/scripts/patch_visualscene_scene_id.py",
+      "bytes": 2336,
+      "sha256": "6575473338e0a0bd95faa9d9a9a8961c4dcdf96700e67a4407e06c2fe5d624cb"
+    },
+    {
+      "path": "translation/scripts/remove_extra_style_tags.py",
+      "source": "translation/scripts/remove_extra_style_tags.py",
+      "bytes": 1323,
+      "sha256": "e96b8d212103b6d8200020cf1eee6ff7f8043ed25b6bb0499688c83b8863030f"
+    },
+    {
+      "path": "translation/scripts/restore_missing_style_tags.py",
+      "source": "translation/scripts/restore_missing_style_tags.py",
+      "bytes": 2634,
+      "sha256": "3f5692f6e570a6f2e98d7f9b71e7293c720fa5fa9da4e47529a186ee5b41e515"
+    },
+    {
+      "path": "translation/scripts/rewrap_ko.py",
+      "source": "translation/scripts/rewrap_ko.py",
+      "bytes": 4153,
+      "sha256": "14fc35c158e0b8f50abdee2f3868ad2c04941d3bef559707d14089712b77ab1e"
+    },
+    {
+      "path": "translation/scripts/translate_card_game_png.py",
+      "source": "translation/scripts/translate_card_game_png.py",
+      "bytes": 20006,
+      "sha256": "d4c355efb0f0d882187f52a9c7b7b3d489b2c6b84e57f90e9bb3c5f499571f23"
+    },
+    {
+      "path": "translation/scripts/xlsx2_to_csv.py",
+      "source": "translation/scripts/xlsx2_to_csv.py",
+      "bytes": 2642,
+      "sha256": "7c9465e27cf6da03578a8e679073dbef5ce62b849351715bb9da7d2c049bb779"
+    },
+    {
+      "path": "translation/scripts/xlsx_to_csv.py",
+      "source": "translation/scripts/xlsx_to_csv.py",
+      "bytes": 1646,
+      "sha256": "eb212e30ad5bfd823c629f2e438949c02c47a7c903a5ad78f44dc31fc9432ba3"
+    },
+    {
+      "path": "translation/백업_csv/outgameinfo2_paired.csv",
+      "source": "translation/백업_csv/outgameinfo2_paired.csv",
+      "bytes": 3853,
+      "sha256": "82b11d8a8d629d24b695c88e39cd3a3c7932eebc9123dc148732154a63a151ef"
+    },
+    {
+      "path": "translation/백업_csv/ui_menu_text2_paired.csv",
+      "source": "translation/백업_csv/ui_menu_text2_paired.csv",
+      "bytes": 11081,
+      "sha256": "899d16b79568e676743225c8ddbde6223cd1f40b2eaa50453fe1d94125caf732"
+    },
+    {
+      "path": "translation/백업_csv/visualscene2_paired.csv",
+      "source": "translation/백업_csv/visualscene2_paired.csv",
+      "bytes": 35152,
+      "sha256": "ede961d833e447d99f2d62d6bce2c9cfd28127a1448a7e1df32f83f3a9ec33ed"
+    }
+  ]
+}

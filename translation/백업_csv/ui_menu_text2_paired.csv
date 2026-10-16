@@ -1,0 +1,151 @@
+﻿table,index,jp,en,ko
+DT_BootView,0,ご注意,ご注意,주의사항
+DT_BootView,1,ゲームソフトを権利者の許諾なく、\nインターネットを通じて配信、配布する行為、\nまた、違法なインターネット配信と知りながら、\nダウンロードする行為は法律で固く禁じられております。\nみなさまのご理解とご協力をお願いいたします。,ゲームソフトを権利者の許諾なく、\nインターネットを通じて配信、配布する行為、\nまた、違法なインターネット配信と知りながら、\nダウンロードする行為は法律で固く禁じられております。\nみなさまのご理解とご協力をお願いいたします。,"게임 소프트웨어를 권리자의 허락 없이\n인터넷을 통해 배포, 유포하는 행위,\n또한 불법 인터넷 배포임을 알면서도\n다운로드하는 행위는 법으로 엄격히 금지되어 있습니다.\n여러분의 이해와 협조를 부탁드립니다."
+DT_Game2_GameInfo,0,Tenshi no Uta: The Angel Verse II: The Fallen Angel,Tenshi no Uta: The Angel Verse II: The Fallen Angel,천사의 시: The Angel Verse II: 타락천사
+DT_Game2_GameInfo,1,Tenshi no Uta,Tenshi no Uta,천사의 시
+DT_Game2_GameInfo,2,Choice of Fallen Angels,Choice of Fallen Angels,타락천사의 선택
+DT_Game2_GameInfo,3,Released 3/26/1993,Released 3/26/1993,1993년 3월 26일 발매
+DT_Game2_GameInfo,4,"A battle against the dark forces begins once more on the Overworld in another dimension—a century after the previous game.
+The destinies of Fate, a demon hunter, and his partner Sion, take a drastic turn when they meet a girl named Liana in the Inferno Tower...
+This game was released in 1993 as a sequel to the first game.Cael, the previous game's hero, makes an appearance in this sequel full of excitement.
+You won't want to put it down.","A battle against the dark forces begins once more on the Overworld in another dimension—a century after the previous game.
+The destinies of Fate, a demon hunter, and his partner Sion, take a drastic turn when they meet a girl named Liana in the Inferno Tower...
+This game was released in 1993 as a sequel to the first game.Cael, the previous game's hero, makes an appearance in this sequel full of excitement.
+You won't want to put it down.","전작으로부터 100년 후, 또 다른 차원의 오버월드에서
+어둠의 세력과의 싸움이 다시 시작됩니다.
+마물 사냥꾼 페이트와 그의 파트너 시온은 인페르노 타워에서 리아나라는 소녀를 만나며 운명이 급격히 바뀌게 됩니다...
+이 게임은 1993년에 전작의 후속작으로 발매되었습니다. 전작의 주인공 카엘이 이번 작품에서도 등장하여 박진감 넘치는 이야기를 펼칩니다.
+한 번 시작하면 멈출 수 없을 것입니다."
+DT_Game2_GameInfo,5,PCエンジンSUPER CD-ROM2,PCエンジンSUPER CD-ROM2,PC 엔진 SUPER CD-ROM2
+DT_Game1_HomeMenuSelectInfo,0,Start,Start,시작
+DT_Game1_HomeMenuSelectInfo,1,Load,Load,불러오기
+DT_Game1_HomeMenuSelectInfo,2,Manual,Manual,매뉴얼
+DT_Game1_HomeMenuSelectInfo,3,Audio,Audio,오디오
+DT_Game1_HomeMenuSelectInfo,4,Cutscenes,Cutscenes,컷신
+DT_Game1_HomeMenuSelectInfo,5,Controls,Controls,조작법
+DT_Game1_HomeMenuSelectInfo,6,Config,Config,설정
+DT_Game1_HomeMenuSelectInfo,7,Staff Credits,Staff Credits,스태프 롤
+DT_Game1_HomeMenuSelectInfo,8,Copyright Info,Copyright Info,저작권 정보
+DT_Game2_SoundInfo,0,OPENING,OPENING,오프닝
+DT_Game2_SoundInfo,1,Shinobu Ogawa,Shinobu Ogawa,오가와 시노부
+DT_Game2_SoundInfo,2,TOWN 1,TOWN 1,마을 1
+DT_Game2_SoundInfo,3,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game2_SoundInfo,4,FIELD 1,FIELD 1,필드 1
+DT_Game2_SoundInfo,5,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game2_SoundInfo,6,TOWN (NIGHT),TOWN (NIGHT),마을 (밤)
+DT_Game2_SoundInfo,7,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game2_SoundInfo,8,BATTLE,BATTLE,전투
+DT_Game2_SoundInfo,9,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game2_SoundInfo,10,DUNGEON 1,DUNGEON 1,던전 1
+DT_Game2_SoundInfo,11,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game2_SoundInfo,12,BOSS 1,BOSS 1,보스 1
+DT_Game2_SoundInfo,13,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game2_SoundInfo,14,SONG OF THE ANGEL,SONG OF THE ANGEL,천사의 노래
+DT_Game2_SoundInfo,15,Shinobu Ogawa,Shinobu Ogawa,오가와 시노부
+DT_Game2_SoundInfo,16,DEMON INVASION,DEMON INVASION,마물의 침공
+DT_Game2_SoundInfo,17,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game2_SoundInfo,18,TOWN 2,TOWN 2,마을 2
+DT_Game2_SoundInfo,19,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game2_SoundInfo,20,TACTICS,TACTICS,택틱스
+DT_Game2_SoundInfo,21,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game2_SoundInfo,22,CARD GAME,CARD GAME,카드 게임
+DT_Game2_SoundInfo,23,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game2_SoundInfo,24,DUNGEON 2,DUNGEON 2,던전 2
+DT_Game2_SoundInfo,25,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game2_SoundInfo,26,SHIP,SHIP,배
+DT_Game2_SoundInfo,27,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game2_SoundInfo,28,RESISTANCE,RESISTANCE,레지스탕스
+DT_Game2_SoundInfo,29,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game2_SoundInfo,30,TOWN 3,TOWN 3,마을 3
+DT_Game2_SoundInfo,31,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game2_SoundInfo,32,AIR SHIP,AIR SHIP,비공정
+DT_Game2_SoundInfo,33,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game2_SoundInfo,34,EXAHN CASTLE,EXAHN CASTLE,엑잔 성
+DT_Game2_SoundInfo,35,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game2_SoundInfo,36,BOSS 2,BOSS 2,보스 2
+DT_Game2_SoundInfo,37,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game2_SoundInfo,38,FIELD 2 (OTHERWORLD),FIELD 2 (OTHERWORLD),필드 2 (이세계)
+DT_Game2_SoundInfo,39,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game2_SoundInfo,40,FIELD 3,FIELD 3,필드 3
+DT_Game2_SoundInfo,41,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game2_SoundInfo,42,SHRINE OF DARKNESS,SHRINE OF DARKNESS,어둠의 신전
+DT_Game2_SoundInfo,43,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game2_SoundInfo,44,ROS COMAEIN VILLAGE,ROS COMAEIN VILLAGE,로스 코마인 마을
+DT_Game2_SoundInfo,45,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game2_SoundInfo,46,FINAL BATTLE,FINAL BATTLE,최종 결전
+DT_Game2_SoundInfo,47,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game2_SoundInfo,48,"CHOICES OF THE FALLEN ANGEL 
+~OFF TO PICK EUREKA FLOWERS~","CHOICES OF THE FALLEN ANGEL 
+~OFF TO PICK EUREKA FLOWERS~","타락천사의 선택 
+~유레카 꽃을 찾아서~"
+DT_Game2_SoundInfo,49,"Michiko Naruke
+Shinobu Ogawa","Michiko Naruke
+Shinobu Ogawa","나루케 미치코
+오가와 시노부"
+DT_Game2_VisualInfo,0,Opening,Opening,오프닝
+DT_Game2_VisualInfo,1,Scene 01,Scene 01,씬 01
+DT_Game2_VisualInfo,2,Scene 04,Scene 04,씬 04
+DT_Game2_VisualInfo,3,Scene 05,Scene 05,씬 05
+DT_Game2_VisualInfo,4,Scene 07,Scene 07,씬 07
+DT_Game2_VisualInfo,5,Scene 08,Scene 08,씬 08
+DT_Game2_VisualInfo,6,Scene 09,Scene 09,씬 09
+DT_Game2_VisualInfo,7,Scene 10,Scene 10,씬 10
+DT_Game2_VisualInfo,8,Scene 11,Scene 11,씬 11
+DT_Game2_VisualInfo,9,Ending,Ending,엔딩
+DT_Game1_SoundInfo,0,OPENING,OPENING,오프닝
+DT_Game1_SoundInfo,1,Shinobu Ogawa,Shinobu Ogawa,오가와 시노부
+DT_Game1_SoundInfo,2,VILLEGE OF CELTS,VILLEGE OF CELTS,켈트 마을
+DT_Game1_SoundInfo,3,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game1_SoundInfo,4,MARRIGE FIELD,MARRIGE FIELD,결혼의 들판
+DT_Game1_SoundInfo,5,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game1_SoundInfo,6,BATTLE,BATTLE,전투
+DT_Game1_SoundInfo,7,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game1_SoundInfo,8,HALLSTATT,HALLSTATT,할슈타트
+DT_Game1_SoundInfo,9,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game1_SoundInfo,10,NIGHT & MAGIC ??,NIGHT & MAGIC ??,밤과 마법 ??
+DT_Game1_SoundInfo,11,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game1_SoundInfo,12,SHOP,SHOP,상점
+DT_Game1_SoundInfo,13,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game1_SoundInfo,14,DUNGEON,DUNGEON,던전
+DT_Game1_SoundInfo,15,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game1_SoundInfo,16,MID BOSS,MID BOSS,중간 보스
+DT_Game1_SoundInfo,17,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game1_SoundInfo,18,FAR A WAY,FAR A WAY,먼 곳으로
+DT_Game1_SoundInfo,19,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game1_SoundInfo,20,HILL FORT,HILL FORT,언덕 요새
+DT_Game1_SoundInfo,21,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game1_SoundInfo,22,GATE OF HEAVEN,GATE OF HEAVEN,천국의 문
+DT_Game1_SoundInfo,23,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game1_SoundInfo,24,DEVIL’S CELLA,DEVIL’S CELLA,악마의 성소
+DT_Game1_SoundInfo,25,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game1_SoundInfo,26,BILLY’S SEA,BILLY’S SEA,빌리의 바다
+DT_Game1_SoundInfo,27,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game1_SoundInfo,28,DOOINNEY OIE,DOOINNEY OIE,두이네 오이
+DT_Game1_SoundInfo,29,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game1_SoundInfo,30,TAVERN,TAVERN,주점
+DT_Game1_SoundInfo,31,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game1_SoundInfo,32,PIANO,PIANO,피아노
+DT_Game1_SoundInfo,33,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game1_SoundInfo,34,CASINO,CASINO,카지노
+DT_Game1_SoundInfo,35,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game1_SoundInfo,36,SNAKE CHARMER,SNAKE CHARMER,뱀 부리는 사람
+DT_Game1_SoundInfo,37,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game1_SoundInfo,38,WHO’S WHO,WHO’S WHO,누구일까
+DT_Game1_SoundInfo,39,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game1_SoundInfo,40,HEAVEN’S ELM,HEAVEN’S ELM,천국의 느릅나무
+DT_Game1_SoundInfo,41,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game1_SoundInfo,42,ELVES IN THE SKY,ELVES IN THE SKY,하늘의 엘프들
+DT_Game1_SoundInfo,43,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game1_SoundInfo,44,GAULISH,GAULISH,갈리아의
+DT_Game1_SoundInfo,45,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game1_SoundInfo,46,FINAL BOSS,FINAL BOSS,최종 보스
+DT_Game1_SoundInfo,47,Michiko Naruke,Michiko Naruke,나루케 미치코
+DT_Game1_SoundInfo,48,SONG OF THE ANGEL,SONG OF THE ANGEL,천사의 노래
+DT_Game1_SoundInfo,49,Shinobu Ogawa,Shinobu Ogawa,오가와 시노부
+DT_Game1_VisualInfo,0,OPENING,OPENING,오프닝
+DT_Game1_VisualInfo,1,Scene00,Scene00,씬 00
+DT_Game1_VisualInfo,2,Scene01,Scene01,씬 01
+DT_Game1_VisualInfo,3,Scene02,Scene02,씬 02
+DT_Game1_VisualInfo,4,Scene03,Scene03,씬 03
+DT_Game1_VisualInfo,5,Ending,Ending,엔딩
+DT_Game1_VisualInfo,6,Another story,Another story,어나더 스토리
