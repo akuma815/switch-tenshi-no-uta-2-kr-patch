@@ -1,0 +1,81 @@
+{
+  "status": "PASS",
+  "date": "2026-10-16",
+  "game": "Tenshi no Uta 2",
+  "platform": "Nintendo Switch",
+  "remote": "https://github.com/akuma815/switch-tenshi-no-uta-2-kr-patch",
+  "verified_source_commit": "1ddbf6bad25c09c18d350ba83618e34108f3728b",
+  "checkout_origin": "Fresh public GitHub clone, fast-forwarded to the repaired restoration entrypoint. No input copied from the game work folder.",
+  "original_input": "Owned base NSP and v1.0.1 update from H:/ryujinx/Roms and H:/ryujinx/Update; extracted anew with the public helper and external tools/keyset.",
+  "environment": "Existing Python 3.12.10 with pinned requirements; not a clean OS or virtual environment test.",
+  "release_archive_verification": {
+    "status": "PASS",
+    "archive_sha256": "044276f82d07e3707b8c3b633ee6304efa4f3093604eef2fae6061d9c6cce6b3",
+    "release_payloads": {
+      "TenshiKR2_P.pak": "7c3ff25befc093346b4cd80e7af9a5dd8ec008be6e52652d7dc2dd961284340b",
+      "TenshiKR2_P.ucas": "556885e731cb78c34e2315802808f2fb576fa1ff5a697d5ade6d06b4d4d1ea87",
+      "TenshiKR2_P.utoc": "7516087958c47e9bf96303bc879ff9722e5415c2e477ae85082bf7607f156bc1",
+      "TenshiKR_Font_P.pak": "b3bf493377c1b0d950e6c0fc0d5fc1b43b556fc6da172e2ce4ea3b3bec9acc96"
+    }
+  },
+  "input_preparation": {
+    "status": "PASS",
+    "game_number": 2,
+    "manuals_restored": 32,
+    "compiled_media_dependency": "044276f82d07e3707b8c3b633ee6304efa4f3093604eef2fae6061d9c6cce6b3"
+  },
+  "rebuilt_payload_verification": {
+    "status": "PASS",
+    "evidence_class": "Build and decoded container payload verification; no new runtime test",
+    "iostore_payload_count": 76,
+    "all_iostore_payloads_equal_release": true,
+    "ufs_payload_count": 11,
+    "all_ufs_payloads_equal_release": true,
+    "font_pak_byte_identical": true,
+    "container_sha256": {
+      "TenshiKR2_P.pak": "391afc5ca140e23d922b21a8b2910c8df88b562c18e76213fc8f44dc443c7f67",
+      "TenshiKR2_P.ucas": "63043ae035610899d9a798806095faf81efa7d34f803329274db81271ab0babf",
+      "TenshiKR2_P.utoc": "6b4175909bf881b4a92e14a1c3ec747532e1bbbee07870f0c2019952fea8e0ac",
+      "TenshiKR_Font_P.pak": "b3bf493377c1b0d950e6c0fc0d5fc1b43b556fc6da172e2ce4ea3b3bec9acc96"
+    },
+    "container_byte_identity": {
+      "TenshiKR2_P.pak": false,
+      "TenshiKR2_P.ucas": false,
+      "TenshiKR2_P.utoc": false,
+      "TenshiKR_Font_P.pak": true
+    },
+    "container_identity_note": "Container assembly bytes can differ. Payload equality is checked separately; byte-identical distribution archives remain on the pinned GitHub releases."
+  },
+  "game_folder_before_document_update": {
+    "files": 995,
+    "bytes": 3110503382,
+    "reparse_points": []
+  },
+  "private_authoring_archive": {
+    "path": "work/tenshi_switch_rebuild_audit_20261016/Tenshi_Switch_2_authoring_records_20261016.zip",
+    "bytes": 285590108,
+    "sha256": "f35e0b0ceb56e918e651e65636947dcfbb8e846fbb7aa6af119477661e66d19b",
+    "records": 100,
+    "verification": "ZIP CRC and size/SHA-256 comparison for each selected original file"
+  },
+  "deletion_assessment": {
+    "final_release_payload_recovery": "PASS",
+    "editable_authoring_backup": "PASS",
+    "named_game_folder_can_be_removed_with_retained_dependencies": true,
+    "required_to_keep": [
+      "Supported original NSP/update and private keyset on H:",
+      "Published Git source and fixed release assets",
+      "External extraction/build tools",
+      "Verified private authoring archive"
+    ],
+    "special_condition": "Game 2 compiled Korean movies require the pinned v1.5 archive; authoring subtitle/encode recipes were not found.",
+    "performed": false,
+    "scope": "Only this Switch game folder; the PCE project is outside scope."
+  },
+  "limits": [
+    "Whole-container hashes are not claimed identical; all decoded content is compared to the public release.",
+    "No new runtime, full playthrough, hardware, scene-visual or audio verification.",
+    "Frozen release plans preserve the existing release; latest translation sheets were not changed.",
+    "Editable manual PNGs are preserved in the private archive rather than reconstructed from cooked textures."
+  ]
+}

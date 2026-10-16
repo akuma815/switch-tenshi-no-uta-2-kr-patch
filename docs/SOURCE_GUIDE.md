@@ -1,3 +1,5 @@
-# Reproducible Switch build
+# 공개 소스 재빌드 안내
 
-See [2026-10-16 rebuild and cleanup audit](REBUILD_2026-10-16.md) for the current supported source, inputs, verification classes and limitations. The original source snapshot is retained in Git history.
+[2026-10-16 최종 빌드 재현·삭제 검토](REBUILD_2026-10-16.md)에 지원 원본, 필수 입력, 실행 명령과 검증 한계를 기록했다. 현재 진입점은 `translation/scripts/build_reproducible.ps1`이다. 공개 가능한 누락 파일을 보완하고 새 원격 체크아웃에서 검증했으며, 최초 소스 스냅샷은 Git 이력에 보존했다.
+
+번역 영상은 해시가 고정된 기존 v1.5 릴리즈에서 복원한다. Git·NSP만으로 영상을 다시 인코딩하는 절차는 아니다.

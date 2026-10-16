@@ -51,3 +51,6 @@ __pycache__/
 *.cert
 *.keys
 /assets/manual_deltas/
+
+# Restored copies of the tracked, OFL-licensed card atlases
+/translation/card_game_extract/Galmuri*.png

@@ -1,3 +1,5 @@
+> Historical build notes. Current supported reconstruction and limits: [2026-10-16 guide](../docs/REBUILD_2026-10-16.md).
+
 # 천사의 시 2 한글 패치 빌드 문서
 
 `천사의 시 2: The Fallen Angel` Switch판(UE 5.4 IoStore)의 한글 패치 빌드 기준 문서다.
