@@ -18,5 +18,19 @@
   "other_game_folders_unchanged": true,
   "pce_folder_preserved": true,
   "private_archives_preserved": true,
-  "installed_mods_and_H_originals_not_modified": true
+  "installed_mods_and_H_originals_not_modified": true,
+  "temporary_verification_cache_cleanup": {
+    "CompletedAt": "2026-10-16T19:42:00.4087020+09:00",
+    "Status": "PASS",
+    "Scope": "Agent-created temporary source extractions and comparison clones only",
+    "Targets": 19,
+    "Files": 2982,
+    "Bytes": 12059161774,
+    "Retained": "Canonical Git checkouts, authoring ZIPs, root audit records, copied verification JSON; H: originals/mods/saves and PCE game untouched"
+  },
+  "pce_followup": {
+    "source_commit": "be481896a0eeddd9f3f16327a8870fd06c3319de",
+    "rebuild_status": "PASS",
+    "folder_preserved": true
+  }
 }
