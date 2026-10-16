@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "completed_at": "2026-10-16T19:26:13.0221723+09:00",
+  "removed": [
+    {
+      "path": "Games/Tenshi no Uta",
+      "files": 371,
+      "bytes": 455849459,
+      "absent": true
+    },
+    {
+      "path": "Games/Tenshi no Uta 2",
+      "files": 997,
+      "bytes": 3110525814,
+      "absent": true
+    }
+  ],
+  "other_game_folders_unchanged": true,
+  "pce_folder_preserved": true,
+  "private_archives_preserved": true,
+  "installed_mods_and_H_originals_not_modified": true
+}

@@ -1,3 +1,5 @@
+> Local Switch game folders were removed on 2026-10-16. See the latest dated handoff and cleanup_completed_2026-10-16.json.
+
 # Latest handoff
 
 [Korean video recovery from Git deltas](VIDEO_RECOVERY_2026-10-16.md) — the former release-archive dependency has been removed.
