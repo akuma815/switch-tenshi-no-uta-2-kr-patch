@@ -8,10 +8,9 @@ import json
 from pathlib import Path
 import shutil
 import subprocess
-import sys
-import urllib.request
 
 from export_manual_png import export_one
+from restore_compiled_videos import restore_videos
 
 ROOT = Path(__file__).resolve().parents[2]
 TR = ROOT / 'translation'
@@ -51,7 +50,6 @@ def main():
     ap.add_argument('--source-paks', type=Path, required=True)
     ap.add_argument('--retoc', type=Path, required=True)
     ap.add_argument('--repak', type=Path, required=True)
-    ap.add_argument('--release-archive', type=Path)
     ap.add_argument('--xdelta', type=Path, required=True)
     a = ap.parse_args()
     spec = json.loads((ROOT / 'config/rebuild_inputs.json').read_text(encoding='utf-8'))
@@ -89,39 +87,10 @@ def main():
         run([a.repak, 'unpack', paks / 'Emulator_Tenshinouta-Switch.pak', '-o', cards / 'gamepack', '-f', '-i', iso_rel], cache / 'track02_extract.log')
         if sha(cards / 'gamepack' / iso_rel) != spec['track02_source_sha256']:
             raise ValueError('Original Track02.iso hash mismatch')
-        # Authoring subtitles/encode recipes for these compiled videos were not retained.
-        # Restore the already released video payloads from an immutable, hashed archive.
-        release = spec['compiled_video_release']
-        archive = a.release_archive or cache / release['filename']
-        if not archive.exists():
-            temp = archive.with_suffix(archive.suffix + '.download')
-            with urllib.request.urlopen(release['url'], timeout=60) as response, temp.open('wb') as stream:
-                shutil.copyfileobj(response, stream)
-            if sha(temp) != release['sha256']:
-                raise ValueError('Downloaded release archive hash mismatch')
-            temp.replace(archive)
-        if sha(archive) != release['sha256']:
-            raise ValueError('Release archive hash mismatch')
-        import py7zr
-        released = cache / 'released_video_pak'
-        with py7zr.SevenZipFile(archive) as z:
-            if 'TenshiKR2_P.pak' not in z.getnames():
-                raise ValueError('Expected released pak missing')
-            z.extract(path=released, targets=['TenshiKR2_P.pak'])
-        pak = released / 'TenshiKR2_P.pak'
-        if sha(pak) != release['pak_sha256']:
-            raise ValueError('Released video pak hash mismatch')
-        movie_rel = 'Emulator_Tenshinouta/Content/Ogix/Movie/Game2'
-        movies = cache / 'released_movies'
-        run([a.repak, 'unpack', pak, '-o', movies, '-f', '-i', movie_rel], cache / 'movie_extract.log')
-        target = TR / 'cutscene_translate'
-        target.mkdir(exist_ok=True)
-        for name, expected in release['movie_sha256'].items():
-            source = movies / movie_rel / name
-            if sha(source) != expected:
-                raise ValueError(f'Released video mismatch: {name}')
-            shutil.copyfile(source, target / name)
-    result = {'status': 'PASS', 'game_number': spec['game_number'], 'manuals_restored': len(delta_spec['entries']), 'source_paks': str(paks), 'compiled_media_dependency': spec.get('compiled_video_release', {}).get('sha256')}
+        video_report = restore_videos(paks, a.repak, a.xdelta)
+    result = {'status': 'PASS', 'game_number': spec['game_number'], 'manuals_restored': len(delta_spec['entries']), 'source_paks': str(paks), 'compiled_media_dependency': None}
+    if spec['game_number'] == 2:
+        result['video_restoration'] = video_report
     (cache / 'preparation_report.json').write_text(json.dumps(result, indent=2) + '\n', encoding='utf-8')
     print(json.dumps(result, indent=2))
 

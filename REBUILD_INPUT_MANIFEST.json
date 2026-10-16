@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "scope": "Active public reproducible-build inputs. Original assets and tools are externally supplied; 2nd game videos require the pinned release archive. Historical source snapshot is SOURCE_MANIFEST.json.",
+  "scope": "Active reproducible-build inputs. Original game assets and tools are externally supplied. Korean videos are restored from original MP4s plus tracked VCDIFFs; no released patch archive is required. Historical initial snapshot is SOURCE_MANIFEST.json.",
   "files": [
     {
       "path": "assets/card_fonts/Galmuri7_8x8.png",
@@ -223,9 +223,64 @@
       "sha256": "9c58b0ad405b4a0035622ccc7ded3a18d9119425589b5b85ab6a54b49886e221"
     },
     {
+      "path": "assets/video_deltas/Game2Ending.xdelta",
+      "bytes": 22550601,
+      "sha256": "6011eb249e5e685144cf9352263fe660b4f14861eb418fc0e6a9073cf8dd2779"
+    },
+    {
+      "path": "assets/video_deltas/Game2Opening.xdelta",
+      "bytes": 13037627,
+      "sha256": "3d30e595a14c1b71220d3616f039ab2bc6192010a13f5d10d62a46e96233d86b"
+    },
+    {
+      "path": "assets/video_deltas/Game2Scene01.xdelta",
+      "bytes": 6486436,
+      "sha256": "7021a15c78618edc2ad22716dc2c6d6a709d2688a6cb34d44fb72990c01bd19d"
+    },
+    {
+      "path": "assets/video_deltas/Game2Scene04.xdelta",
+      "bytes": 6152739,
+      "sha256": "108a2ce0699121ca7d463ada0e8cff455cee7dd0b9325fb4fdabdb516fbeef40"
+    },
+    {
+      "path": "assets/video_deltas/Game2Scene05.xdelta",
+      "bytes": 9415905,
+      "sha256": "21427c1b5b72ed72e0e6d5f88d9374a10f5e43a8f15a7f6287d876866cfd0504"
+    },
+    {
+      "path": "assets/video_deltas/Game2Scene07.xdelta",
+      "bytes": 5482210,
+      "sha256": "71ea39b5815d1285f85d78349328d91aa9f7f7d19c411ddb90c3f23a68207f35"
+    },
+    {
+      "path": "assets/video_deltas/Game2Scene08.xdelta",
+      "bytes": 9389147,
+      "sha256": "fc79a8f6e826375a40d7709ed05afb4b387e57ac93b3cd91ecc1dfe97b2ae4d9"
+    },
+    {
+      "path": "assets/video_deltas/Game2Scene09.xdelta",
+      "bytes": 12441139,
+      "sha256": "26cb2741775577430cdb8877c845920b0c98c139b06bdd54fd16f19d9eb4af81"
+    },
+    {
+      "path": "assets/video_deltas/Game2Scene10.xdelta",
+      "bytes": 9840779,
+      "sha256": "4b424afc88c14f46985245ec8542ba65528117e7b5ff5736d22018d53e88b789"
+    },
+    {
+      "path": "assets/video_deltas/Game2Scene11.xdelta",
+      "bytes": 10522375,
+      "sha256": "64c8e672fb4d8783e9c73d8addd0d0b79da3f68baf625ac3cbb34e6e8f0f4526"
+    },
+    {
+      "path": "assets/video_deltas/manifest.json",
+      "bytes": 6337,
+      "sha256": "ee4dd5c358738f6b602dd549ef3d4fcdce63ad7e428eea7bb2064833463cb16d"
+    },
+    {
       "path": "config/rebuild_inputs.json",
-      "bytes": 2596,
-      "sha256": "363c291a15bd82ea26417b3cd24a423576dc6ee352fcb9a6d87c1f8e9ac8afe4"
+      "bytes": 1277,
+      "sha256": "e2738fa05a70a924b1c5d430ef0b94c0a9946c08acdefb1caade90a59bc0175d"
     },
     {
       "path": "config/release_payloads.json",
@@ -239,8 +294,8 @@
     },
     {
       "path": "requirements.txt",
-      "bytes": 89,
-      "sha256": "d32326b9bde35962caf480252cd5b57ba22652301f394e5695d5197078602dbc"
+      "bytes": 75,
+      "sha256": "f390f3455036c28b1ba8765eb19aebd23522a273bce9bef7b0eb3d632597e005"
     },
     {
       "path": "translation/card_game_extract/card_game_text_translation.csv",
@@ -304,8 +359,8 @@
     },
     {
       "path": "translation/scripts/build_reproducible.ps1",
-      "bytes": 1189,
-      "sha256": "0be435c16a1ff8bff877c110f54684b8b3b02824995b36c2a935def8b34a3d3c"
+      "bytes": 1078,
+      "sha256": "6f3b57ba85db7a36cee8d4f2e54b8adfb217834d821f2d9f3b2ee607613ce2e6"
     },
     {
       "path": "translation/scripts/build_st_replacements.py",
@@ -409,13 +464,18 @@
     },
     {
       "path": "translation/scripts/prepare_build_inputs.py",
-      "bytes": 6646,
-      "sha256": "266640ced87ff4eaaac43451c2185469e49e02ae0423e0a9711ed3e311b50dae"
+      "bytes": 4836,
+      "sha256": "592cc0eef91e7e75d77b13945d7ac1768df85658dd4e6f86a1fa60c7c7083be2"
     },
     {
       "path": "translation/scripts/remove_extra_style_tags.py",
       "bytes": 1323,
       "sha256": "e96b8d212103b6d8200020cf1eee6ff7f8043ed25b6bb0499688c83b8863030f"
+    },
+    {
+      "path": "translation/scripts/restore_compiled_videos.py",
+      "bytes": 4295,
+      "sha256": "2871b3e21af525ca63678ccd037c14004a26efae7e01b78cabcac45d8bdb703f"
     },
     {
       "path": "translation/scripts/restore_missing_style_tags.py",
