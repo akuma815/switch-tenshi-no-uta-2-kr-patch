@@ -1,0 +1,18 @@
+{
+  "src": "assets/screenshots/switch-tenshi-no-uta-2-kr-patch-capture-20261016.png",
+  "caption": "게임 소개·한글 메뉴",
+  "kind": "runtime",
+  "width": 3840,
+  "height": 2160,
+  "source": "Games/Tenshi no Uta 2/qa/user_public_capture_20261016/switch-tenshi-no-uta-2-kr-patch/screen.png",
+  "sourceSHA256": "d302b4da59a260a8f8cb913ae13a329455d80c717261650bac0074062602d9e5",
+  "assetSHA256": "d302b4da59a260a8f8cb913ae13a329455d80c717261650bac0074062602d9e5",
+  "pixelSHA256": "9eaaba87aa468a0f4cc8a845e61c7ec5f4ee25da9e3e45415b0c94170948ff4d",
+  "sourceNote": "사용자가 Citron에서 촬영한 Switch판 게임 소개·한글 메뉴 화면입니다. 설치 패치와 공개 배포본의 파일별 일치는 대조하지 않았습니다.",
+  "providedBy": "user",
+  "captureDate": "2026-10-16",
+  "originalCapturePath": "H:/Citron NEO/user/screenshots/010047b021296000_2026-10-16_15-23-06-619.png",
+  "preservation": "Native emulator PNG copied unchanged; no crop, rescale, retouch or format conversion.",
+  "readmeAsset": "img/capture-20261016.png",
+  "displayNote": "사용자가 Citron에서 촬영한 Switch판 게임 소개·한글 메뉴 화면입니다. 설치 패치와 공개 배포본의 파일별 일치는 대조하지 않았습니다."
+}

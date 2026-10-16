@@ -5,7 +5,11 @@ Nintendo Switch **천사의 시 2: The Fallen Angel** 한글 번역 패치 프�
 > **최종 배포 v1.5 Final**
 
 <!-- game-preview:start -->
-> 게임 소개 스크린샷은 준비 중입니다. 확인된 한글 화면을 확보하면 이 위치에 추가합니다.
+<p align="center">
+  <img src="img/capture-20261016.png" alt="천사의 시 2: The Fallen Angel — 게임 소개·한글 메뉴" width="640">
+</p>
+
+**게임 소개·한글 메뉴** — 사용자가 Citron에서 촬영한 Switch판 게임 소개·한글 메뉴 화면입니다. 설치 패치와 공개 배포본의 파일별 일치는 대조하지 않았습니다.
 <!-- game-preview:end -->
 
 ## 다운로드 및 적용 방법
