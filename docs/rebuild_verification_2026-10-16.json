@@ -64,11 +64,11 @@
     "named_game_folder_can_be_removed_with_retained_dependencies": true,
     "required_to_keep": [
       "Supported original NSP/update and private keyset on H:",
-      "Published Git source and fixed release assets",
+      "Current Git source including tracked video deltas",
       "External extraction/build tools",
       "Verified private authoring archive"
     ],
-    "special_condition": "Game 2 compiled Korean movies require the pinned v1.5 archive; authoring subtitle/encode recipes were not found.",
+    "special_condition": "Compiled Korean videos are now reconstructed from owned originals plus Git VCDIFFs. Keep the private authoring backup for editable records.",
     "performed": false,
     "scope": "Only this Switch game folder; the PCE project is outside scope."
   },
@@ -77,5 +77,7 @@
     "No new runtime, full playthrough, hardware, scene-visual or audio verification.",
     "Frozen release plans preserve the existing release; latest translation sheets were not changed.",
     "Editable manual PNGs are preserved in the private archive rather than reconstructed from cooked textures."
-  ]
+  ],
+  "superseded_video_dependency_assessment": "The earlier released-video-archive dependency is removed; see video_git_verification_2026-10-16.json.",
+  "latest_video_git_verification": "video_git_verification_2026-10-16.json"
 }

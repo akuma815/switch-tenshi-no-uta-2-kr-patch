@@ -1,0 +1,118 @@
+{
+  "status": "PASS",
+  "date": "2026-10-16",
+  "verified_source_commit": "ef8293996e82450413e98d22d2dabc524b92329d",
+  "source": "Fresh public GitHub clone with no video, release archive or input cache; external owned-original Paks and declared tools only.",
+  "generation": {
+    "video_count": 10,
+    "patch_total_bytes": 105318958,
+    "target_total_bytes": 150428110,
+    "installed_provenance": {
+      "emulator": "Eden",
+      "mod": "Korean_Patch",
+      "pak_name": "TenshiKR2_P.pak",
+      "pak_bytes": 169533722,
+      "pak_sha256": "7c3ff25befc093346b4cd80e7af9a5dd8ec008be6e52652d7dc2dd961284340b",
+      "matches_published_v1_5": true
+    },
+    "all_vcdiff_patches_reference_source": true,
+    "all_vcdiff_patches_omit_appheader": true,
+    "inverse_application_verified": true
+  },
+  "video_restoration": {
+    "status": "PASS",
+    "restored_video_count": 10,
+    "input_method": "Owned original MP4s plus Git-tracked xdelta3 patches",
+    "release_archive_required": false,
+    "installed_mod_required": false,
+    "network_used_by_restoration": false,
+    "videos": [
+      {
+        "name": "Game2Ending.mp4",
+        "bytes": 34989382,
+        "sha256": "11a7e14cfe22e9698a3fc7725e408986789666237b17b563fb4d99d8b3809825"
+      },
+      {
+        "name": "Game2Opening.mp4",
+        "bytes": 19057246,
+        "sha256": "ab57b28feb979c442871423559b41eb20a16719b4a9c8d9c6dbcf3b34876bd61"
+      },
+      {
+        "name": "Game2Scene01.mp4",
+        "bytes": 8973785,
+        "sha256": "bd5870c43aaab7db1df0d56a101a691f0c6a72736996b65df05b17dc4b182ff0"
+      },
+      {
+        "name": "Game2Scene04.mp4",
+        "bytes": 8648157,
+        "sha256": "fcd2d256e98e2dfbda4bdfdb477f8b0c9a525b9bf02f2ddfb641c1449605ee21"
+      },
+      {
+        "name": "Game2Scene05.mp4",
+        "bytes": 12803217,
+        "sha256": "c4bc3371957947a9a6e4df1da3ef88f2e612bbf1d5d29f09abfb7f2b1e9ea250"
+      },
+      {
+        "name": "Game2Scene07.mp4",
+        "bytes": 7587738,
+        "sha256": "2f736fcccd7aa97dc100587fe065fa2b7b53229381108115bb3735f5abea79c0"
+      },
+      {
+        "name": "Game2Scene08.mp4",
+        "bytes": 13706897,
+        "sha256": "12c0c08906237a593d90d7b02ad418950cb6651bfb1da2ccd5131223b13fefac"
+      },
+      {
+        "name": "Game2Scene09.mp4",
+        "bytes": 15756350,
+        "sha256": "77586fef79060eb6fb3138c45c70c9c79c6921d6b29f513fbc96b9120753684b"
+      },
+      {
+        "name": "Game2Scene10.mp4",
+        "bytes": 14902493,
+        "sha256": "2ff34e46cd6bf802b873f7c1d73070646d1eb2bdac1562353f46fe11805a0b67"
+      },
+      {
+        "name": "Game2Scene11.mp4",
+        "bytes": 14002845,
+        "sha256": "e048f2b0c08b1aeb9cf52032aa244fe8190c24dc2038280d4f390287390fbeb0"
+      }
+    ],
+    "limits": "Preserves compiled video bytes; no subtitle-authoring or re-encoding recipe claim. No new playback/visual QA."
+  },
+  "full_build_verification": {
+    "status": "PASS",
+    "evidence_class": "Build and decoded container payload verification; no new runtime test",
+    "iostore_payload_count": 76,
+    "all_iostore_payloads_equal_release": true,
+    "ufs_payload_count": 11,
+    "all_ufs_payloads_equal_release": true,
+    "font_pak_byte_identical": true,
+    "container_sha256": {
+      "TenshiKR2_P.pak": "bbfbfcd25cad5818c20e8fb2ee01dd4a81f947c5e2729e381c7147947f0033e0",
+      "TenshiKR2_P.ucas": "1a204709eaab123ea9e87fcc1a6723b3cfd01fcd6cb88db5b78173b1615f535e",
+      "TenshiKR2_P.utoc": "172cf7e7debb772b0615100972b9241988f8bb8c1062237276d90f0a492ca206",
+      "TenshiKR_Font_P.pak": "b3bf493377c1b0d950e6c0fc0d5fc1b43b556fc6da172e2ce4ea3b3bec9acc96"
+    },
+    "container_byte_identity": {
+      "TenshiKR2_P.pak": false,
+      "TenshiKR2_P.ucas": false,
+      "TenshiKR2_P.utoc": false,
+      "TenshiKR_Font_P.pak": true
+    },
+    "container_identity_note": "Container assembly bytes can differ. Payload equality is checked separately; byte-identical distribution archives remain on the pinned GitHub releases."
+  },
+  "offline_python_audit": {
+    "hook_load_count": 43,
+    "attempted_network_calls": 0,
+    "scope": "Python child audit hooks reject network resolution/connect events; not an OS firewall test."
+  },
+  "released_archive_required": false,
+  "installed_mod_required_to_rebuild": false,
+  "fresh_checkout_contains_7z": false,
+  "git_inputs_verified": 110,
+  "git_worktree_clean_after_build": true,
+  "game_folders_removed": false,
+  "installed_files_modified": false,
+  "runtime_or_new_scene_visual_review_performed": false
+}
